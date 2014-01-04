@@ -4,12 +4,15 @@ var outputfolder='bookxml/'
 var pali=require('./data/'+source+'.json');
 var out=[];
 var fs=require('fs');
-var booknames=require('./booknames.json')
+var booknames=require('./booknames.json');
+
 var convert=function(data) {
 	var lastbook="", bookn=1;
-	writefile=function(book) {
-		if (booknames[lastbook]) {
-			filename=booknames[lastbook].prefix+bookn+'.xml'
+	writefile=function() {
+		var B=booknames[lastbook-1];
+		if (B) {
+			filename=B.prefix+bookn+'.xml'
+			bookn++;
 		} else {
 			filename='!pts'+lastbook+'.xml';
 		}
@@ -30,11 +33,12 @@ var convert=function(data) {
 		
 		if (book!=lastbook) {
 			
-			if (lastbook) writefile();				
-			if (booknames[book]) {
-				out.push('<book n="'+book+'">'+booknames[book].name+'</book>');
-				bookn++;
-				bookn=booknames[book].resetbookn||bookn;
+			if (lastbook) writefile();
+
+			if (booknames[book-1]) {
+				out.push('<book n="'+book+'">'+booknames[book-1].name+'</book>');
+				//bookn++;
+				bookn=booknames[book-1].resetbookn||bookn;
 			} else {
 				out.push('<book n="'+book+'"></book>');
 			}
