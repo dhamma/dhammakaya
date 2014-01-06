@@ -1,0 +1,37 @@
+{
+  "name": "dhammakaya",
+  "repo": "https://github.com/yapcheahshen/dhammakaya.git",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yadb": "*",
+    "yase": "*",
+    "ksanaforge/boot": "*",
+    "ksanaforge/kse": "*",
+    "brighthas/bootstrap": "*",
+    "component/jquery": "*",
+    "dhammakaya/main": "*",
+    "dhammakaya/bodytext": "*",
+    "dhammakaya/pageselector": "*",
+    "ksanaforge/kse-mixins": "*"
+  },
+  "development": {},
+  "paths": [
+    "components",
+    "../kse-ui/components",
+    "../components",
+    "../node_modules/"
+  ],
+  "local": [
+    "facebook/react"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}

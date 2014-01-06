@@ -45,7 +45,8 @@ var convert=function(data) {
 			
 		}
 		out.push('<pb n="'+page+'"/>');
-		out.push(text.replace(/&/g,'&amp;'));
+		text=text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+		out.push(text);
 		lastbook=book;
 	})
 	writefile();
