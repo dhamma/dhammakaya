@@ -7,7 +7,7 @@ var pagestart={6:10, 7:9 ,8:7, //dn
 17:12,18:7,19:8,20:8,21:15
 
 }
-window.jQuery=Require("jquery");
+$=window.jQuery=Require("jquery");
 var magnify=Require("bootstrap-magnify")
 var imageview = React.createClass({
   getInitialState: function() {
@@ -26,8 +26,8 @@ var imageview = React.createClass({
       <img ref="magnifier" data-toggle="magnify" className="scanned" src={this.getimage()}></img>
     );
   },
-  componentDidMount:function() {
-   // $(this.refs.magnifier.getDOMNode()).magnify();
+  componentDidUpdate:function() {
+    $(this.refs.magnifier.getDOMNode()).magnify();
 
   }
 });
