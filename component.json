@@ -15,7 +15,8 @@
     "dhammakaya/bodytext": "*",
     "dhammakaya/pageselector": "*",
     "ksanaforge/kse-mixins": "*",
-    "dhammakaya/imageview": "*"
+    "dhammakaya/imageview": "*",
+    "socketio/socketio":"*"
   },
   "development": {},
   "paths": [
