@@ -2,6 +2,7 @@
 
 var pageselector=Require("pageselector"); 
 var bodytext=Require("bodytext"); 
+var imageview=Require("imageview"); 
 var main = React.createClass({
   mixins:Require('kse-mixins'),
   getInitialState: function() {
@@ -9,9 +10,14 @@ var main = React.createClass({
   },
   render: function() {
     return (
-      <div>
+      <div className="main row">
+        <div className="col-md-5">
         <pageselector onselect={this.setbkpg}/>
         <bodytext text={this.state.text}/>
+        </div>
+        <div className="col-md-5">
+         <imageview book={this.state.book} page={this.state.page}/>
+        </div> 
       </div>
     ); 
   }, 
@@ -22,7 +28,7 @@ var main = React.createClass({
   },
   loadtext:function(selector) {
 
-    this.$yase("getTextByTag",{db:this.state.db,selector:selector})
+    this.$yase("getTextByTag",{db:this.state.db,selector:selector,extraslot:1})
      .done(function(data){
        this.setState({text:data.text});
     })
@@ -30,7 +36,7 @@ var main = React.createClass({
   componentDidMount:function() {
     var customfunc=null;
     this.useDB(this.state.db,function(){
-      this.setbkpg(1,1);
+      this.setbkpg(6,1);
       console.log('db ready')      
     })
   },

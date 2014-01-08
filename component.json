@@ -14,7 +14,8 @@
     "dhammakaya/main": "*",
     "dhammakaya/bodytext": "*",
     "dhammakaya/pageselector": "*",
-    "ksanaforge/kse-mixins": "*"
+    "ksanaforge/kse-mixins": "*",
+    "dhammakaya/imageview": "*"
   },
   "development": {},
   "paths": [

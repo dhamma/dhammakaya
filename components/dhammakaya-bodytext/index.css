@@ -1,1 +1,9 @@
-.bodytext {}
+.bodytext {white-space: pre}
+p[n]:before {
+	content:" " attr(n) " ";background-color:lightblue;
+	border-radius: 5px;border-style:solid;border-color:black;
+	border-width: 1px;
+}
+pb:before { content: "---"  attr(n) "---"; color:blue;text-align:center} 
+
+fn:before { content:  " " attr(n) " "; color:yellow;border-radius:50%;background:brown} 

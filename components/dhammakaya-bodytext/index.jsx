@@ -3,7 +3,7 @@
 
 var bodytext = React.createClass({
   render: function() {
-    return  <pre><div dangerouslySetInnerHTML={{__html: this.props.text}} /></pre>
+    return  <div className="bodytext" dangerouslySetInnerHTML={{__html: this.props.text}} />
   },
 
 });
