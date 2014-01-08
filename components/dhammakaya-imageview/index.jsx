@@ -1,14 +1,20 @@
 /** @jsx React.DOM */
 
 //var othercomponent=Require("other"); 
-var offset={6:10,7:9}
+var pagestart={6:10, 7:9 ,8:7, //dn
+9:2,10:3,11:4,
+12:14 ,13:13, 14:13,15:11,16:10,//sn
+17:12,18:7,19:8,20:8,21:15
 
+}
+window.jQuery=Require("jquery");
+var magnify=Require("bootstrap-magnify")
 var imageview = React.createClass({
   getInitialState: function() {
-    return {bar: "world"};
+    return {bar: "world"}; 
   },
   getimage:function() {
-    var page="00"+(parseInt(this.props.page,10)+offset[this.props.book]);
+    var page="00"+(parseInt(this.props.page,10)+pagestart[this.props.book]);
     page=page.substring(page.length-3);
 
     var imagefn='images/'+this.props.book+'/'+page+".png";
@@ -17,8 +23,12 @@ var imageview = React.createClass({
   },
   render: function() {
     return (
-      <img className="scanned" src={this.getimage()}></img>
+      <img ref="magnifier" data-toggle="magnify" className="scanned" src={this.getimage()}></img>
     );
+  },
+  componentDidMount:function() {
+   // $(this.refs.magnifier.getDOMNode()).magnify();
+
   }
 });
 module.exports=imageview;

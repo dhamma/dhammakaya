@@ -16,7 +16,8 @@
     "dhammakaya/pageselector": "*",
     "ksanaforge/kse-mixins": "*",
     "dhammakaya/imageview": "*",
-    "socketio/socketio":"*"
+    "socketio/socketio":"*",
+    "marcaube/bootstrap-magnify":"*"
   },
   "development": {},
   "paths": [
