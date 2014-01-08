@@ -23,12 +23,13 @@ var imageview = React.createClass({
   },
   render: function() {
     return (
-      <img ref="magnifier" data-toggle="magnify" className="scanned" src={this.getimage()}></img>
+      <div >
+      <img ref="magnifier" className="scanned" src={this.getimage()}></img>
+      </div>
     );
   },
   componentDidUpdate:function() {
-    $(this.refs.magnifier.getDOMNode()).magnify();
-
+  //  $(this.refs.magnifier.getDOMNode()).magnify();
   }
 });
 module.exports=imageview;
