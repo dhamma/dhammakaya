@@ -3,6 +3,7 @@
 var pageselector=Require("pageselector"); 
 var bodytext=Require("bodytext"); 
 var imageview=Require("imageview"); 
+var footnote=Require("footnote"); 
 var main = React.createClass({
   mixins:Require('kse-mixins'),
   getInitialState: function() {
@@ -13,7 +14,8 @@ var main = React.createClass({
       <div className="main row">
         <div className="col-md-5">
         <pageselector onselect={this.setbkpg}/>
-        <bodytext text={this.state.text}/>
+        <footnote db={this.state.db} book={this.state.book} page={this.state.page}  fn={this.state.fn}/>
+        <bodytext onFootnote={this.onFootnote} book={this.state.book} page={this.state.page} text={this.state.text}/>
         </div>
         <div className="col-md-5">
          <imageview book={this.state.book} page={this.state.page}/>
@@ -21,6 +23,9 @@ var main = React.createClass({
       </div>
     ); 
   }, 
+  onFootnote:function(fn) {
+    this.setState({fn:parseInt(fn,10)})
+  },
   setbkpg:function(bk,pg) {
     var selector=["book[n="+bk,"pb[n="+pg];
     this.setState({book:bk,page:pg});

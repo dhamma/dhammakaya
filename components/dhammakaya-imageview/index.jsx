@@ -19,7 +19,7 @@ var imageview = React.createClass({
     page=page.substring(page.length-3);
 
     var imagefn='images/'+this.props.book+'/'+page+".png";
-    console.log(imagefn)
+   // console.log(imagefn)
     return imagefn;
   },
   render: function() {

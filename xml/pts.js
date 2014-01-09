@@ -3,6 +3,7 @@ console.log(require('yase').build({
 	dbid:'ptsmul',
 	slotshift:8,
 	loglevel:2,
+	estimate:1024*1024*50,
 	title: 'PTS Tipitaka Mula',
 	groupunit:['p[n]'],
 	schema:function() {
@@ -16,6 +17,9 @@ console.log(require('yase').build({
 	url:'http://www.ksana.tw',
 	version:'0.0.1',
 	outputencoding:'utf8',
+	extra: {
+		footnote: require('../data/footpg1.json'),
+	},
 	//maxfile:1,
 	customfunc:require('./ptscustom.js')
 }));
