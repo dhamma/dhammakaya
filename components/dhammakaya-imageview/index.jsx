@@ -1,12 +1,13 @@
 /** @jsx React.DOM */
 
 //var othercomponent=Require("other"); 
-var pagestart={6:10, 7:9 ,8:7, //dn
-9:2,10:3,11:4,
-12:14 ,13:13, 14:13,15:11,16:10,//sn
-17:12,18:7,19:8,20:8,21:15
-
-}
+var pagestart=[0,
+57,7,6,5,5, //vinaya
+10, 9 ,6, //dn
+8,3,4, //mn
+14 ,13, 13,11,10,//sn
+12,7,8,8,14 //an
+]
 $=window.jQuery=Require("jquery");
 var magnify=Require("bootstrap-magnify")
 var imageview = React.createClass({
