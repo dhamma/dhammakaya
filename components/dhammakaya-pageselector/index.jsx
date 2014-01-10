@@ -4,14 +4,14 @@
 var pageinput = React.createClass({
   render:function() {
     return (
-      <input type="text"  defaultValue="1" onInput={this.props.oninput}></input>
+      <input type="text" defaultValue={this.props.page} onInput={this.props.oninput}></input>
     )
   }
 });
 var bookselect = React.createClass({
   render:function() {
     return (
-      <select onChange={this.props.onchange}>
+      <select value={this.props.book} onChange={this.props.onchange}>
         <option value="6">Digha Nikaya Book 1</option>
         <option value="7">Digha Nikaya Book 2</option>
         <option value="8">Digha Nikaya Book 3</option>
@@ -56,9 +56,9 @@ var pageselector = React.createClass({
   render: function() {
     return (
       <div>
-       <bookselect ref="book" onchange={this.userselect}/>
+       <bookselect book={this.props.book} ref="book" onchange={this.userselect}/>
        <button onClick={this.prevpage}>&#171;</button>
-       <pageinput ref="page" oninput={this.userselect}/>
+       <pageinput page={this.props.page}  ref="page" oninput={this.userselect}/>
        <button onClick={this.nextpage}>&#187;</button>
       </div>
     );
