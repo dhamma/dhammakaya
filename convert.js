@@ -1,7 +1,7 @@
 var source='pali1';
 var outputname='mul';
 var outputfolder='bookxml/'
-var pali=require('./data/'+source+'.json');
+var sourcetext=require('./data/'+source+'.json');
 var out=[];
 var fs=require('fs');
 var booknames=require('./booknames.json');
@@ -54,4 +54,4 @@ var convert=function(data) {
 	
 }
 
-convert(pali);
+convert(sourcetext);
