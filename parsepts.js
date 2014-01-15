@@ -82,23 +82,20 @@ var dnstarts={"1:1":"d1","1:47":"d2","1:87":"d3","1:111":"d4","1:127":"d5","1:15
 
 var splitout=[],lastsplitfile="";
 savesplitfile=function(fn) {
-	
 	if (lastsplitfile) {
 		console.log('save',lastsplitfile)
 		fs.writeFileSync(outputfolder+lastsplitfile+'.xml',splitout.join('\n'),'utf8');
-		splitout=[];	
+		splitout=[];
 	}
 	lastsplitfile=fn;
 }
-splitdn=function(arr,bk) {
 
+splitdn=function(arr,bk) {
 	for (var i in arr) {
 		if (arr[i].substring(0,4)=='<pb ') {
 			pb=parseInt(arr[i].substring(7),10);
-
 			var dseq=dnstarts[bk+':'+pb];
 			if (dseq) {
-
 				savesplitfile(dseq);
 			}
 		}
@@ -106,17 +103,36 @@ splitdn=function(arr,bk) {
 	}
 	savesplitfile();
 }
+var nextmnbook=1;
 splitmn=function(arr,bk) {
-
+	for (var i in arr) {
+		s=arr[i].trim();
+		n=parseInt(s,10)
+		if (s.length-1==n.toString().length && n==nextmnbook) {
+			savesplitfile('m'+n);
+			nextmnbook++;
+		}	
+		splitout.push(arr[i]);
+	}
+	savesplitfile();
 }
+var nextsn=1;
 splitsn=function(arr,bk) {
-
+	for (var i in arr) {
+		idx=arr[i].indexOf(' BOOK ');
+		if (idx>-1){
+			savesplitfile('s'+nextsn);
+			nextsn++;
+		}	
+		splitout.push(arr[i]);
+	}
+	savesplitfile();
 }
 splitan=function(arr,bk) {
 
 }
 splitfile=function(f){
-
+/* different stragegy to split */
 	var arr=fs.readFileSync(sourcefolder+f,'utf8').replace(/\r\n/g,'\n').split('\n');
 	var bk=parseInt(f.substring(2),10);
 	if (f[0]=='d')      splitdn(arr,bk);
