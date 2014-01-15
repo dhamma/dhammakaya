@@ -103,14 +103,14 @@ splitdn=function(arr,bk) {
 	}
 	savesplitfile();
 }
-var nextmnbook=1;
+var nextmn=1;
 splitmn=function(arr,bk) {
 	for (var i in arr) {
 		s=arr[i].trim();
 		n=parseInt(s,10)
-		if (s.length-1==n.toString().length && n==nextmnbook) {
+		if (s.length-1==n.toString().length && n==nextmn) {
 			savesplitfile('m'+n);
-			nextmnbook++;
+			nextmn++;
 		}	
 		splitout.push(arr[i]);
 	}
@@ -128,8 +128,17 @@ splitsn=function(arr,bk) {
 	}
 	savesplitfile();
 }
+var nextan=1;
 splitan=function(arr,bk) {
-
+	for (var i in arr) {
+		idx=arr[i].indexOf('-NIPĀTA');
+		if (idx>-1){
+			savesplitfile('a'+nextan);
+			nextan++;
+		}	
+		splitout.push(arr[i]);
+	}
+	savesplitfile();
 }
 splitfile=function(f){
 /* different stragegy to split */
@@ -171,7 +180,9 @@ dofile=function(f){
 	
 }
 booklst.map(function(file){splitfile(file)});
-
+if (nextmn!=153) throw 'mn wrong'+nextsn
+if (nextsn!=57) throw 'sn wrong'+nextsn
+if (nextan!=12) throw 'an wrong'+nextan
 /*
 
 lst.map(function(file){dofile(file)});
