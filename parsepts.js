@@ -29,6 +29,8 @@ parseFootnote=function(line,linenum) {
 		if (line[i]=='<') intag=true;
 		if (line[i]=='[') inbracket=true;
 		if (!intag && !inbracket) {
+			while (line[i]==' ' && i<line.length) out+=line[i++];
+
 			id=parseInt(line.substring(i),10);
 			if (id>0 ) {
 				if (id==fnid || id+1==fnid) { //same footnote number might happen more than once
@@ -40,18 +42,14 @@ parseFootnote=function(line,linenum) {
 						foundfncount++;
 						continue;
 					} else {
-						out+='<fn n="'+id+'" notfound=true/>';
+						out+='<fn n="'+id+'" notfound="true"/>';
 						nofootnote.push(book+'.'+page+'='+id);
 					}
 				} else {
 					//skip whole number
-					while (i<out.length && out[i]>='0' && out[i]<='9') {
-						out+=line[i];
-						i++;
-					}
+					while (i<line.length && line[i]>='0' && line[i]<='9') out+=line[i++];
 				}
 				//possiblefn.push(filenow+':'+linenum+'='+page+':'+id);
-
 			}
 		}
 		if (i>=line.length) break;
@@ -150,7 +148,7 @@ splitfile=function(f){
 	else if (f[0]=='a') splitan(arr,bk);
 }
 dofile=function(f){
-	//console.log('processing',f)
+	console.log('processing',f)
 	var arr=fs.readFileSync(outputfolder+f,'utf8').replace(/\r\n/g,'\n').split('\n');
 	var out=[];
 	var lastpid=0;
@@ -164,26 +162,17 @@ dofile=function(f){
 			fnid=1;
 		}
 		filenow=f;
-		var pid=parseParagraphid(line);
-		if (pid) {
-			if (pid-1!=lastpid) {
-				wrongpid.push(filenow+':'+i+'='+pid+' expect:'+(lastpid+1));
-			}
-			//line=line.trim().substring(pid.toString().length+1);
-			//line='<p n="'+pid+'"/>'+line;
-			lastpid=pid;
-		}
+		//parse foot note
 		line=parseFootnote(line,i);
 		out.push(line);
 	}
-	//fs.writeFileSync(outputfolder+f,out.join('\n'),'utf8');
+	fs.writeFileSync(outputfolder+f,out.join('\n'),'utf8');
 	
 }
 booklst.map(function(file){splitfile(file)});
 if (nextmn!=153) throw 'mn wrong'+nextsn
 if (nextsn!=57) throw 'sn wrong'+nextsn
 if (nextan!=12) throw 'an wrong'+nextan
-/*
 
 lst.map(function(file){dofile(file)});
 
@@ -193,4 +182,3 @@ fs.writeFileSync('./error/wrongpid.json',wrongpid.join('\n'),'utf8')
 fs.writeFileSync('./error/nofootnote.json',nofootnote.join('\n'),'utf8')
 console.log('total foot note match',foundfncount)
 console.log('missing foot note',nofootnote.length	)
-*/
