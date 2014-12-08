@@ -9,7 +9,6 @@ found error in first 4 nikaya
 
 "bk":17,"pg":104 ==> check printed, missing 1.
 */
-var csv = require('csv');
 var fs = require('fs');
 var source='footpg1';
 var fields=null;
@@ -47,33 +46,58 @@ var splitfn=function(fn,bk,pg) {
 	return out;
 }
 
-csv()
-.from.stream(fs.createReadStream('./data/'+source+'.csv','ascii'))
-.transform( function(R,index){
-	if (index==0) {
-		fields=R;
-		console.log(R)
-		return null;
+var data=fs.readFileSync('./data/'+source+'.csv','ascii').split("\r\n");
+
+var processline=function(line,idx){
+	if (idx==0) return;
+	if (!line) return;
+	var arr=line.split('","');
+	if (arr.length!=14){
+		console.log("error data at "+idx+" "+arr.length+"["+line+"]")
+		return;
 	}
 
-	var footnote = new Buffer(R[UNITEXT],'base64');
+	var s=arr[arr.length-1];
+	s=s.substr(0,s.length-1);
+	arr[arr.length-1]=s;
+	
+	s=arr[0];
+	s=s.substr(1);
+	arr[0]=s;
+	processfields(arr);
+}
 
-  var fn = footnote.toString();
-  fn=fn.replace(/\r\n/g,'\n').replace(/\r/g,'\n');
-  //fn=fn.replace(/\r/g,'\\n');
-  if (fn.indexOf('"')>-1) {
-  	console.log('has double quote','bk'+R[BOOKNO],' page'+R[PAGENO]);
-  }
-  // don't know R[CODE] means
-  notes=splitfn(fn,R[BOOKNO],R[PAGENO])
-	if (notes.length) output.push({ bk:parseInt(R[BOOKNO],10), pg:parseInt(R[PAGENO],10), notes: notes});
+/*
+csv.generate({seed: 1, columns: 5}, function(err, data){
+	console.log(data)
+	csv.parse(data,function(err,data2){
+		csv.transform(data2, function(R,index){
+			if (index==0) {
+				fields=R;
+				console.log(R)
+				return null;
+			}
+		  console.log(index);
+		},finish)
+	});
+});
+*/
+var processfields=function(R){
+	  var footnote = new Buffer(R[UNITEXT],'base64');
 
-	return null;	
-})
-.on('record', function(row,index){
- // console.log('#'+index+' '+JSON.stringify(row));
-})
-.on('end', function(count){
+	  var fn = footnote.toString();
+	  fn=fn.replace(/\r\n/g,'\n').replace(/\r/g,'\n');
+	  //fn=fn.replace(/\r/g,'\\n');
+	  if (fn.indexOf('"')>-1) {
+	  	console.log('has double quote','bk'+R[BOOKNO],' page'+R[PAGENO]);
+	  }
+	  // don't know R[CODE] means
+	  notes=splitfn(fn,R[BOOKNO],R[PAGENO])
+	  if (notes.length) output.push({ bk:parseInt(R[BOOKNO],10), pg:parseInt(R[PAGENO],10), notes: notes});
+
+	  return null;
+}
+var finish=function(){
   output.sort(function(a,b){return (a.bk*512+a.pg) - (b.bk*512+b.pg) })	;
   out=output.map(function(L){
   	return '"'+L.bk+'.'+L.pg+'":'+JSON.stringify(L.notes)
@@ -81,9 +105,8 @@ csv()
 
   json='{\n'+out.join(',\n')+'\n}';
 	fs.writeFileSync('./data/'+source+'.json',json,'utf8')
-
 	fs.writeFileSync('./data/errfootnote.json',errfootnote.join('\n'),'utf8')
-})
-.on('error', function(error){
- // console.log(error.message);
-});
+}
+
+data.map(processline);
+finish();
