@@ -7,7 +7,10 @@ var out=[];
 var fs=require('fs');
 var booknames=require('./booknames.json');
 var writeToDisk=true;
-var startbook=7, endbook=9 , prevfootnote=1;
+//var startbook=7, endbook=9;
+var startbook=0,endbook=100;
+var prevfootnote=1;
+
 var page,book;
 var pat1=/([a-zA-ZāĀīĪūŪṃṂṅṄñÑṭṬḍḌṇṆḷḶḥḤṛṚśŚṣṢṝṜḹḸ,.{}'”’\-: ]{2,})(\d+)([! .?-”]?)/g;
 var pat2=/(\d+)(?!.)/g
@@ -34,8 +37,8 @@ var parseParagraph=function(content) {
 	return content;
 }
 var parsePage=function(content){
-	content=parseParagraph(content||"");
-	content=parseFootnote(content||"");
+	//content=parseParagraph(content||"");
+	//content=parseFootnote(content||"");
 	return content;
 }
 
