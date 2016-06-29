@@ -32,7 +32,7 @@ var parseParagraph=function(content) {
 	var pat=/ (\d+)\./g
 
 	content=content.replace(pat,function(m,m1){
-		return "^"+m1+"^";
+		return "^"+m1;
 	});
 	return content;
 }
@@ -73,11 +73,13 @@ var convert=function(data) {
 		var text=parsePage(D[2]);
 		if (!text) return;
 		
+		
 		if (book!=prevbook) {			
 			if (prevbook) writefile();
-			out.push('~~'+book);			
+			//out.push('~~'+book);			
 		}
-		out.push('~'+page);
+		
+		out.push('~'+book+"."+page);
 		//text=text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 		out.push(text);
 		prevfootnote=1;

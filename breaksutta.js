@@ -35,7 +35,8 @@ savesplitfile=function(fn) {
 splitdn=function(arr,bk) {
 	for (var i in arr) {
 		if (arr[i].substring(0,1)=='~') {
-			pb=parseInt(arr[i].substring(1),10);
+			m=arr[i].match(/~(\d+)\.(\d+)/);
+			pb=parseInt(m[2],10);
 			var dseq=dnstarts[bk+':'+pb];
 			if (dseq) {
 				savesplitfile(dseq);
