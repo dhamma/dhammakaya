@@ -1,6 +1,6 @@
 var fs=require('fs')
 var sourcefolder='genxml/';
-var outputfolder='xml/';
+var outputfolder='genhtll/';
 var booklst=fs.readFileSync('./pts.lst','utf8').replace(/\r\n/g,'\n').split('\n');
 
 var lst=fs.readFileSync(outputfolder+'/ptsmul.lst','utf8').replace(/\r\n/g,'\n').split('\n');
@@ -26,7 +26,7 @@ var splitout=[],lastsplitfile="";
 savesplitfile=function(fn) {
 	if (lastsplitfile) {
 		console.log('save',lastsplitfile)
-		fs.writeFileSync(outputfolder+lastsplitfile+'.xml',splitout.join('\n'),'utf8');
+		fs.writeFileSync(outputfolder+lastsplitfile+'.txt',splitout.join('\n'),'utf8');
 		splitout=[];
 	}
 	lastsplitfile=fn;
