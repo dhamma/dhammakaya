@@ -1,0 +1,122 @@
+var notfound={};
+var mapping={
+	0x86:'&#x86;',
+	0xa0:'ḷ', //only 3 occurence in footpg1
+	0x9b:'&#x9b;',
+	0xe081:'A',
+	0xe082:'Ā',
+	0xe083:'a',
+	0xe084:'ā',
+	0xe085:'B',
+	0xe086:'b',
+	0xe087:'C',
+	0xe088:'c',
+	0xe089:'D',
+	0xe08a:'Ḍ',
+	0xe08b:'d',
+	0xe08c:'ḍ',
+	0xe08d:'E',
+  0xe08e:'e',
+  0xe08f:'G',
+  0xe090:'g',
+  0xe091:'H',
+  0xe092:'Ḥ',
+	0xe093:'h',
+	0xe094:'ḥ',
+	0xe095:'I',
+	0xe096:'Ī',
+	0xe097:'i',
+	0xe098:'ī',
+	0xe099:'J',
+	0xe09a:'j',
+	0xe09b:'K',
+	0xe09c:'k',
+	0xe09d:'L', 
+	//0xe09e
+	//0xe09f
+	0xe0a0:'Ḷ' ,//guess
+	0xe0a1:'l',
+	0xe0a2:'&#xe0a2;', //guess
+	0xe0a3:'0#xe0a3;', // not found in text
+	0xe0a4:'ḷ',
+	0xe0a5:'M',
+	0xe0a8:'Ṃ',
+  0xe0a9:'m',
+  0xe0ac:'ṃ',
+  0xe0ad:'N',
+  0xe0af:'Ñ',
+  0xe0b0:'Ṅ', //guess
+  0xe0b1:'Ṇ',
+	0xe0b2:'n',
+	0xe0b4:'ñ',
+	0xe0b5:'ṅ',
+	0xe0b6:'ṇ',
+	0xe0b7:'O',
+	0xe0b8:'o',
+	0xe0b9:'P',
+  0xe0ba:'p',
+  0xe0bb:'R',
+  //0xe0bc:
+  //0xe0bd:
+  //0xe0be:
+  //0xe0bf:
+	0xe0c0:'r',
+	//0xe0c1
+	//0xe0c2
+	0xe0c3:'&#xe0c3;',
+	//0xe0c4
+	0xe0c5:'S',
+	0xe0c6:'Ś',
+	0xe0c7:'Ṣ',
+  0xe0c8:'s',
+  0xe0c9:'ś',
+  0xe0ca:'ṣ',
+  0xe0cb:'T',
+  0xe0cc:'Ṭ',
+  0xe0cd:'t',
+  0xe0ce:'ṭ',
+  0xe0cf:'U',
+  0xe0d0:'Ū',
+  0xe0d1:'u',
+  0xe0d2:'ū',
+  0xe0d3:'V',
+  0xe0d4:'v',
+  0xe0d5:'Y',
+  0xe0d6:'y',
+  0xe0d7:'|',
+  0xe0d8:'║',
+  0xe0d9:'†',
+  0xe0da:'‡',
+  0xe0db:'§',
+  0xe0dc:'‘',
+  0xe0dd:'’',
+  0xe0de:'“',
+  0xe0df:'”',
+  0xe0e0:'',
+  0xe0fe:'º',
+  0xe0ff:'＝', // s12.txt , v13p39
+}
+
+var decodeText=function(t){
+	var o="",lastpali=false;
+	for (var i=0;i<t.length;i++) {
+		var c=t.charCodeAt(i);
+		if (c>128) {
+			if (!lastpali)o+='`';
+			o+=mapping[c]|| c.toString(16);
+			if (!mapping[c]) {
+				if (!notfound[c.toString(16)])notfound[c.toString(16)]=0;
+				notfound[c.toString(16)]++;
+			}
+			lastpali=true;
+		} else {
+			if (lastpali) o+='`';
+			o+=t[i];
+			lastpali=false;
+		}
+	}
+
+	return o;
+}
+
+module.exports={decodeText:decodeText,notfound:notfound};
