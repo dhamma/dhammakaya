@@ -1,17 +1,19 @@
 /* */
-var source='palipg1';
 var outputname='mul';
-var outputfolder='genxml/'
 var out=[];
 var fs=require('fs');
-var sourcetext=fs.readFileSync("data/"+source+".tsv","utf8").split("\n");
-for (var i=0;i<sourcetext.length;i++) {
-	sourcetext[i]=sourcetext[i].split("\t");
-	if (sourcetext[i][2]) {
-		sourcetext[i][2]=sourcetext[i][2].replace(/\\n/g,"\n").replace(/\\t/g,"\t");
-		var s=sourcetext[i][2];
-		if (s[s.length-1]=="\n") sourcetext[i][2]=s.substr(0,s.length-1);
-	}
+
+var processfile=function(fn,outputfolder){
+	var sourcetext=fs.readFileSync("data/"+fn+".tsv","utf8").split("\n");
+	for (var i=0;i<sourcetext.length;i++) {
+		sourcetext[i]=sourcetext[i].split("\t");
+		if (sourcetext[i][2]) {
+			sourcetext[i][2]=sourcetext[i][2].replace(/\\n/g,"\n").replace(/\\t/g,"\t");
+			var s=sourcetext[i][2];
+			if (s[s.length-1]=="\n") sourcetext[i][2]=s.substr(0,s.length-1);
+		}
+	}	
+	convert(sourcetext,outputfolder);
 }
 var booknames=require('./booknames.json');
 var writeToDisk=true;
@@ -44,13 +46,8 @@ var parseParagraph=function(content) {
 	});
 	return content;
 }
-var parsePage=function(content){
-	//content=parseParagraph(content||"");
-	//content=parseFootnote(content||"");
-	return content;
-}
 
-var convert=function(data) {
+var convert=function(data,outputfolder) {
 	var prevbook="", bookn=1 , voln=1 ,lastprefix="";
 	writefile=function() {
 		var B=booknames[prevbook-1];
@@ -78,9 +75,8 @@ var convert=function(data) {
 			return;
 		}
 
-		var text=parsePage(D[2]);
+		var text=D[2];
 		if (!text) return;
-		
 		
 		if (book!=prevbook) {			
 			if (prevbook) writefile();
@@ -97,4 +93,5 @@ var convert=function(data) {
 		
 }
 
-convert(sourcetext);
+processfile("palipg1","genxml/");
+//processfile("palipg2","genxml2/"); //atthakata
