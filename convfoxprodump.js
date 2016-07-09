@@ -27,12 +27,16 @@ var convert=function(content){
 		var t=text;
 		if (text.substr(0,8)=='"[CDATA[') {
 			text=text.substr(8);
-			text=text.substr(0,text.length-3);
+			text=text.substr(0,text.length-3);//remove ]]"
 			t=new Buffer(text,'base64').toString();
 			t=t.replace(/\r?\n/g,"\n").replace(/\r/g,"\n").replace(/\n/g,"\\n");
 			t=t.replace(/\t/g,"\\t");
-		} else {
-			t=t.substring(1,t.length-1);
+			if (t.charCodeAt(0)==0xfeff) {
+				t=t.substr(1);
+			}
+
+		} else if (t[0]=='"' && t[t.length-1]=='"') {
+				t=t.substring(1,t.length-1); //remove leading and tailing "	
 		}
 		var tagname=stack[stack.length-1];
 		//FOOTNLINE and NLINE is simply line count of FOOTNOTE, not accurate
@@ -65,7 +69,7 @@ var convertfile=function(fn){
 	fs.writeFileSync("data/"+fn.substr(0,fn.length-4)+".tsv",out.join("\n"),"utf8");
 }
 
-//convertfile("palipg1.xml");
+convertfile("palipg1.xml");
 convertfile("palipg2.xml");
-//convertfile("footpg1.xml");
-//convertfile("footpg2.xml");
+convertfile("footpg1.xml");
+convertfile("footpg2.xml");

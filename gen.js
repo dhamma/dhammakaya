@@ -1,10 +1,18 @@
 /* */
-var source='pali1';
+var source='palipg1';
 var outputname='mul';
 var outputfolder='genxml/'
-var sourcetext=require('./data/'+source+'.json');
 var out=[];
 var fs=require('fs');
+var sourcetext=fs.readFileSync("data/"+source+".tsv","utf8").split("\n");
+for (var i=0;i<sourcetext.length;i++) {
+	sourcetext[i]=sourcetext[i].split("\t");
+	if (sourcetext[i][2]) {
+		sourcetext[i][2]=sourcetext[i][2].replace(/\\n/g,"\n").replace(/\\t/g,"\t");
+		var s=sourcetext[i][2];
+		if (s[s.length-1]=="\n") sourcetext[i][2]=s.substr(0,s.length-1);
+	}
+}
 var booknames=require('./booknames.json');
 var writeToDisk=true;
 //var startbook=7, endbook=9;
