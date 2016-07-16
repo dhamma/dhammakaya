@@ -1,33 +1,33 @@
 ~6.161
                    [viii. Kassapa Sīhanāda Sutta.]
-     1. Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Ujuñ-
-ñāyaṃ1 viharati Kaṇṇakatthale2 miga-dāye. Atha kho
+     ^1. Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Ujuñ-
+ñāyaṃ#1 viharati Kaṇṇakatthale#2 miga-dāye. Atha kho
 acelo Kassapo yena Bhagavā ten' upasaṃkami, upasaṃ-
 kamitvā Bhagavatā saddhiṃ sammodi, sammodanīyaṃ
 kathaṃ sārāṇīyaṃ vītisāretvā ekamantaṃ atthāsi. Eka-
 mantaṃ ṭhito kho acelo Kassapo Bhagavantaṃ etad
 avoca:
-     2. ‘Sutam m' etaṃ bho Gotama: “Samaṇo Gotamo
-sabban tapaṃ garahati, sabban tapassiṃ lūkhājīviṃ3 ekaṃ-
+     ^2. ‘Sutam m' etaṃ bho Gotama: “Samaṇo Gotamo
+sabban tapaṃ garahati, sabban tapassiṃ lūkhājīviṃ#3 ekaṃ-
 sena upakkosati upavadatīti.” Ye te bho Gotama evam
 āhaṃsu: “Samaṇo Gotamo sabban tapaṃ garahati,
 sabban tapassiṃ lūkhājīviṃ ekaṃsena upakkosati upavada-
-tīti,” kacci te bho4 Gotamassa vutta-vādino, na ca Bhaga-
+tīti,” kacci te bho#4 Gotamassa vutta-vādino, na ca Bhaga-
 vantaṃ Gotamaṃ abhūtena abbhācikkhanti, dhammassa
 cānudhammaṃ vyākaronti, na ca koci sahadhammiko
 vādānuvādo gārayhaṃ ṭhānaṃ āgacchati? Anabbhakkhātu-
-kāmā hi mayaṃ bhavantam Gotaman ti.’5
-     3. ‘Ye te Kassapa evam āhaṃsu: “Samaṇo Gotamo
+kāmā hi mayaṃ bhavantam Gotaman ti.’#5
+     ^3. ‘Ye te Kassapa evam āhaṃsu: “Samaṇo Gotamo
 sabban tapaṃ garahati, sabban tapassiṃ lūkhājīviṃ ekaṃ-
 sena upakkosati upavadatīti,” na me te vutta-vādino,
 abbhācikkhanti ca pana man te asatā abhūtena. Idhā-
 haṃ Kassapa ekaccan tapassiṃ lūkhājīviṃ passāmi, dibbena
 ~6.162
-cakkhunā visuddhena atikkanta-mānusakena1 . . . pe2
+cakkhunā visuddhena atikkanta-mānusakena#1 . . . pe#2
  . . . kāyassa bhedā param maraṇā apāyaṃ duggatiṃ
-vinipātaṃ nirayaṃ uppannaṃ.3 Idha panāhaṃ Kassapa
+vinipātaṃ nirayaṃ uppannaṃ.#3 Idha panāhaṃ Kassapa
 ekaccaṃ tapassiṃ lūkhājīviṃ passāmi dibbena cakkhunā
-visuddhena atikkanta-mānusakena . . . pe4 . . . kāyassa
+visuddhena atikkanta-mānusakena . . . pe#4 . . . kāyassa
 bhedā param maraṇā sugatiṃ saggaṃ lokaṃ uppannaṃ.
 Idhāhaṃ Kassapa ekaccaṃ tapassiṃ appa-dukkha-vihāriṃ
 passāmi dibbena cakkhunā visuddhena atikkanta-mānu-
@@ -37,15 +37,15 @@ Kassapa ekaccaṃ tapassiṃ appa-dukkha-vihāriṃ passāmi
 dibbena cakkhunā visuddhena atikkanta-mānusakena . . .
 pe . . . kāyassa bhedā param maraṇā sugatiṃ saggaṃ
 lokaṃ uppannaṃ. {Yo 'haṃ} Kassapa imesaṃ tapassīnaṃ
-evaṃ āgatiñ5 ca gatiñ ca cutiñ ca uppattiñ6 ca yathā-
+evaṃ āgatiñ#5 ca gatiñ ca cutiñ ca uppattiñ#6 ca yathā-
 bhūtaṃ pajānāmi, so 'haṃ kiṃ sabbaṃ tapaṃ garahissāmi,
-sabbaṃ7 tapassiṃ lūkhājīviṃ ekaṃsena upakkosissāmi
+sabbaṃ#7 tapassiṃ lūkhājīviṃ ekaṃsena upakkosissāmi
 upavadissāmi?
-     4. ‘Santi Kassapa eke samaṇa-brāhmaṇā paṇḍita nipuṇā
-kata-para-ppavādā vāla-vedhirūpā vobhindantā8 maññe
+     ^4. ‘Santi Kassapa eke samaṇa-brāhmaṇā paṇḍita nipuṇā
+kata-para-ppavādā vāla-vedhirūpā vobhindantā#8 maññe
 caranti paññā-gatena diṭṭhi-gatāni. Tehi pi me saddhiṃ
 ekaccesu ṭhānesu sameti, ekaccesu ṭhānesu na sameti.
-Yan te ekaccaṃ vadenti9 “sādhūti,” mayaṃ pi taṃ
+Yan te ekaccaṃ vadenti#9 “sādhūti,” mayaṃ pi taṃ
 ekaccaṃ vadema “sādhūti.” Yan te ekaccaṃ vadenti
 “na sādhūti,” mayaṃ pi taṃ ekaccaṃ vadema “na
 sādhūti.” Yan te ekaccaṃ vadenti “sādhūti,” mayan taṃ
@@ -59,17 +59,17 @@ ekaccaṃ vadenti “sādhūti.” Yaṃ mayaṃ ekaccaṃ vadema
 ekaccaṃ vadenti “na sādhūti.” 1Yaṃ mayaṃ ekaccaṃ
 vadema “na sādhūti,” pare pi taṃ ekaccaṃ vadenti
 “sādhūti.”
-     5. ‘Tyāhaṃ upasaṃkamitvā evaṃ vadāmi: “Yesu no
+     ^5. ‘Tyāhaṃ upasaṃkamitvā evaṃ vadāmi: “Yesu no
 avuso ṭhānesu na sameti, tiṭṭhantu tāni ṭhānāni. Yesu
 ṭhānesu sameti, tattha viññū samanuyuñjantaṃ samanu-
 gāhantaṃ samanubhāsantaṃ satthārā vā satthāraṃ saṃ-
-ghena vā saṃghaṃ: ‘Ye imesaṃ2 bhavataṃ dhammā
+ghena vā saṃghaṃ: ‘Ye imesaṃ#2 bhavataṃ dhammā
 akusalā akusala-{saṃkhātā}, sāvajjā sāvajja-saṃkhātā asevi-
-tabbā asevitabba-saṃkhātā nālam-ariyā3 nālamariya-saṃ-
-khātā kiṇhā4 kiṇha-saṃkhātā, ko ime dhamme {anavasesaṃ}
-pahāya vattati, samaṇo vā Gotamo5 pare vā pana bhonto
+tabbā asevitabba-saṃkhātā nālam-ariyā#3 nālamariya-saṃ-
+khātā kiṇhā#4 kiṇha-saṃkhātā, ko ime dhamme {anavasesaṃ}
+pahāya vattati, samaṇo vā Gotamo#5 pare vā pana bhonto
 gaṇācariyā ti?’ ”
-     6. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
+     ^6. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
 samanuyuñjantā samanugāhantā samanubhāsantā evaṃ
 vadeyyuṃ: “Ye imesaṃ bhavataṃ dhammā akusalā
 akusala-saṃkhātā sāvajjā sāvajja-saṃkhātā asevitabbā
@@ -79,7 +79,7 @@ kiṇhā kiṇhā-saṃkhātā, samaṇo Gotamo ime dhamme
 gaṇācariyā ti.” Iti ha Kassapa viññū samanuyuñjantā
 samanugāhantā samanubhāsantā amhe va tattha yebhuy-
 yena {pasaṃseyyuṃ.}
-     7. ‘Aparam pi no Kassapa viññū samanuyuñjantaṃ
+     ^7. ‘Aparam pi no Kassapa viññū samanuyuñjantaṃ
 samanugāhantaṃ samanubhāsantaṃ satthārā vā satthāraṃ
 saṃghena vā saṃghaṃ: “Ye imesaṃ bhavataṃ dhammā
 kusalā kusala-saṃkhātā anavajjā anavajja-saṃkhātā sevi-
@@ -87,7 +87,7 @@ tabbā sevitabba-saṃkhātā alam-ariyā alamariya-saṃkhātā
 sukkā sukka-saṃkhātā, ko ime dhamme anavasesaṃ
 samādāya vattati, samaṇo vā Gotamo, pare vā pana bhonto
 gaṇācariyā ti?”
-     8. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
+     ^8. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
 samanuyuñjantā samanugāhantā samanubhāsantā evaṃ
 ~6.164
 vadeyyuṃ: “Ye imesaṃ bhavataṃ dhammā kusalā
@@ -96,27 +96,27 @@ sevitabba-saṃkhātā alam-ariyā alamariya-saṃkhātā sukkā
 sukka-saṃkhātā, samaṇo Gotamo ime dhamme anavasesaṃ
 samādāya vattati, yaṃ vā pana bhonto pare gaṇācariyā
 ti.” Iti ha Kassapa viññū samanuyuñjantā samanugāhantā
-samanubhāsantā 1amhe va1 tattha yebhuyyena {pasaṃ}-
+samanubhāsantā 1amhe va#1 tattha yebhuyyena {pasaṃ}-
 seyyuṃ.
-     9 ‘Aparam pi no Kassapa {viññū} samanuyuñjantaṃ
+     ^9 ‘Aparam pi no Kassapa {viññū} samanuyuñjantaṃ
 samanugāhantaṃ samanubhāsantaṃ satthārā vā satthāraṃ
 saṃghena vā saṃghaṃ: “Ye imesaṃ bhavataṃ dhammā
 akusalā akusala-saṃkhātā sāvajjā sāvajja-saṃkhātā asevi-
 tabbā asevitabba-saṃkhātā nālam-ariyā nālamariya-saṃ-
 khātā kiṇhā kiṇha-saṃkhātā, ko ime dhammā {anavasesaṃ}
-pahāya vattati, Gotama-sāvaka-saṃgho vā, pare2 vā pana
-bhonto gaṇācariya-sāvaka-saṃghā ti?”3
-     10.4 ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
+pahāya vattati, Gotama-sāvaka-saṃgho vā, pare#2 vā pana
+bhonto gaṇācariya-sāvaka-saṃghā ti?”#3
+     ^10.#4 ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ viññū
 samanuyuñjantā samanugāhantā samanubhāsantā evaṃ
 {vadeyyuṃ}: “Ye imesaṃ bhavataṃ dhammā akusalā
 akusala-saṃkhātā sāvajjā sāvajja-saṃkhātā asevitabbā
 asevitabba-saṃkhātā nālam-ariyā nālamariya-saṃkhātā
 kiṇhā kiṇha-saṃkhātā, Gotama-sāvaka-saṃgho ime
 dhamme anavasesaṃ pahāya vattati, yam vā pana bhonto
-pare gaṇācariya-sāvaka-saṃghā ti.” Iti ha5 Kassapa
+pare gaṇācariya-sāvaka-saṃghā ti.” Iti ha#5 Kassapa
 viññū samanuyuñjantā samanugāhantā samanubhāsantā
 amhe va tattha yebhuyyena {pasaṃseyyuṃ.}
-     11. ‘Aparam pi no Kassapa viññū samanuyuñjantaṃ
+     ^11. ‘Aparam pi no Kassapa viññū samanuyuñjantaṃ
 ~6.165
 samanugāhantaṃ samanubhāsantaṃ satthārā vā {satthāraṃ}
 saṃghena vā saṃghaṃ: “Ye imesaṃ bhavataṃ dhammā
@@ -124,19 +124,19 @@ kusalā kusala-saṃkhātā anavajjā anavajja-saṃkhātā sevi-
 tabbā sevitabba-saṃkhātā alam-ariyā alamariya-saṃkhātā
 sukkā sukka-saṃkhātā, ko ime dhamme anavasesaṃ
 samādāya vattati, Gotama-sāvaka-saṃgho vā pare vā pana
-bhonto gaṇācariya-sāvaka-saṃghā ti?”1
-     12. ‘Ṭhānam kho pan' etaṃ Kassapa vijjati yaṃ
+bhonto gaṇācariya-sāvaka-saṃghā ti?”#1
+     ^12. ‘Ṭhānam kho pan' etaṃ Kassapa vijjati yaṃ
 viññū samanuyuñjantā samanugāhantā samanubhāsantā
 evaṃ vadeyyuṃ: “Ye imesaṃ bhavataṃ dhammā kusalā
 kusala-saṃkhātā anavajjā anavajja-saṃkhātā sevitabbā
 sevitabba-saṃkhātā alam-ariyā alamariya-saṃkhātā sukkā
 sukka-saṃkhātā, Gotama-sāvaka-saṃgho ime dhamme
-anavasesaṃ samādāya vattati, yaṃ vā pana bhonto pare2
-vā gaṇācariya-sāvaka-saṃghā ti.”5 Iti ha Kassapa viññū
+anavasesaṃ samādāya vattati, yaṃ vā pana bhonto pare#2
+vā gaṇācariya-sāvaka-saṃghā ti.”#3 Iti ha Kassapa viññū
 samanuyuñjantā samanugāhantā samanubhāsantā amhe
 va tattha yebhuyyena {pasaṃseyyuṃ}.
-     13. ‘Atthi Kassapa maggo, atthi paṭipadā, yathā4 paṭi-
-panno sāmaṃ yeva ñassati sāmaṃ {dakkhiti}5: “Samaṇo
+     ^13. ‘Atthi Kassapa maggo, atthi paṭipadā, yathā#4 paṭi-
+panno sāmaṃ yeva ñassati sāmaṃ {dakkhiti}#5: “Samaṇo
 Gotamo kāla-vadī bhūta-vādī attha-vādī dhamma-vādī vi-
 naya-vādī ti.” Katamo ca Kassapa maggo, katamā paṭi-
 padā, yathā paṭipanno sāmaṃ yeva ñassati sāmaṃ {dakkhiti}:
@@ -148,19 +148,19 @@ sammā-sati sammā-samādhi. Ayaṃ kho Kassapa maggo,
 ayaṃ paṭipadā, yathā paṭipanno sāmaṃ yeva ñassati sāmaṃ
 {dakkhiti}: “Samaṇo va Gotamo kāla-vādī bhūta-vādī attha-
 vādī dhamma-vādī vinaya-vādī ti.”’
-     14. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
-‘Ime6 kho āvuso Gotama tapo-pakkamā ekesaṃ7 samaṇa-
+     ^14. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
+‘Ime#6 kho āvuso Gotama tapo-pakkamā ekesaṃ#7 samaṇa-
 ~6.166
 brāhmaṇānaṃ sāmañña-saṃkhātā ca brāhmañña-saṃkhātā
-ca. Acelako1 hoti muttācāro hatthāpalekhano, na-ehi-
-bhadantiko,2 na-tiṭṭha-bhadantiko, nābhihaṭaṃ na uddissa-
-kaṭaṃ na nimantanaṃ3 sādiyati. So na kumbhi-mukhā
-patigaṇhāti, na kaḷopi-mukhā patigaṇhāti,4 na eḷakamanta-
+ca. Acelako#1 hoti muttācāro hatthāpalekhano, na-ehi-
+bhadantiko,#2 na-tiṭṭha-bhadantiko, nābhihaṭaṃ na uddissa-
+kaṭaṃ na nimantanaṃ#3 sādiyati. So na kumbhi-mukhā
+patigaṇhāti, na kaḷopi-mukhā patigaṇhāti,#4 na eḷakamanta-
 raṃ na daṇḍamantaraṃ na musalamantaraṃ, na dvinnaṃ
 bhuñjamānānaṃ, na gabbhiniyā na pāyamānāya na puris-
-antara-gatāya, na saṃkittisu,5 na yattha sā upaṭṭhito
-hoti, na yattha makkhikā saṇḍa-saṇḍa-cārinī,6 na macchaṃ
-na {maṃsaṃ,} na sūram na merayaṃ na thusodakaṃ pivati.7
+antara-gatāya, na saṃkittisu,#5 na yattha sā upaṭṭhito
+hoti, na yattha makkhikā saṇḍa-saṇḍa-cārinī,#6 na macchaṃ
+na {maṃsaṃ,} na sūram na merayaṃ na thusodakaṃ pivati.#7
 So ekāgāriko va hoti ekālopiko, dvāgāriko vā hoti dvālopiko,
 sattāgāriko vā hoti sattālopiko. Ekissā pi dattiyā yāpeti,
 dvīhi pi dattīhi yāpeti, sattahi pi dattīhi yāpeti. Ekāhi-
@@ -170,7 +170,7 @@ pariyāya-bhatta-bhojanānuyogam anuyutto viharati.
 Ime hi kho āvuso Gotama tapo-pakkamā ekesaṃ
 samaṇa-brāhmaṇānaṃ sāmañña-saṃkhātā ca brāhmañña-
 saṃkhātā ca. Sāka-bhakkho vā hoti, sāmāka-bhakkho
-vā hoti, nīvāra-bhakkho vā hoti, daddula8-bhakkho
+vā hoti, nīvāra-bhakkho vā hoti, daddula#8-bhakkho
 vā hoti, haṭa-bhakkho vā hoti, kaṇa-bhakkho vā hoti,
 ācāma-bhakkho vā hoti, piññāka-bhakkho vā hoti, tiṇa-
 bhakkho vā hoti, gomaya-bhakkho vā hoti, vana-mūla-
@@ -178,28 +178,28 @@ phalāhāro yāpeti pavatta-phala-bhojī.
 Ime hi kho āvuso Gotama tapo-pakkamā ekesaṃ samaṇa-
 brāhmaṇānam sāmañña-saṃkhātā ca brāhmañña-saṃkhātā
 ca. Sāṇāni pi dhāreti, masāṇāni pi dhāreti, chava-dussāni
-pi dhāreti, paṅsu-kūlāni pi dhāreti, tirīṭāni9 pi dhāreti,
+pi dhāreti, paṅsu-kūlāni pi dhāreti, tirīṭāni#9 pi dhāreti,
 ~6.167
-ajināni1 pi dhāreti, ajinakkhipam2 pi dhāreti, kusa-
+ajināni#1 pi dhāreti, ajinakkhipam#2 pi dhāreti, kusa-
 cīram pi dhāreti vākā-cīram pi dhāreti, phalaka-cīram
 pi dhāreti, kesa-kambalam pi dhāreti, vāla-kambalam pi
 dhāreti, ulūka-pakkham pi dhāreti. Kesa-massu-locako
 pi hoti kesa-massu-locanānuyogam anuyutto, ubbhaṭṭhako
 pi hoti āsana-paṭikkhitto, ukkuṭiko pi hoti {ukkuṭika-ppa-
 dhānam} anuyutto, kaṇṭakāpassayiko pi hoti kaṇṭakā-
-passaye seyyaṃ kappeti,3 phalaka-seyyam pi kappeti,4
-thaṇḍila5-seyyam pi kappeti, ekapassayiko pi hoti rajojalla-
+passaye seyyaṃ kappeti,#3 phalaka-seyyam pi kappeti,#4
+thaṇḍila#5-seyyam pi kappeti, ekapassayiko pi hoti rajojalla-
 dhare, abbhokāsiko pi hoti yathāsanthatiko, vekaṭiko pi
 hoti vikaṭa-bhojanānuyogam anuyutto, āpānako pi hoti
 āpānakattam anuyutto, sāya-tatiyakam pi udakorohanānu-
 yogam anuyutto viharatīti.’
-     15. ‘Acelako ce pi Kassapa hoti muttācāro hatthāpa-
+     ^15. ‘Acelako ce pi Kassapa hoti muttācāro hatthāpa-
 lekhano . . . pe . . . iti evarūpaṃ addha-māsikam pi
 pariyāya-bhatta-bhojanānuyogam anuyutto viharati, tassa
 cāyaṃ sīla-sampadā citta-sampadā paññā-sampadā abhā-
-vitā hoti asacchikatā, atha kho so ārakā va6 sāmaññā,
+vitā hoti asacchikatā, atha kho so ārakā va#6 sāmaññā,
 ārakā va brahmaññā. Yato kho Kassapa bhikkhu averaṃ
-avyāpajjhaṃ7 metta-cittaṃ bhāveti, āsavānañ ca8 khayā
+avyāpajjhaṃ#7 metta-cittaṃ bhāveti, āsavānañ ca#8 khayā
 anāsavaṃ ceto-vimuttiṃ paññā-vimuttiṃ diṭṭhe va
 dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati,
 ayaṃ vuccati Kassapa bhikkhu Samaṇo iti pi Brāhmaṇo
@@ -224,10 +224,10 @@ pajjhaṃ metta-cittam bhāveti, āsavānañ ca khayā anāsa-
 vaṃ ceto-vimuttiṃ paññā-vimuttiṃ diṭṭhe va dhamme
 sayaṃ abhiññā sacchikatvā upasampajja viharati, ayaṃ
 vuccati Kassapa bhikkhu Samaṇo iti pi Brāhmaṇo iti pīti.’
-     16. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
+     ^16. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
 ‘Dukkaraṃ bho Gotama sāmaññaṃ, dukkaraṃ brahmañ-
 ñan ti.’
-     ‘Pakati1 kho esā Kassapa lokasmiṃ “Dukkaraṃ sāmañ-
+     ‘Pakati#1 kho esā Kassapa lokasmiṃ “Dukkaraṃ sāmañ-
 ñaṃ dukkaraṃ brahmaññan” ti. Acelako ce pi Kassapa
 hoti, muttācāro hatthāpalekhano . . . pe . . . iti evarū-
 pam addha-māsikam pi pariyāya-bhatta-bhojanānuyogam
@@ -288,7 +288,7 @@ paññā-vimuttiṃ diṭṭhe va dhamme sayaṃ abhiññā sac-
 chikatvā upasampajja viharati, ayaṃ vuccati Kassapa
 bhikkhu Samaṇo iti pi Brāhmaṇo iti pīti.’
 ~6.170
-     17. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
+     ^17. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad avoca:
 ‘Dujjāno bho Gotama samaṇo, dujjāno brāhmaṇo ti.’
      ‘Pakati kho esā Kassapa lokasmiṃ “Dujjāno samaṇo,
 dujjāno brāhmaṇo ti.” Acelako ce pi Kassapa hoti, muttā-
@@ -298,8 +298,8 @@ viharati, imāya ca Kassapa mattāya iminā tapo-pakkamena
 samaṇo vā abhavissa brāhmaṇo vā dujjāno sudujjāno, n'
 etaṃ abhavissa kallaṃ vacanāya “Dujjāno samaṇo,
 dujjāno brāhmaṇo ti.” Sakkā ca pan' eso abhavissa
-ñātuṃ1 gahapatinā vā gahapati-puttena vā antamaso
-kumbha-dāsiyā pi: “ayaṃ acelako2 muttācāro hatthā-
+ñātuṃ#1 gahapatinā vā gahapati-puttena vā antamaso
+kumbha-dāsiyā pi: “ayaṃ acelako#2 muttācāro hatthā-
 palekhano . . . pe . . . iti evarūpaṃ addha-māsikam pi
 pariyāya-bhatta-bhojanānuyogam anuyutto viharatīti.”
 Yasmā ca kho Kassapa aññatr' eva imāya mattāya aññatra
@@ -332,9 +332,9 @@ Samaṇo iti pi Brāhmaṇo iti pi. {Sāṇāni} ce pi
 Kassapa dhāreti, {masāṇāni} pi dhāreti . . . pe . . . sāya-
 tatiyakam pi udakorohanānuyogam anuyutto viharati,
 imāya ca Kassapa mattāya iminā tapo-pakkamena samaṇo
-vā brāhmaṇo vā abhavissa1 dujjāno sudujjāno, n' etam
+vā brāhmaṇo vā abhavissa#1 dujjāno sudujjāno, n' etam
 abhavissa kallaṃ vacanāya “Dujjāno samaṇo dujjāno
-brāhmaṇo ti.” Sakkā ca2 pan' eso abhavissa ñātuṃ
+brāhmaṇo ti.” Sakkā ca#2 pan' eso abhavissa ñātuṃ
 gahapatinā vā gahapati-puttena vā antamaso kumbha-
 dāsiyā pi: “Ayaṃ {sāṇāni} pi dhāreti {masāṇāni} pi
 dhāreti . . . pe . . . sāya-tatiyakam pi udakorohanānu-
@@ -347,11 +347,11 @@ pajjhaṃ metta-cittaṃ bhāveti, āsavānañ ca khayā anā-
 savaṃ ceto-vimuttiṃ paññā-vimuttiṃ diṭṭhe va dhamme
 sayaṃ abhiññā sacchikatvā upasampajja viharati, ayaṃ
 vuccati Kassapa bhikkhu Samaṇo iti pi Brāhmaṇo {iti} pīti.’
-     18. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad
+     ^18. Evaṃ vutte acelo Kassapo Bhagavantaṃ etad
 avoca: ‘Katamā pana sā bho Gotama sīla-sampadā,
 katamā citta-sampadā, katamā paññā-sampadā ti?’
      ‘Idha Kassapa Tathāgato loke uppajjati arahaṃ sammā-
-sambuddho . . . pe3 . . . bhaya-dassāvī, samādāya sik-
+sambuddho . . . pe#3 . . . bhaya-dassāvī, samādāya sik-
 khati sikkhā-padesu, kāyakamma-{vacī-kammena} samannā-
 gato kusalena, parisuddhājīvo sīla-sampanno, indriyesu
 gutta-dvāro, sati-sampajaññena samannāgato, santuṭṭho.
@@ -360,11 +360,11 @@ Kassapa bhikkhu {pāṇātipātaṃ} pahāya pāṇātipātā paṭi-
 virato hoti, nihita-daṇḍo, nihita-sattho lajjī dayāpanno
 sabbapāṇabhūta-hitānukampī viharati. Idam pi 'ssa hoti
 ~6.172
-sīla-sampadāya [yathā Sāmañña-phale1 evaṃ vitthāretab-
+sīla-sampadāya [yathā Sāmañña-phale#1 evaṃ vitthāretab-
 baṃ] . . . ‘Yathā vā pan' eke bhonto samaṇa-brāh-
 maṇā saddhā-deyyāni bhojanāni bhuñjitvā, te eva-rūpāya
 tiracchāna-vijjāya micchā-jīvena jīvikaṃ kappenti, sey-
-yathīdaṃ santi-kammaṃ paṇidhi-kammaṃ . . . pe2 . . .
+yathīdaṃ santi-kammaṃ paṇidhi-kammaṃ . . . pe#2 . . .
 osadhīnaṃ paṭimokkho iti vā iti evarūpāya tiracchāna-
 vijjāya micchā-jīvā paṭivirato hoti. Idam assa hoti {sīla-}
 sampadāya.
@@ -372,21 +372,21 @@ sampadāya.
 kutoci bhayaṃ samanupassati, yad idam sīla-saṃvarato.
 Seyyathā pi Kassapa rājā khattiyo muddhāvasitto nihita-
 paccāmitto na kutoci bhayaṃ samanupassati, yad idaṃ
-paccatthikato,3 evam eva kho Kassapa bhikkhu evaṃ sīla-
+paccatthikato,#3 evam eva kho Kassapa bhikkhu evaṃ sīla-
 sampanno na kutoci bhayaṃ samanupassati, yad idaṃ
 sīla-saṃvarato. So iminā ariyena sīla-kkhandhena saman-
 nāgato ajjhattaṃ anavajja-sukhaṃ paṭisaṃvedeti. Evaṃ
-kho Kassapa bhikkhu sīla-sampanno hoti. Ayaṃ kho sā4
+kho Kassapa bhikkhu sīla-sampanno hoti. Ayaṃ kho sā#4
 Kassapa sīla-sampadā.
-     19.5 ‘Kathañ ca Kassapa bhikkhu indriyesu gutta-dvāro
+     ^19.#5 ‘Kathañ ca Kassapa bhikkhu indriyesu gutta-dvāro
 hoti? Idha Kassapa bhikkhu cakkhunā rūpaṃ disvāna
-nimittaggāhī hoti . . . pe6 . . . manindriyaṃ asaṃvutaṃ
+nimittaggāhī hoti . . . pe#6 . . . manindriyaṃ asaṃvutaṃ
 viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā
 anvāssaveyyuṃ tassa saṃvarāya paṭipajjati rakkhati
 manindriyaṃ, manindriyaṃ saṃvaraṃ āpajjati. So iminā
 ariyena indriya-saṃvarena samannāgato ajjhattaṃ avyā-
 seka-sukhaṃ paṭisaṃvedeti. Evaṃ kho Kassapa bhikkhu
-indriyesu gutta-{dvāro} hoti . . . pe7 . . . tass' ime pañca
+indriyesu gutta-{dvāro} hoti . . . pe#7 . . . tass' ime pañca
 nīvaraṇe pahīne attani samanupassato pamojjaṃ jāyati,
 pamuditassa pīti jayati, pīti-manassa kāyo passambhati,
 passaddha-kāyo sukhaṃ vedeti, sukhino cittaṃ samādhi-
@@ -409,11 +409,11 @@ citta-sampadāya.
      ‘Puna ca paraṃ Kassapa bhikkhu vitakka-vicārānaṃ
 vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodi-bhāvaṃ
 avitakkaṃ avicāraṃ samādhijaṃ pīti-sukhaṃ dutiya-
-jjhānaṃ . . . pe1 . . . tatiyajjhānaṃ . . . pe2 . . . ca-
-tutthajjhānaṃ upasampajja viharati . . . pe3 . . . Idam
+jjhānaṃ . . . pe#1 . . . tatiyajjhānaṃ . . . pe#2 . . . ca-
+tutthajjhānaṃ upasampajja viharati . . . pe#3 . . . Idam
 pi 'ssa hoti citta-sampadāya. Ayaṃ kho sā Kassapa citta-
 sampadā.
-     20. ‘So evaṃ samāhite citte4 parisuddhe pariyodāte
+     ^20. ‘So evaṃ samāhite citte#4 parisuddhe pariyodāte
 {anaṅgaṇe} vigatūpakkilese mudu-bhūte kammaniye ṭhite
 {ānejjappatte} ñāṇa-dassanāya cittaṃ abhinīharati abhinin-
 nāmeti. So evaṃ pajānāti: “Ayaṃ kho me kāyo rūpī
@@ -434,16 +434,16 @@ rūpī cātummahābhūtiko mātā-pettika-sambhavo odāta-
 kummāsūpacayo aniccucchādana-parimaddana-bhedana-
 {viddhaṃsana}-dhammo, idañ ca pana me {viññāṇaṃ} ettha
 sitaṃ ettha paṭibaddhan ti.” Idam pi 'ssa hoti paññā-
-sampadāya . . . pe1 . . . “nāparaṃ itthattāyāti” pajānāti.
+sampadāya . . . pe#1 . . . “nāparaṃ itthattāyāti” pajānāti.
 Idam pi 'ssa hoti paññā-sampadāya. Ayaṃ kho sā Kassapa
 paññā-sampadā.
      Imāya ca Kassapa sīla-sampadāya citta-sampadāya
 paññā-sampadāya aññā sīla-sampadā citta-sampadā paññā-
 sampadā {uttaritarā} vā paṇītatarā vā n' atthi.
-     21. ‘Santi Kassapa eke samaṇa-brāhmaṇā sīla-vādā.
+     ^21. ‘Santi Kassapa eke samaṇa-brāhmaṇā sīla-vādā.
 Te aneka-pariyāyena sīlassa vaṇṇaṃ bhāsanti. Yāvatā
 Kassapa ariyam paramaṃ sīlaṃ, nāhaṃ tattha attano
-sama-samaṃ samanupassāmi kuto bhīyyo.2 Atha kho3
+sama-samaṃ samanupassāmi kuto bhīyyo.#2 Atha kho#3
 aham eva tattha bhīyyo yadidaṃ adhisīlaṃ.
      ‘Santi Kassapa eke samaṇa-brāhmaṇā tapo-jigucchā-
 vādā. Te aneka-pariyāyena tapo-jigucchāya vaṇṇaṃ
@@ -455,17 +455,17 @@ adhijegucchaṃ.
 aneka-pariyāyena paññāya vaṇṇaṃ bhāsanti. Yāvatā
 Kassapa ariyā paramā paññā, nāhaṃ tattha attano sama-
 samaṃ {samanupassāmi} kuto bhīyyo. Atha kho aham eva
-tattha bhīyyo yadidam adhipaññā.4
+tattha bhīyyo yadidam adhipaññā.#4
      ‘Santi Kassapa eke samaṇa-brāhmaṇā vimutti-vādā.
 Te aneka-pariyāyena vimuttiyā vaṇṇaṃ bhāsanti. Yāvatā
 Kassapa ariyā paramā vimutti, nāhaṃ tattha attano sama-
 samaṃ samanupassāmi kuto bhīyyo. Atha kho aham eva
 tattha bhīyyo yadidam adhimutti.
 ~6.175
-     22. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ añña-
-titthiyā1 paribbājakā evaṃ vadeyyuṃ: “Sīha-nādaṃ kho
+     ^22. ‘Ṭhānaṃ kho pan' etaṃ Kassapa vijjati yaṃ añña-
+titthiyā#1 paribbājakā evaṃ vadeyyuṃ: “Sīha-nādaṃ kho
 Samaṇo Gotamo nadati, tañ ca kho suññāgāre nadati no
-parisāsūti.” Te “Mā h' evan” ti assu2 vacanīyā. “Sīha-
+parisāsūti.” Te “Mā h' evan” ti assu#2 vacanīyā. “Sīha-
 nādañ ca Samaṇo Gotamo nadati, parisāsu ca nadatīti,”
 evam assu Kassapa vacanīyā. Ṭhānaṃ kho pan' etaṃ
 Kassapa vijjati yam añña-titthiyā paribbājakā evaṃ vadey-
@@ -483,40 +483,40 @@ maññanti” -- . . . pe . . . “na ca kho sutvā pasīdanti”
 pasannā pasannākāraṃ karonti” . . . “pasannā pasan-
 nākārañ ca karonti” -- . . . pe . . . “na ca kho tathat-
 tāya paṭipajjanti” . . . “tathattāya ca paṭipajjanti” --
- . . . pe . . . “na ca kho paṭipannā ārādhentīti.”3 Te
+ . . . pe . . . “na ca kho paṭipannā ārādhentīti.”#3 Te
 “Mā h' evan” ti 'ssu vacanīyā. “Sīha-nādañ ca Samaṇo
 Gotamo nadati, parisāsu ca nadati, visārado ca nadati,
 pañhañ ca naṃ pucchanti, pañhañ ca nesaṃ puṭṭho
 vyākaroti, pañhassa veyyākaraṇena cittaṃ ārādheti, sotab-
-bañ c' assa4 maññanti, sutvā ca pasīdanti, pasannā ca
-pasannākāraṃ5 karonti, tathattāya ca paṭipajjanti, {paṭi-
+bañ c' assa#4 maññanti, sutvā ca pasīdanti, pasannā ca
+pasannākāraṃ#5 karonti, tathattāya ca paṭipajjanti, {paṭi-
 pannā} ca ārādhentīti,” evam assu Kassapa vacanīyā.
-     23. ‘Ekam idāhaṃ Kassapa samayaṃ Rājagahe viharāmi
-Gijjha-kūṭe pabbate. Tatra maṃ aññataro tapasa6-brah-
+     ^23. ‘Ekam idāhaṃ Kassapa samayaṃ Rājagahe viharāmi
+Gijjha-kūṭe pabbate. Tatra maṃ aññataro tapasa#6-brah-
 ~6.176
-macārī Nigrodho nāma adhijegucche pañhaṃ pucchi.1
+macārī Nigrodho nāma adhijegucche pañhaṃ pucchi.#1
 Tassāhaṃ adhijegucche pañhaṃ puṭṭho vyākāsiṃ. Vyākate
 ca pana me attamano ahosi, paraṃ viya mattāyāti.’
      ‘Ko hi bhante Bhagavato dhammaṃ sutvā na attamano
-assa paraṃ2 viya mattāya? Aham pi3 bhante Bhagavato
+assa paraṃ#2 viya mattāya? Aham pi#3 bhante Bhagavato
 dhammaṃ sutvā attamano paraṃ viya mattāya. Abhik-
 kantaṃ bhante, abhikkantaṃ bhante. Seyyathā pi bhante
 nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya,
 mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā tela-paj-
-jotaṃ dhāreyya: “Cakkhumanto rūpāni dakkhintīti,”4
--- evam evaṃ5 Bhagavatā aneka-pariyāyena dhammo pakā-
+jotaṃ dhāreyya: “Cakkhumanto rūpāni dakkhintīti,”#4
+-- evam evaṃ#5 Bhagavatā aneka-pariyāyena dhammo pakā-
 sito. Esāhaṃ bhante Bhagavantaṃ saraṇaṃ gacchāmi
 dhammañ ca bhikkhu-saṃghañ ca. Labheyyāhaṃ bhante
 Bhagavato santike pabbajjaṃ, labheyyaṃ upasampadan
 ti.’
-     24. ‘Yo6 kho Kassapa añña-titthiya-pubbo7 imasmiṃ
-dhamma-vinaye8 ākaṅkhati {pabbajjaṃ}8 ākaṅkhati upasam-
+     ^24. ‘Yo#6 kho Kassapa añña-titthiya-pubbo#7 imasmiṃ
+dhamma-vinaye#8 ākaṅkhati {pabbajjaṃ}#8 ākaṅkhati upasam-
 padaṃ so cattāro māse parivasati, catunnaṃ māsānaṃ
-accayena āraddha-citta9 bhikkhū pabbājenti upasampādenti
+accayena āraddha-citta#9 bhikkhū pabbājenti upasampādenti
 bhikkhu-bhāvāya. Api ca m' ettha puggala-vemattatā
 viditā ti.’
      ‘Sace bhante añña-titthiya-pubbā imasmiṃ dhamma-
-vinaye10 ākaṅkhantā {pabbajjaṃ}10 ākaṅkhantā11 upasampa-
+vinaye#10 ākaṅkhantā {pabbajjaṃ}#10 ākaṅkhantā#11 upasampa-
 daṃ cattāro māse parivasanti, catunnaṃ māsānaṃ accayena
 āraddha-cittā bhikkhū pabbājenti upasampādenti bhikkhu-
 bhāvāya, ahaṃ cattāri vassāni parivasissāmi, catunnaṃ
@@ -524,7 +524,7 @@ vassānaṃ accayena āraddha-cittā bhikkhū pabbājentu
 upasampādentu bhikkhu-bhāvāyāti.’
      Alattha kho acelo Kassapo Bhagavato santike pabbaj-
 ~6.177
-jaṃ, alatthūpasampadaṃ.1 Acirūpasampanno kho pan'
+jaṃ, alatthūpasampadaṃ.#1 Acirūpasampanno kho pan'
 āyasmā Kassapo eko vūpakaṭṭho appamatto ātāpī pahitatto
 viharanto, na cirass' eva yass' atthāya kula-puttā sammad
 eva agārasmā {anagāriyaṃ} pabbajanti tad anuttaraṃ

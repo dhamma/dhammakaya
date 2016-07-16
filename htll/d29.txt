@@ -1,35 +1,35 @@
 ~8.117
                          [xxix.  Pāsādika-Suttanta.]
 Evam me sutaṃ.
-     1. Ekaṃ samayaṃ Bhagavā Sakkesu viharati. (1Vedhaññā
-nāma Sakyā,1 tesaṃ ambavane pāsāde). Tena kho pana
-samayena Nigaṇṭho Nāthaputto2 Pāvāyaṃ adhunā kāla3-
-kato hoti. Tassa kālakiriyāya bhinnā Nigaṇṭhā dvedhika4-
-jātā bhaṇḍana5-jātā kalaha-jātā vivādāpannā aññam-
-aññaṃ mukha-sattīhi vitūdantā6 viharanti -- ‘7Na tvaṃ
+     ^1. Ekaṃ samayaṃ Bhagavā Sakkesu viharati. (1Vedhaññā
+nāma Sakyā,#1 tesaṃ ambavane pāsāde). Tena kho pana
+samayena Nigaṇṭho Nāthaputto#2 Pāvāyaṃ adhunā kāla#3-
+kato hoti. Tassa kālakiriyāya bhinnā Nigaṇṭhā dvedhika#4-
+jātā bhaṇḍana#5-jātā kalaha-jātā vivādāpannā aññam-
+aññaṃ mukha-sattīhi vitūdantā#6 viharanti -- ‘#7Na tvaṃ
 imaṃ dhamma-vinayaṃ ājānāsi, ahaṃ imaṃ dhamma-
 vinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhamma-vinayaṃ
 ājānissasi? -- Micchā-paṭipanno tvam asi, aham asmi
 sammā-paṭipanno, -- Sahitam me, asahitan te, -- Pure va-
 canīyaṃ pacchā avaca, {pacchā} vacanīyaṃ pure avaca, --
-Aviciṇṇan8 te viparāvattaṃ -- Āropito te vādo, niggahīto9
+Aviciṇṇan#8 te viparāvattaṃ -- Āropito te vādo, niggahīto#9
 'si -- Cara vādappamokkhāya, nibbeṭhehi vā sace pahosīti.’
-Vadho yeva kho10 maññe Nigaṇṭhesu Nāthaputtiyesu
-vattati.11 Ye pi Nigaṇṭhassa Nāthaputtassa sāvakā gihī
+Vadho yeva kho#10 maññe Nigaṇṭhesu Nāthaputtiyesu
+vattati.#11 Ye pi Nigaṇṭhassa Nāthaputtassa sāvakā gihī
 ~8.118
-odāta-vasanā, te pi1 Nigaṇṭhesu2 Nāthaputtiyesu nibbiṇṇa3-
-rūpā viratta-rūpā paṭivāna-rūpā, yathā taṃ durakkhāte4
-dhamma-vinaye duppavedite aniyyānike5 anupasama-
+odāta-vasanā, te pi#1 Nigaṇṭhesu#2 Nāthaputtiyesu nibbiṇṇa#3-
+rūpā viratta-rūpā paṭivāna-rūpā, yathā taṃ durakkhāte#4
+dhamma-vinaye duppavedite aniyyānike#5 anupasama-
 saṃvattanike {asammā-sambuddha}-ppavedite bhinna-thūpe
 appaṭisaraṇe.
-     2. Atha kho Cundo Samaṇuddeso Pāvāyaṃ vassaṃ
+     ^2. Atha kho Cundo Samaṇuddeso Pāvāyaṃ vassaṃ
 vuttho, yena Sāmagāmo yen' āyasmā Ānando ten'
 upasaṃkami, upasaṃkamitvā āyasmantaṃ Ānandaṃ abhi-
 vādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho
 Cundo Samaṇuddeso āyasmantaṃ Ānandaṃ etad avoca:
      ‘Nigaṇṭho bhante Nāthaputto Pāvāyaṃ adhunā kālakato.
 Tassa kālakiriyāya bhinnā Nigaṇṭhā dvedhika-jātā . . .
-pe6 . . . bhinna-thūpe appaṭisaraṇe ti.’
+pe#6 . . . bhinna-thūpe appaṭisaraṇe ti.’
      Evaṃ vutte āyasmā Ānando Cundaṃ Samaṇuddesaṃ
 etad avoca: ‘Atthi kho idaṃ āvuso Cunda kathā-pābhataṃ
 Bhagavantaṃ dassanāya, āyām' āvuso Cunda, yena
@@ -37,8 +37,8 @@ Bhagavā ten' upasaṃkamissāma, upasaṃkamitvā etam
 atthaṃ Bhagavato ārocessāmāti.’
      ‘Evaṃ bhante ti’ kho Cundo Samaṇuddeso āyasmato
 Ānandassa paccassosi.
-     3. Atha kho āyasmā ca Ānando Cundo ca Samaṇuddeso
-yena Bhagavā ten' {upasaṃkamiṃsu},7 upasaṃkamitvā
+     ^3. Atha kho āyasmā ca Ānando Cundo ca Samaṇuddeso
+yena Bhagavā ten' {upasaṃkamiṃsu},#7 upasaṃkamitvā
 Bhagavantaṃ abhivādetvā ekamantaṃ {nisīdiṃsu.} Ekam-
 antaṃ nisinno kho āyasmā Ānando Bhagavantam etad
 avoca:
@@ -51,33 +51,33 @@ appaṭisaraṇe ti.
 duppavedite aniyyānike anupasama-saṃvattanike asammā-
 sambuddha-ppavedite.
                        -----------------------------
-     4. Idha Cunda satthā ca hoti asammā-sambuddho;
+     ^4. Idha Cunda satthā ca hoti asammā-sambuddho;
 dhammo ca durakkhāto duppavedito aniyyāniko anupasama-
 saṃvattaniko asammāsambuddha-ppavedito; sāvako ca
 tasmiṃ dhamme na dhammānudhamma-{paṭipanno} viharati
-na sāmīci-paṭipanno na anudhamma-cāri, vokkamma ca1
+na sāmīci-paṭipanno na anudhamma-cāri, vokkamma ca#1
 tamhā dhammā vattati. So evam assa vacanīyo -- ‘Tassa
 te āvuso lābhā, tassa te suladdhaṃ, satthā ca te asammā-
 sambuddho, dhammo ca durakkhāto duppavedito {aniy-
 yāniko} anupasama-saṃvattaniko asammāsambuddha-ppa-
-vedito, tvañ2 ca tasmiṃ dhamme na dhammānudhamma-
+vedito, tvañ#2 ca tasmiṃ dhamme na dhammānudhamma-
 paṭipanno viharasi na sāmīci-paṭipanno na anudhamma-
 cārī, vokkamma ca tamhā dhammā vattasīti.’ Iti kho
 Cunda {satthā} pi tattha gārayho, dhammo pi tattha gārayho,
 sāvako ca tattha evaṃ pāsaṃso. Yo kho Cunda evarūpaṃ
 sāvakaṃ evaṃ vadeyya -- ‘Et' āyasmā tathā paṭipajjatu
-yathā te satthārā dhammo desito paññatto ti,’ yo ca3
-samādapeti 4yañ ca samādapeti4 yo ca samādapito tathat-
-tāya5 paṭipajjati, sabbe te bahuṃ apuññaṃ pasavanti.
+yathā te satthārā dhammo desito paññatto ti,’ yo ca#3
+samādapeti 4yañ ca samādapeti#4 yo ca samādapito tathat-
+tāya#5 paṭipajjati, sabbe te bahuṃ apuññaṃ pasavanti.
 Taṃ kissa hetu? Evaṃ h' etaṃ Cunda hoti durakkhāte
 dhamma-vinaye duppavedite aniyyānike anupasama-saṃ-
 vattanike asammāsambuddha-ppavedite.
-     5. Idha pana Cunda satthā ca hoti asammā-sambuddho,
+     ^5. Idha pana Cunda satthā ca hoti asammā-sambuddho,
 dhammo ca durakkhāto duppavedito aniyyāniko anupasama-
 saṃvattaniko asammāsambuddha-ppavedito, {sāvako} ca
 tasmiṃ dhamme dhammānudhamma-paṭipanno viharati
 sāmīci-paṭipanno anudhamma-cārī, samādāya 6taṃ dham-
-maṃ6 vattati.7 So evam assa vacanīyo -- ‘Tassa te āvuso
+maṃ#6 vattati.#7 So evam assa vacanīyo -- ‘Tassa te āvuso
 alābhā, tassa te dulladdhaṃ, satthā ca te asammā-
 ~8.120
 sambuddho, dhammo ca durakkhāto duppavedito aniy-
@@ -89,16 +89,16 @@ pi tattha gārayho, dhammo pi tattha gārayho, sāvako pi
 tattha evaṃ gārayho. Yo kho Cunda evarūpaṃ sāvakaṃ
 evaṃ vadeyya -- ‘Addhā yasmā ñāya-paṭipanno ñāyam
 ārādhessatīti,’ yo ca pasaṃsati yañ ca pasaṃsati yo ca
-pasattho1 bhiyyoso-mattāya viriyaṃ ārabhati, sabbe te
+pasattho#1 bhiyyoso-mattāya viriyaṃ ārabhati, sabbe te
 bahuṃ apuññaṃ pasavanti. Taṃ kissa hetu? Evaṃ
 h' etaṃ Cunda hoti durakkhāte dhamma-vinaye duppavedite
 aniyyānike anupasama-saṃvattanike {asammā-sambuddha}-
 ppavedite.
-     6. Idha pana Cunda satthā ca hoti Sammā-Sambuddho
+     ^6. Idha pana Cunda satthā ca hoti Sammā-Sambuddho
 dhammo ca svākkhāto suppavedito niyyāniko upasama-
 saṃvattaniko SammāSambuddha-ppavedito, sāvako ca
 tasmiṃ dhamme na dhammānudhamma-paṭipanno viharati
-na sāmīci-paṭipanno na anudhamma-cārī, vokkamma ca2
+na sāmīci-paṭipanno na anudhamma-cārī, vokkamma ca#2
 tamhā dhammā vattati. So evam assa vacanīyo -- ‘Tassa
 te āvuso alābhā, tassa te dulladdhaṃ, satthā ca te Sammā-
 Sambuddho, dhammo ca svākkhāto suppavedito niyyāniko
@@ -116,7 +116,7 @@ kissa hetu? Evaṃ h' etaṃ Cunda hoti svākkhāte dhamma-
 vinaye suppavedite niyyānike upasama-saṃvattanike
 SammāSambuddha-ppavedite.
 ~8.121
-     7. Idha pana Cunda satthā ca hoti Sammā-Sambuddho,
+     ^7. Idha pana Cunda satthā ca hoti Sammā-Sambuddho,
 dhammo ca svākkhāto suppavedito niyyāniko upasama-
 saṃvattaniko SammāSambuddha-ppavedito, sāvako ca
 tasmiṃ dhamme dhammānudhamma-paṭipanno viharati
@@ -128,34 +128,34 @@ upasama-saṃvattaniko SammāSambuddha-ppavedito, tvañ
 ca tasmiṃ dhamme dhammānudhamma-paṭipanno viharasi,
 sāmīci-paṭipanno anudhamma-cārī, samādāya taṃ dham-
 maṃ vattasīti.’ Iti kho Cunda satthā pi tattha pāsaṃso,
-dhammo pi tattha pāsaṃso, sāvako pi tattha evaṃ1
+dhammo pi tattha pāsaṃso, sāvako pi tattha evaṃ#1
 pāsaṃso. Yo kho Cunda evarūpaṃ sāvakaṃ evaṃ vadeyya
 -- ‘Addhā yasmā ñāya-paṭipanno {ñāyaṃ} ārādhessatīti,’ yo
-ca pasaṃsati yañ ca pasaṃsati, yo ca pasattho2 bhiyyoso-
+ca pasaṃsati yañ ca pasaṃsati, yo ca pasattho#2 bhiyyoso-
 mattāya viriyaṃ ārabhati, sabbe te bahuṃ puññaṃ pasa-
 vanti. Taṃ kissa hetu? Evaṃ h' etaṃ Cunda hoti
 svākkhāte dhamma-vinaye suppavedite niyyānike upasama-
 saṃvattanike SammāSambuddha-ppavedite.
-     8. Idha pana3 Cunda satthā ca loke udapādi arahaṃ
-Sammā-Sambuddho, dhammo ca4 svākkhāto suppavedito
+     ^8. Idha pana#3 Cunda satthā ca loke udapādi arahaṃ
+Sammā-Sambuddho, dhammo ca#4 svākkhāto suppavedito
 niyyāniko upasama-saṃvattaniko SammāSambuddha-ppa-
-vedito, aviññāpitatthā c' assa5 honti sāvakā saddhamme,
-6na ca tesaṃ6 kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ
-hoti uttāni-kataṃ sabba-saṅgāha-pada-kataṃ8 sappāṭihīra9-
+vedito, aviññāpitatthā c' assa#5 honti sāvakā saddhamme,
+#6na ca tesaṃ#6 kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ#7
+hoti uttāni-kataṃ sabba-saṅgāha-pada-kataṃ#8 sappāṭihīra#9-
 ~8.122
-kataṃ yāvad eva manussehi1 suppakāsitaṃ, atha nesaṃ
-satthuno antaradhānaṃ hoti.2 Evarūpo kho Cunda
-satthā3 sāvakānaṃ kālakato anutappo hoti. Taṃ kissa
-hetu? ‘Satthā ca4 no loke udapādi arahaṃ Sammā-
+kataṃ yāvad eva manussehi#1 suppakāsitaṃ, atha nesaṃ
+satthuno antaradhānaṃ hoti.#2 Evarūpo kho Cunda
+satthā#3 sāvakānaṃ kālakato anutappo hoti. Taṃ kissa
+hetu? ‘Satthā ca#4 no loke udapādi arahaṃ Sammā-
 Sambuddho, dhammo ca svākkhāto suppavedito niyyāniko
 upasama-saṃvattaniko SammāSambuddha-ppavedito, aviñ-
-ñāpitatthā c' amha5 saddhamme, na ca no kevalaṃ pari-
-pūraṃ brahmacariyaṃ āvikataṃ6 hoti uttāni-kataṃ sabba-
-saṅgāha-pada-kataṃ7 sappāṭihīra-kataṃ yāvad eva manus-
+ñāpitatthā c' amha#5 saddhamme, na ca no kevalaṃ pari-
+pūraṃ brahmacariyaṃ āvikataṃ#6 hoti uttāni-kataṃ sabba-
+saṅgāha-pada-kataṃ#7 sappāṭihīra-kataṃ yāvad eva manus-
 sehi suppakāsitaṃ, atha no satthuno antaradhānaṃ
-hotīti.’8 Evarūpo kho Cunda satthā sāvakānaṃ kālakato
+hotīti.’#8 Evarūpo kho Cunda satthā sāvakānaṃ kālakato
 anutappo hoti.
-     9. Idha pana Cunda satthā ca loke udapādi arahaṃ
+     ^9. Idha pana Cunda satthā ca loke udapādi arahaṃ
 Sammā-Sambuddho, dhammo ca svākkhāto suppavedito
 niyyāniko upasama-saṃvattaniko SammāSambuddha-ppa-
 vedito, viññāpitatthā c' assa honti sāvakā saddhamme,
@@ -163,38 +163,38 @@ kevalañ ca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti
 uttāni-kataṃ sabba-saṅgāha-pada-kataṃ sappāṭihīra-kataṃ
 yāvad eva manussehi suppakāsitaṃ, atha nesaṃ satthuno
 antaradhānaṃ hoti. Evarūpo kho Cunda satthā sāva-
-kānaṃ kālakato ananutappo9 hoti. Taṃ kissa hetu?
-‘Satthā ca10 no loke udapādi arahaṃ Sammā-Sambuddho,
+kānaṃ kālakato ananutappo#9 hoti. Taṃ kissa hetu?
+‘Satthā ca#10 no loke udapādi arahaṃ Sammā-Sambuddho,
 dhammo ca svākkhāto suppavedito niyyāniko upasama-
 saṃvattaniko SammāSambuddha-ppavedito, viññāpitatthā
 c' amha saddhamme, kevalañ ca no paripūraṃ brahma-
 cariyaṃ āvikataṃ hoti uttāni-kataṃ sabba-saṅgāha-pada-
 kataṃ sappāṭihīra-kataṃ yāvad eva manussehi suppakā-
 ~8.123
-sitaṃ, atha no satthuno antaradhānaṃ hotīti.’1 Evarūpo
-kho Cunda satthā sāvakānaṃ kālakato ananutappo hoti.2
-     10. Etehi ce pi Cunda aṅgehi samannāgataṃ brahma-
-cariyaṃ hoti, no ca kho satthā3 hoti thero rattaññū cira-
+sitaṃ, atha no satthuno antaradhānaṃ hotīti.’#1 Evarūpo
+kho Cunda satthā sāvakānaṃ kālakato ananutappo hoti.#2
+     ^10. Etehi ce pi Cunda aṅgehi samannāgataṃ brahma-
+cariyaṃ hoti, no ca kho satthā#3 hoti thero rattaññū cira-
 pabbajito addha-gato vayo anuppatto, evaṃ taṃ brahma-
-cariyaṃ aparipūraṃ hoti ten' aṅgena.4 Yato ca5 kho
-Cunda etehi c' eva6 aṅgehi samannāgataṃ brahmacariyaṃ
+cariyaṃ aparipūraṃ hoti ten' aṅgena.#4 Yato ca#5 kho
+Cunda etehi c' eva#6 aṅgehi samannāgataṃ brahmacariyaṃ
 hoti, satthā ca hoti thero rattaññū cira-pabbajito addha-
 gato vayo anuppatto, evan taṃ brahmacariyaṃ paripūraṃ
 hoti ten' aṅgena.
-     11. Etehi ce pi Cunda aṅgehi samannāgataṃ brahma-
+     ^11. Etehi ce pi Cunda aṅgehi samannāgataṃ brahma-
 cariyaṃ hoti, satthā ca hoti thero rattaññū cira-pabbajito
 addha-gato vayo anuppatto, no ca kho assa therā bhikkhū
-sāvakā honti vyattā7 vinītā8 visāradā patta-yogakkhemā,
+sāvakā honti vyattā#7 vinītā#8 visāradā patta-yogakkhemā,
 alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ
-parappavādaṃ sahadhammena suniggahītaṃ9 niggahetvā
+parappavādaṃ sahadhammena suniggahītaṃ#9 niggahetvā
 sappāṭihāriyaṃ dhammaṃ desetuṃ; evaṃ taṃ brahma-
 cariyaṃ aparipūraṃ hoti ten' aṅgena.
-     12. Yato ca kho10 Cunda etehi c' eva aṅgehi samannā-
+     ^12. Yato ca kho#10 Cunda etehi c' eva aṅgehi samannā-
 gataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū
 cira-pabbajito addha-gato vayo anuppatto, therā c' assa
-bhikkhū sāvakā honti . . . pe11 . . . no ca khv assa
+bhikkhū sāvakā honti . . . pe#11 . . . no ca khv assa
 majjhimā bhikkhū sāvakā honti . . . pe . . . majjhimā
-'ssa12 bhikkhū sāvakā honti . . . pe . . . no ca khv assa
+'ssa#12 bhikkhū sāvakā honti . . . pe . . . no ca khv assa
 navā bhikkhū sāvakā honti . . . pe . . . navā c' assa
 bhikkhū sāvakā honti . . . pe . . . no ca khv assa therā
 bhikkhuniyo sāvikā honti . . . pe . . . therā c' assa
@@ -208,21 +208,21 @@ assa upāsakā sāvakā honti gihī odāta-vasanā brahmacārino
       . . . pe . . . upāsakā c' assa sāvakā honti gihī odāta-
 vasanā brahmacārino . . . pe . . . no ca khv assa upāsakā
 sāvakā honti gihī odāta-vasanā kāma-bhogino . . . pe . . .
-upāsakā c' assa sāvakā honti gihī1 odāta-vasanā kāma-
+upāsakā c' assa sāvakā honti gihī#1 odāta-vasanā kāma-
 bhogino . . . pe . . . no ca khv assa upāsikā sāvikā honti
-gihiniyo2 odāta-vasanā brahmacāriniyo . . . pe . . .
+gihiniyo#2 odāta-vasanā brahmacāriniyo . . . pe . . .
 upāsikā c' assa sāvikā honti gihiniyo odāta-vasanā brahma-
 cāriniyo . . . pe . . . no ca khv assa upāsikā sāvikā honti
 gihiniyo odāta-vasanā kāma-bhoginiyo . . . pe . . .
 upāsikā c' assa sāvikā honti gihiniyo odāta-vasanā kāma-
 bhoginiyo . . . pe . . . no ca khv assa brahmacariyaṃ
-iddhañ c' eva hoti3 phītañ ca vitthārikaṃ bāhu-jaññaṃ4
-puthu-bhūtaṃ yāvad eva-manussehi suppakāsitaṃ5 . . . pe
+iddhañ c' eva hoti#3 phītañ ca vitthārikaṃ bāhu-jaññaṃ#4
+puthu-bhūtaṃ yāvad eva-manussehi suppakāsitaṃ#5 . . . pe
       . . . brahmacariyaṃ c' assa hoti iddhañ c' eva phītañ ca
 vitthārikaṃ bāhu-jaññaṃ puthu-bhūtaṃ yāvad eva manus-
-sehi suppakāsitaṃ, no ca kho lābhagga-yasagga-ppattaṃ,6
+sehi suppakāsitaṃ, no ca kho lābhagga-yasagga-ppattaṃ,#6
 evan taṃ brahmacariyaṃ aparipūraṃ hoti ten' {aṅgena}.
-     13. Yato ca kho Cunda etehi c' eva aṅgehi {samannāgataṃ}
+     ^13. Yato ca kho Cunda etehi c' eva aṅgehi {samannāgataṃ}
 brahmacariyaṃ hoti satthā ca hoti thero rattaññū cira-
 pabbajito addha-gato vayo anuppatto, therā c' assa bhikkhū
 sāvakā honti vyattā vinītā . . . pe . . . sappāṭihāriyaṃ
@@ -238,27 +238,27 @@ vasanā brahmacāriniyo, upāsikā c' assa sāvikā honti
 gihiniyo odāta-vasanā kāma-bhoginiyo, brahmacariyaṃ
 c' assa hoti iddhañ c' eva phītañ ca vitthārikaṃ bāhu-
 jaññaṃ puthu-bhūtaṃ yāvad eva manussehi suppakāsitaṃ
-lābhagga-yasagga1-ppattañ ca, evaṃ taṃ brahmacariyaṃ
+lābhagga-yasagga#1-ppattañ ca, evaṃ taṃ brahmacariyaṃ
 paripūraṃ hoti ten' aṅgena.
-     14. Ahaṃ kho pana Cunda etarahi satthā loke uppanno
+     ^14. Ahaṃ kho pana Cunda etarahi satthā loke uppanno
 arahaṃ Sammā-Sambuddho, dhammo ca svākkhāto
 suppavedito niyyāniko upasama-saṃvattaniko Sammā-
 Sambuddha-ppavedito, viññāpitatthā ca me sāvakā sad-
 dhamme, kevalañ ca tesaṃ paripūraṃ brahmacariyaṃ
-āvikataṃ2 uttāni-kataṃ saṅgāha3-pada-kataṃ sappāṭihīra-
+āvikataṃ#2 uttāni-kataṃ saṅgāha#3-pada-kataṃ sappāṭihīra-
 kataṃ yāvad eva manussehi suppakāsitaṃ. Ahaṃ kho
 pana Cunda etarahi satthā thero rattaññū cira-pabbajito
 addha-gato vayo anuppatto.
-     15. Santi kho pana me4 Cunda etarahi therā bhikkhū
-sāvakā5 vyattā vinītā visāradā patta-yoga-kkhemā, alaṃ
+     ^15. Santi kho pana me#4 Cunda etarahi therā bhikkhū
+sāvakā#5 vyattā vinītā visāradā patta-yoga-kkhemā, alaṃ
 samakkhātuṃ saddhammassa, alaṃ uppannaṃ para-
-ppavādaṃ sahadhammena6 suniggahītaṃ niggahetvā sap-
+ppavādaṃ sahadhammena#6 suniggahītaṃ niggahetvā sap-
 pāṭihāriyaṃ dhammaṃ desetuṃ. Santi kho pana me
-Cunda majjhimā bhikkhū sāvakā vyattā.7 Santi kho
+Cunda majjhimā bhikkhū sāvakā vyattā.#7 Santi kho
 pana me Cunda etarahi navā bhikkhū sāvakā. Santi kho
 pana me Cunda etarahi therā bhikkhuniyo sāvikā. Santi
 kho pana me Cunda etarahi majjhimā bhikkhuniyo sāvikā.
-Santi kho pana me Cunda 8etarahi navā8 bhikkhuniyo
+Santi kho pana me Cunda 8etarahi navā#8 bhikkhuniyo
 sāvikā. Santi kho pana me Cunda etarahi upāsakā sāvakā
 gihī odāta-vasanā brahmacārino. Santi kho pana me
 Cunda etarahi upāsakā sāvakā gihī odāta-vasanā kāma-
@@ -270,47 +270,47 @@ vasanā kāma-bhoginiyo . . . pe . . . etarahi kho pana
 me Cunda brahmacariyaṃ iddhañ ca phītañ ca vitthārikaṃ
 bāhu-jaññaṃ puthu-bhūtaṃ {yāvad} eva manussehi sup-
 pakāsitaṃ.
-     16. Yāvatā kho Cunda etarahi satthāro loke uppannā,
-nāhaṃ Cunda aññaṃ ekaṃ1 satthāram pi samanupassāmi
-evaṃ lābhagga-yasagga-ppattaṃ yatharivāhaṃ.2 Yāvatā
-kho3 Cunda etarahi saṃghā4 vā gaṇā4 loke uppannā,4
+     ^16. Yāvatā kho Cunda etarahi satthāro loke uppannā,
+nāhaṃ Cunda aññaṃ ekaṃ#1 satthāram pi samanupassāmi
+evaṃ lābhagga-yasagga-ppattaṃ yatharivāhaṃ.#2 Yāvatā
+kho#3 Cunda etarahi saṃghā#4 vā gaṇā#4 loke uppannā,#4
 nāhaṃ Cunda aññaṃ ekaṃ saṃghaṃ pi samanupassāmi
-evaṃ lābhagga-yasagga-ppattaṃ yathariva5 Cunda bhikkhu-
-saṅgho. Yaṃ kho taṃ6 Cunda sammā-vadamāno vadeyya
+evaṃ lābhagga-yasagga-ppattaṃ yathariva#5 Cunda bhikkhu-
+saṅgho. Yaṃ kho taṃ#6 Cunda sammā-vadamāno vadeyya
 -- ‘Sabbākāra-sampannaṃ sabbākāra-paripūraṃ anūnaṃ
 anadhikaṃ svākkhātaṃ kevala-paripūraṃ brahmacariyaṃ
 suppakāsitan ti,’ idam eva taṃ sammā-vadamāno vadeyya
 -- ‘Sabbākāra-sampannaṃ . . . pe . . . brahmacariyaṃ
-suppakāsitan ti.’ Uddako sudaṃ7 Cunda Rāmaputto evaṃ
-vācaṃ bhāsati: ‘Passan na passatīti.’8 Kiñ ca9 passan na
-passatīti? 10 Khurassa sādhu-nisitassa talam assa passati,
-dhārañ ca kho tassa na11 passati. Idaṃ vuccati Cunda --
-‘Passan na passatīti.’ Taṃ12 kho pan' etaṃ Cunda --
+suppakāsitan ti.’ Uddako sudaṃ#7 Cunda Rāmaputto evaṃ
+vācaṃ bhāsati: ‘Passan na passatīti.’#8 Kiñ ca#9 passan na
+passatīti? #10 Khurassa sādhu-nisitassa talam assa passati,
+dhārañ ca kho tassa na#11 passati. Idaṃ vuccati Cunda --
+‘Passan na passatīti.’ Taṃ#12 kho pan' etaṃ Cunda --
 Uddakena Rāmaputtena bhāsitaṃ hīnaṃ gammaṃ pothuj-
 janikaṃ anariyaṃ anattha-saṃhitaṃ 13khuram eva san-
-dhāya.13 Yañ ca taṃ14 Cunda sammā-vadamāno vadeyya --
+dhāya.#13 Yañ ca taṃ#14 Cunda sammā-vadamāno vadeyya --
 ~8.127
 ‘Passaṃ na passatīti,’ idam eva taṃ sammā-vadamāno
 vadeyya -- ‘Passaṃ na passatīti.’ {Kiñ ca} passaṃ na pas-
 satīti? Evaṃ sabbākāra-sampannaṃ sabbākāra-paripūraṃ
 anūnaṃ anadhikaṃ svākkhātaṃ kevala-paripūraṃ brahma-
-cariyaṃ suppakāsitan ti. Iti h' etaṃ passati,1 idam ettha
+cariyaṃ suppakāsitan ti. Iti h' etaṃ passati,#1 idam ettha
 apakaḍḍheyya, evan taṃ parisuddhataraṃ assāti. Iti
-h' etaṃ na passati,2 idam ettha upakaḍḍheyya, evan taṃ
-paripūraṃ3 assāti. Iti h' etaṃ na passati, idaṃ vuccati --
+h' etaṃ na passati,#2 idam ettha upakaḍḍheyya, evan taṃ
+paripūraṃ#3 assāti. Iti h' etaṃ na passati, idaṃ vuccati --
 ‘Passaṃ na passatīti.’ Yaṃ kho taṃ Cunda sammā-
 vadamāno vadeyya -- ‘Sabbākāra-sampannaṃ . . . pe . . .
-brahmacariyaṃ suppakāsitan ti,’ idam etaṃ4 sammā-
+brahmacariyaṃ suppakāsitan ti,’ idam etaṃ#4 sammā-
 vadamāno vadeyya -- ‘Sabbākāra-sampannaṃ sabbākāra-
 paripūraṃ anūnaṃ anadhikaṃ svākkhātaṃ kevala-pari-
 pūraṃ brahmacariyaṃ suppakāsitan ti.’
-     17.5Tasmāt iha Cunda ye vo6 mayā dhammā7 abhiññā
+     ^17.#5Tasmāt iha Cunda ye vo#6 mayā dhammā#7 abhiññā
 desitā, tattha sabbeh' eva saṅgamma samāgamma atthena
 atthaṃ vyañjanena vyañjanaṃ saṅgāyitabbaṃ na viva-
-ditabbaṃ,8 yathayidaṃ brahmacariyaṃ addhaniyaṃ assa
-cira-ṭṭhitikaṃ, tad assa9 bahujana-hitāya bahujana-sukhāya
+ditabbaṃ,#8 yathayidaṃ brahmacariyaṃ addhaniyaṃ assa
+cira-ṭṭhitikaṃ, tad assa#9 bahujana-hitāya bahujana-sukhāya
 lokānukampāya atthāya hitāya sukhāya deva-manussānaṃ.
-Katame ca te10 Cunda mayā dhammā11 abhiññā desitā
+Katame ca te#10 Cunda mayā dhammā#11 abhiññā desitā
 yattha sabbeh' eva saṅgamma samāgamma atthena atthaṃ
 vyañjanena vyañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ,
 yathayidaṃ brahmacariyaṃ addhaniyaṃ assa cira-ṭṭhiti-
@@ -319,77 +319,77 @@ kampāya} atthāya hitāya sukhāya deva-manussānaṃ?
 Seyyathīdaṃ cattāro satipaṭṭhānā, cattāro samma-{ppadhānā,}
 cattāro iddhi-pādā, pañc' indriyāni, pañca balāni, satta
 ~8.128
-bojjhaṅgā,1 ariyo aṭṭhaṅgiko Maggo. Ime kho te Cunda
+bojjhaṅgā,#1 ariyo aṭṭhaṅgiko Maggo. Ime kho te Cunda
 dhammā mayā abhiññā desitā, yattha sabbeh' eva saṃ-
 gamma samāgamma atthena atthaṃ vyañjanena vyañjanaṃ
 saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahma-
 cariyaṃ addhaniyaṃ assa cira-{ṭṭhitikaṃ}, tad assa
 bahujana-hitāya bahujana-sukhāya lokānukampāya atthāya
 hitāya sukhāya deva-manussānaṃ.
-     18. Tesañ ca vo2 Cunda samaggānaṃ sammodamānānaṃ
-avivadamānānaṃ sikkhitabbaṃ,3 aññataro sabrahmacārī
+     ^18. Tesañ ca vo#2 Cunda samaggānaṃ sammodamānānaṃ
+avivadamānānaṃ sikkhitabbaṃ,#3 aññataro sabrahmacārī
 saṅghe dhammaṃ bhāseyya. Tatra ce tumhākaṃ evam
-assa -- ‘Ayaṃ kho4 āyasmā atthañ c' eva micchā {gaṇhāti},
-vyañjanāni ca micchā ropetīti,’5 tassa n' eva abhinandi-
+assa -- ‘Ayaṃ kho#4 āyasmā atthañ c' eva micchā {gaṇhāti},
+vyañjanāni ca micchā ropetīti,’#5 tassa n' eva abhinandi-
 tabbaṃ na paṭikkositabbaṃ. Anabhinanditvā appaṭikko-
 sitvā so evam assa vacanīyo -- ‘Imassa nu kho āvuso
-atthassa imāni vā6 vyañjanāni etāni vā vyañjanāni,
-katamāni opāyikatarāni; imesaṃ vā7 vyañjanānaṃ ayaṃ
-vā8 attho eso vā attho, katamo9 opāyikataro ti?’ So ce
+atthassa imāni vā#6 vyañjanāni etāni vā vyañjanāni,
+katamāni opāyikatarāni; imesaṃ vā#7 vyañjanānaṃ ayaṃ
+vā#8 attho eso vā attho, katamo#9 opāyikataro ti?’ So ce
 evaṃ vadeyya -- ‘Imassa kho āvuso atthassa imān' eva
-vyañjanāni opāyikatarāni yāni c' eva10 etāni, imesaṃ
-vyañjanānaṃ ayam eva attho opāyikataro yo11 c' eva eso
-ti,’ so n' eva ussādetabbo12 na apasādetabbo.13 Anussā-
-detvā 14na apasādetvā14 so va15 sādhukaṃ saññāpetabbo,
+vyañjanāni opāyikatarāni yāni c' eva#10 etāni, imesaṃ
+vyañjanānaṃ ayam eva attho opāyikataro yo#11 c' eva eso
+ti,’ so n' eva ussādetabbo#12 na apasādetabbo.#13 Anussā-
+detvā 14na apasādetvā#14 so va#15 sādhukaṃ saññāpetabbo,
 tassa ca atthassa tesañ ca vyañjanānaṃ nisantiyā.
-     19. Aparo pi ce Cunda sabrahmacārī saṅghe dhammaṃ
-bhāseyya. Tatra16 ce tumhākaṃ evam assa -- ‘Ayaṃ kho
-āyasmā atthaṃ hi kho17 micchā gaṇhāti, vyañjanāni
+     ^19. Aparo pi ce Cunda sabrahmacārī saṅghe dhammaṃ
+bhāseyya. Tatra#16 ce tumhākaṃ evam assa -- ‘Ayaṃ kho
+āyasmā atthaṃ hi kho#17 micchā gaṇhāti, vyañjanāni
 ~8.129
 sammā ropetīti,’ tassa n' eva abhinanditabbaṃ na paṭik-
 kositabbaṃ. Anabhinanditvā appaṭikkositvā so evam assa
 vacanīyo -- ‘Imesaṃ nu kho āvuso vyañjanānaṃ ayaṃ vā
 attho eso vā attho, katamo opāyikataro ti?’ So ce evaṃ
-vadeyya -- ‘Imesaṃ1 kho āvuso vyañjanānaṃ ayam eva
-attho opāyikataro, yo2 c' eva eso ti,’ so n' eva ussādetabbo
-na apasādetabbo. Anussādetvā anapasādetvā so yeva3
-sādhukaṃ saññāpetabbo tass' ev'4 atthassa5 nisantiyā.
-     20. Aparo pi ce Cunda sabrahmacārī saṅghe6 dhammaṃ
+vadeyya -- ‘Imesaṃ#1 kho āvuso vyañjanānaṃ ayam eva
+attho opāyikataro, yo#2 c' eva eso ti,’ so n' eva ussādetabbo
+na apasādetabbo. Anussādetvā anapasādetvā so yeva#3
+sādhukaṃ saññāpetabbo tass' ev'#4 atthassa#5 nisantiyā.
+     ^20. Aparo pi ce Cunda sabrahmacārī saṅghe#6 dhammaṃ
 bhāseyya, tatra ce tumhākaṃ evam assa -- ‘Ayaṃ kho
 āyasmā atthaṃ hi kho sammā gaṇhāti, vyañjanāni micchā
 ropetīti,’ tassa n' eva abhinanditabbaṃ na paṭikkositabbaṃ.
 Anabhinanditvā appaṭikkositvā so evam assa vacanīyo --
-‘Imassa nu kho āvuso atthassa imāni ca7 vyañjanāni
-etāni vā8 vyañjanāni, katamāni opāyikatarānīti?’ So ce
-evaṃ vadeyya -- ‘Imassa nu9 kho10 āvuso atthassa imān'
-eva vyañjanāni opāyikatarāni, yāni11 c' eva etānīti,’ so
+‘Imassa nu kho āvuso atthassa imāni ca#7 vyañjanāni
+etāni vā#8 vyañjanāni, katamāni opāyikatarānīti?’ So ce
+evaṃ vadeyya -- ‘Imassa nu#9 kho#10 āvuso atthassa imān'
+eva vyañjanāni opāyikatarāni, yāni#11 c' eva etānīti,’ so
 n' eva ussādetabbo na apasādetabbo. Anussādetvā anapasā-
 detvā so yeva sādhukaṃ saññāpetabbo tesaṃ ñeva vyañ-
 janānaṃ nisantiyā.
-     21. Aparo pi ce Cunda sabrahmacārī saṅghe dhammaṃ
+     ^21. Aparo pi ce Cunda sabrahmacārī saṅghe dhammaṃ
 bhāseyya, tatra ce tumhākaṃ evam assa -- ‘Ayaṃ kho
 āyasmā atthaṃ ñeva sammā gaṇhāti, vyañjanāni sammā
 ropetīti,’ tassa ‘Sādhūti’ bhāsitaṃ abhinanditabbaṃ
-anumoditabbaṃ. Tassa12 ‘Sādhūti’ bhāsitaṃ abhinan-
+anumoditabbaṃ. Tassa#12 ‘Sādhūti’ bhāsitaṃ abhinan-
 ditvā anumoditvā so evam assa vacanīyo -- ‘Lābhā no
 āvuso, suladdhaṃ no āvuso, ye mayaṃ āyasmantaṃ
-tādisaṃ sabrahmacāriṃ passāma13 evaṃ atthūpetaṃ vyañ-
+tādisaṃ sabrahmacāriṃ passāma#13 evaṃ atthūpetaṃ vyañ-
 janūpetan ti.’
-     22. Navaṃ14 ahaṃ Cunda diṭṭha-dhammikānaṃ yeva
+     ^22. Navaṃ#14 ahaṃ Cunda diṭṭha-dhammikānaṃ yeva
 ~8.130
 āsavānaṃ saṃvarāya dhammaṃ desemi. Na panāhaṃ
 Cunda samparāyikānaṃ yeva āsavānaṃ paṭighātāya
-dhammaṃ desemi, diṭṭha-dhammikānaṃ c' evāhaṃ1 Cunda
+dhammaṃ desemi, diṭṭha-dhammikānaṃ c' evāhaṃ#1 Cunda
 āsavānaṃ saṃvarāya dhammaṃ desemi samparāyikānañ
-ca āsavānaṃ paṭighātāya.2 Tasmāt iha Cunda yaṃ vo
+ca āsavānaṃ paṭighātāya.#2 Tasmāt iha Cunda yaṃ vo
 mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ yāvad eva sītassa
 paṭighātāya, uṇhassa paṭighātāya, ḍaṃsa-makasa-vātātapa-
-siriṃsapa3-samphassānaṃ paṭighātāya yāvad eva hiri-
+siriṃsapa#3-samphassānaṃ paṭighātāya yāvad eva hiri-
 kopīna-paṭicchādanatthaṃ. Yo vo mayā piṇḍapāto anuñ-
 ñāto, alaṃ vo so yāvad eva imassa kāyassa ṭhitiyā
 yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya -- ‘Iti
 purāṇañ ca vedanaṃ paṭihaṅkhāmi navañ ca vedanaṃ na
-{uppādessāmi}, yātrā4 ca me bhavissati anavajjatā ca phāsu-
+{uppādessāmi}, yātrā#4 ca me bhavissati anavajjatā ca phāsu-
 vihāro cāti.’ Yaṃ vo mayā senāsanaṃ anuññātaṃ, alaṃ
 vo taṃ yāvad eva sītassa paṭighātāya uṇhassa paṭighātāya
 daṃsa-makasa-{vātātapa}-siriṃsapa-samphassānaṃ paṭighā-
@@ -398,38 +398,38 @@ rāmatthaṃ. Yo vo mayā {gilāna-paccaya}-bhesajja-parik-
 khāro anuññāto, alaṃ vo so yāvad eva uppannānaṃ
 veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjha-
 paramatāyāti.
-     23. Ṭhānaṃ kho pan' etaṃ Cunda vijjati, yaṃ añña-tit-
+     ^23. Ṭhānaṃ kho pan' etaṃ Cunda vijjati, yaṃ añña-tit-
 thiyā paribbājakā evaṃ vadeyyuṃ -- ‘Sukhallikānuyogam
 anuyuttā Samaṇā Sakya-puttiyā viharantīti.’ Evaṃ
-vādino5 Cunda añña-titthiyā paribbājakā evam assu
+vādino#5 Cunda añña-titthiyā paribbājakā evam assu
 vacanīyā -- ‘Katamo so āvuso sukhallikānuyogo? Sukh-
 allikānuyogā pi hi bahū aneka-vihitā nāna-ppakārakā ti.’
-Cattāro 'me Cunda sukhallikānuyogā6 hīnā gammā pothuj-
+Cattāro 'me Cunda sukhallikānuyogā#6 hīnā gammā pothuj-
 janikā anariyā anattha-saṃhitā na nibbidāya na virāgāya
 na nirodhāya na upasamāya na abhiññāya na sambodhāya
 na nibbānāya saṃvattanti. Katame cattāro? Idha Cunda
-ekacco bālo pāṇe7 vadhitvā attānaṃ sukheti pīṇeti, ayaṃ
+ekacco bālo pāṇe#7 vadhitvā attānaṃ sukheti pīṇeti, ayaṃ
 paṭhamo sukhallikānuyogo. Puna ca paraṃ Cunda idh'
 ~8.131
 ekacco adinnaṃ ādiyitvā attānaṃ sukheti pīṇeti, ayaṃ
 dutiyo sukhallikānuyogo. Puna ca paraṃ Cunda idh'
 ekacco musā-bhaṇitvā attānaṃ sukheti pīṇeti, ayaṃ tatiyo
 sukhallikānuyogo. Puna ca paraṃ Cunda idh' ekacco
-pañcahi kāma-guṇehi samappito samaṅgi-bhūto parivāreti,1
+pañcahi kāma-guṇehi samappito samaṅgi-bhūto parivāreti,#1
 ayaṃ catuttho sukhallikānuyogo. Ime kho Cunda cattāro
 sukhallikānuyogā hīnā gammā pothujjanikā anariyā
 anattha-saṃhitā na nibbidāya na virāgāya na nirodhāya na
 upasamāya na abhiññāya na sambodhāya na nibbānāya
 saṃvattanti.
-     24. Ṭhānaṃ kho pan' etaṃ Cunda vijjati, yaṃ añña-
-titthiyā evaṃ puccheyyuṃ2 -- ‘Ime cattāro sukhallikānu-
-yoge anuyuttā Samaṇā Sakya-puttiyā viharantīti?’ Te3
-‘Mā h' evan 'ti 'ssu vacanīyā, na vo te4 sammā {vadamānā}
-vadeyyuṃ, 5abbhācikkheyyuṃ vo te6 asatā abhūtena.
-Cattāro 'me Cunda sukhallikānuyogā ekanta7-nibbidāya
+     ^24. Ṭhānaṃ kho pan' etaṃ Cunda vijjati, yaṃ añña-
+titthiyā evaṃ puccheyyuṃ#2 -- ‘Ime cattāro sukhallikānu-
+yoge anuyuttā Samaṇā Sakya-puttiyā viharantīti?’ Te#3
+‘Mā h' evan 'ti 'ssu vacanīyā, na vo te#4 sammā {vadamānā}
+vadeyyuṃ, #5abbhācikkheyyuṃ vo te#6 asatā abhūtena.
+Cattāro 'me Cunda sukhallikānuyogā ekanta#7-nibbidāya
 virāgāya nirodhāya upasamāya abhiññāya sambodhāya
 nibbānāya saṃvattanti. Katame cattāro? Idha Cunda
-bhikkhu8 vivicc' eva kāmehi vivicca akusalehi dhammehi
+bhikkhu#8 vivicc' eva kāmehi vivicca akusalehi dhammehi
 savitakkaṃ {savicāraṃ} vivekajaṃ pīti-sukhaṃ paṭhama-
 jjhānaṃ upasampajja viharati. Ayaṃ paṭhamo sukhallik-
 ānuyogo. Puna ca paraṃ Cunda bhikkhu vitakka-
@@ -444,11 +444,11 @@ pe . . . ayaṃ catuttho sukhallikānuyogo. Ime kho Cunda
 cattāro sukhallikānuyogā ekanta-nibbidāya virāgāya nirodh-
 āya upasamāya abhiññāya sambodhāya nibbānāya saṃvat-
 tanti. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
-titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Ime1 cattāro
+titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Ime#1 cattāro
 sukhallikānuyoge anuyuttā Samaṇā Sakya-puttiyā viharan-
-tīti.’ Te2 ‘Evan’ ti 'ssu vacanīyā, sammā vo te vadamānā
+tīti.’ Te#2 ‘Evan’ ti 'ssu vacanīyā, sammā vo te vadamānā
 vadeyyuṃ, na vo te abbhācikkheyyuṃ asatā abhūtena.
-     25. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña
+     ^25. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña
 titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Ime pana āvuso
 cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ kati
 phalāni kat' ānisaṃsā pāṭikaṅkhā ti?’ {Evaṃ-vādino}
@@ -456,15 +456,15 @@ Cunda añña-titthiyā paribbājakā evam assu vacanīyā --
 ‘Ime kho āvuso cattāro sukhallikānuyoge anuyuttānaṃ
 viharataṃ cattāri phalāni cattāro ānisaṃsā pāṭikaṅkhā.
 Katame cattāro? Idh' āvuso bhikkhu tiṇṇaṃ saṃyo-
-janānaṃ parikkhayā sotāpanno3 hoti avinipāta-dhammo
+janānaṃ parikkhayā sotāpanno#3 hoti avinipāta-dhammo
 niyato sambodhi-parāyano. Idaṃ paṭhamaṃ phalaṃ
 paṭhamo ānisaṃso. Puna ca paraṃ āvuso bhikkhu
 tiṇṇaṃ saṃyojanānaṃ parikkhayā rāga-dosa-mohānaṃ
-tanuttā {sakadāgāmī}4 hoti sakid eva imaṃ lokaṃ āgantvā
+tanuttā {sakadāgāmī}#4 hoti sakid eva imaṃ lokaṃ āgantvā
 dukkhass' antaṃ karoti. Idaṃ dutiyaṃ phalaṃ dutiyo
 ānisaṃso. Puna ca paraṃ āvuso bhikkhu pañcannaṃ
-orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko5
-hoti tattha parinibbāyī anāvatti-dhammo tasmā lokā.6
+orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko#5
+hoti tattha parinibbāyī anāvatti-dhammo tasmā lokā.#6
 Idaṃ tatiyaṃ phalaṃ tatiyo ānisaṃso. Puna ca paraṃ
 āvuso bhikkhu āsavānam khayā anāsavaṃ ceto-vimuttim
 paññā-vimuttiṃ diṭṭhe va dhamme sayaṃ abhiññā
@@ -472,61 +472,61 @@ sacchikatvā upasampajja viharati. Idaṃ catutthaṃ phalaṃ
 catuttho ānisaṃso. Ime kho āvuso cattāro sukhallikānu-
 yoge anuyuttānaṃ viharataṃ imāni cattāri phalāni cattāro
 ānisaṃsā pāṭikaṅkhā ti.’
-     26. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
+     ^26. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
 ~8.133
 titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Aṭṭhita-dhammā
 Samaṇā Sākya-puttiyā viharantīti.’ {Evaṃ-vādino} Cunda
 añña-titthiyā paribbājakā evam assu vacanīyā -- ‘Atthi
 kho āvuso tena Bhagavatā jānatā passatā arahatā Sammā-
 Sambuddhena sāvakānaṃ dhammā desitā paññattā {yāva-}
-jīvaṃ anatikkamanīyā. Seyyathā pi āvuso inda-khīlo1 vā
-ayo-khīlo vā gambhīra-nemo sunikhāto2 acalo asampavedhī,
+jīvaṃ anatikkamanīyā. Seyyathā pi āvuso inda-khīlo#1 vā
+ayo-khīlo vā gambhīra-nemo sunikhāto#2 acalo asampavedhī,
 evam eva kho āvuso tena Bhagavatā jānatā passatā arahatā
 Sammā-Sambuddhena sāvakānaṃ dhammā desitā paññattā
 {yāva-}jīvaṃ anatikkamanīyā. Yo so āvuso bhikkhu arahaṃ
 khīṇāsavo vusitavā kata-karaṇīyo ohita-bhāro anuppatta-
 sadattho {parikkhīṇa}-bhava-saṃyojano sammad-aññā
 vimutto, abhabbo so nava ṭhānāni ajjhācarituṃ.
-3Abhabbo āvuso khīṇāsavo bhikkhu sañcicca pāṇaṃ jīvitā
+#3Abhabbo āvuso khīṇāsavo bhikkhu sañcicca pāṇaṃ jīvitā
 voropetuṃ. Abhabbo khīṇāsavo bhikkhu adinnaṃ theyya-
-saṃkhātaṃ ādātuṃ.4 Abhabbo khīṇāsavo bhikkhu
+saṃkhātaṃ ādātuṃ.#4 Abhabbo khīṇāsavo bhikkhu
 methunaṃ dhammaṃ paṭisevituṃ. Abhabbo khīṇāsavo
-bhikkhu sampajāna-musā bhāsituṃ.5 Abhabbo khīṇāsavo
-bhikkhu sannidhi-kārakaṃ6 kāme paribhuñjituṃ, seyyathā
-pi pubbe agāriya7-bhūto. Abhabbo khīṇāsavo bhikkhu
-chandāgatiṃ8 gantuṃ. Abhabbo khīṇāsavo bhikkhu dosā-
+bhikkhu sampajāna-musā bhāsituṃ.#5 Abhabbo khīṇāsavo
+bhikkhu sannidhi-kārakaṃ#6 kāme paribhuñjituṃ, seyyathā
+pi pubbe agāriya#7-bhūto. Abhabbo khīṇāsavo bhikkhu
+chandāgatiṃ#8 gantuṃ. Abhabbo khīṇāsavo bhikkhu dosā-
 gatiṃ gantuṃ. Abhabbo khīṇāsavo bhikkhu mohāgatiṃ
 gantuṃ. Abhabbo khīṇāsavo bhikkhu bhayāgatiṃ gantuṃ.
 Yo so āvuso bhikkhu arahaṃ khīṇāsavo vusitavā kata-
 karaṇīyo ohita-bhāro anuppatta-sadattho parikkhīṇa-bhava-
-saṃyojano sammad-aññā vimutto, abhabbo so9 imāni nava
-ṭhānāni ajjhācaritun ti.’10
+saṃyojano sammad-aññā vimutto, abhabbo so#9 imāni nava
+ṭhānāni ajjhācaritun ti.’#10
 ~8.134
-     27. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
+     ^27. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
 titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Atītaṃ kho addhā-
 naṃ ārabbha Samaṇo Gotamo atīrakaṃ ñāṇa-dassanaṃ
-paññāpeti,1 no ca kho anāgataṃ addhānaṃ ārabbha
+paññāpeti,#1 no ca kho anāgataṃ addhānaṃ ārabbha
 atīrakaṃ ñāṇa-dassanaṃ paññāpeti; tayidaṃ kiṃ su
-2tayidaṃ kathaṃ sūti?’2 Ten' eva3 añña-titthiyā paribbā-
+#2tayidaṃ kathaṃ sūti?’#2 Ten' eva#3 añña-titthiyā paribbā-
 jakā añña-vihitakena ñāṇa-dassanena añña-vihitakaṃ ñāṇa-
-dassanaṃ4 paññāpetabbaṃ maññanti, yatheriva bālā
+dassanaṃ#4 paññāpetabbaṃ maññanti, yatheriva bālā
 avyattā. Atītaṃ kho Cunda addhānaṃ ārabbha Tathāga-
-tassa satānusāri-viññāṇaṃ5 hoti. So yāvatakaṃ ākaṅkhati
+tassa satānusāri-viññāṇaṃ#5 hoti. So yāvatakaṃ ākaṅkhati
 tāvatakaṃ anussarati. Anāgatañ ca kho addhānaṃ
 ārabbha Tathāgatassa bodhijaṃ ñāṇaṃ uppajjati -- ‘Ayam
 antimā jāti, n' atthi dāni punabbhavo ti.’
-     28. Atītañ ce pi6 Cunda hoti abhūtaṃ atacchaṃ anattha-
+     ^28. Atītañ ce pi#6 Cunda hoti abhūtaṃ atacchaṃ anattha-
 saṃhitaṃ, na taṃ Tathāgato vyākaroti. Atītaṃ ce pi
 Cunda hoti bhūtaṃ tacchaṃ anattha-saṃhitaṃ, tam pi
-Tathāgato na vyākaroti. Atītaṃ ce pi7 Cunda hoti bhūtaṃ
-tacchaṃ attha-saṃhitaṃ, tatra8 kālaññū hoti Tathāgato9
+Tathāgato na vyākaroti. Atītaṃ ce pi#7 Cunda hoti bhūtaṃ
+tacchaṃ attha-saṃhitaṃ, tatra#8 kālaññū hoti Tathāgato#9
 tassa pañhassa veyyākaraṇāya. Anāgataṃ ce pi Cunda
-hoti abhūtaṃ10 atacchaṃ11 anattha-saṃhitaṃ,12 na taṃ
+hoti abhūtaṃ#10 atacchaṃ#11 anattha-saṃhitaṃ,#12 na taṃ
 Tathāgato vyākaroti. Anāgataṃ ce pi Cunda hoti bhūtaṃ
 tacchaṃ anattha-saṃhitaṃ, tam pi Tathāgato na vyākaroti.
 Anāgataṃ ce pi Cunda hoti bhūtaṃ tacchaṃ attha-
-saṃhitaṃ tatra13 kālaññū hoti Tathāgato tassa pañhassa
-veyyākaraṇāya saṃkhittaṃ. Paccuppannaṃ14 ce pi Cunda
+saṃhitaṃ tatra#13 kālaññū hoti Tathāgato tassa pañhassa
+veyyākaraṇāya saṃkhittaṃ. Paccuppannaṃ#14 ce pi Cunda
 hoti abhūtaṃ atacchaṃ anattha-saṃhitaṃ, na taṃ Tathā-
 gato vyākaroti. Paccuppannaṃ ce pi Cunda hoti bhūtaṃ
 ~8.135
@@ -534,28 +534,28 @@ tacchaṃ anattha-saṃhitaṃ, tam pi Tathāgato na vyākaroti.
 {Paccuppannaṃ} ce pi Cunda hoti bhūtaṃ tacchaṃ attha-
 saṃhitaṃ, tatra kālaññū hoti Tathāgato tassa pañhassa
 veyyākaraṇāya. Iti kho Cunda atītānāgata-paccuppannesu
-dhammesu Tathāgato kāla-vādī1 bhūta-vādī attha-vādī
+dhammesu Tathāgato kāla-vādī#1 bhūta-vādī attha-vādī
 dhamma-vādī vinaya-vādī. Tasmā Tathāgato ti vuccati.
-     29. Yaṃ kho2 Cunda sadevakassa lokassa samārakassa
+     ^29. Yaṃ kho#2 Cunda sadevakassa lokassa samārakassa
 sabrahmakassa sassamaṇa-brāhmaṇiyā pajāya sadeva-
 manussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ
-pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ3 Tathāgatena
-abhisambuddhaṃ. Tasmā Tathāgato ti vuccati.4 Yañ
+pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ#3 Tathāgatena
+abhisambuddhaṃ. Tasmā Tathāgato ti vuccati.#4 Yañ
 ca Cunda rattiṃ Tathāgato anuttaraṃ sammā-sambodhiṃ
 abhisambujjhati, yañ ca rattim anupādisesāya nibbāna-
-dhātuyā parinibbāyati,5 yaṃ etasmiṃ antare bhāsati lapati
-niddisati, sabbaṃ taṃ tath' eva6 hoti no aññathā. Tasmā
+dhātuyā parinibbāyati,#5 yaṃ etasmiṃ antare bhāsati lapati
+niddisati, sabbaṃ taṃ tath' eva#6 hoti no aññathā. Tasmā
 Tathāgato ti vuccati. Yathā-vādī Cunda Tathāgato tathā-
 kārī, yathā-kārī tathā-vādī. Iti yathā-vādī tathā-kārī,
-yathā-kārī tathā-vādī,7 tasmā Tathāgato ti vuccati.8
-9Sadevake loke samārake sabrahmake sassamaṇa-brāh-
+yathā-kārī tathā-vādī,#7 tasmā Tathāgato ti vuccati.#8
+#9Sadevake loke samārake sabrahmake sassamaṇa-brāh-
 maṇiyā pajāya sadeva-manussāya Tathāgato abhibhū
-anabhibhūto aññadatthu-daso10 vasavattī. Tasmā Tathā-
+anabhibhūto aññadatthu-daso#10 vasavattī. Tasmā Tathā-
 gato ti vuccati.
-     30. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
+     ^30. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
 titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Kin nu kho āvuso
-hoti Tathāgato param maraṇā? 11 idam eva saccaṃ,
-mogham aññan ti?’ {Evaṃ-vādino}12 Cunda añña-titthiyā
+hoti Tathāgato param maraṇā? #11 idam eva saccaṃ,
+mogham aññan ti?’ {Evaṃ-vādino}#12 Cunda añña-titthiyā
 paribbājakā evam assu vacanīyā -- ‘Avyākataṃ kho āvuso
 ~8.136
 Bhagavatā: Hoti Tathāgato param maraṇā, idam eva
@@ -567,54 +567,54 @@ añña-titthiyā paribbājakā evam assu vacanīyā -- ‘Etam pi
 kho āvuso Bhagavatā avyākataṃ: Na hoti Tathāgato
 param maraṇā, idam eva saccaṃ, mogham aññan ti.’
 Ṭhānaṃ kho pan' etaṃ Cunda vijjati, yaṃ añña-titthiyā
-paribbājakā {evaṃ} vadeyyuṃ -- ‘Kin nu kho1 āvuso hoti ca
-na hoti ca2 Tathāgato param maraṇā . . . pe3 . . . n' eva
+paribbājakā {evaṃ} vadeyyuṃ -- ‘Kin nu kho#1 āvuso hoti ca
+na hoti ca#2 Tathāgato param maraṇā . . . pe#3 . . . n' eva
 hoti na na hoti Tathāgato param maraṇā, idam eva saccaṃ,
 mogham aññan ti?’ {Evaṃ-vādino} Cunda añña-titthiyā
 paribbājakā evam assu vacanīyā -- ‘Etam pi kho āvuso
 Bhagavatā avyākataṃ: N' eva hoti na na hoti Tathāgato
 param maraṇā, idam eva saccaṃ, mogham aññan ti.’
-     31. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
+     ^31. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-
 titthiyā paribbājakā evaṃ vadeyyuṃ -- ‘Kasmā pan' etaṃ
 āvuso Samaṇena Gotamena avyākatan ti?’ {Evaṃ-vādino}
 Cunda añña-titthiyā paribbājakā evam assu vacanīyā --
-‘4Na h' etaṃ āvuso attha-saṃhitaṃ na5 dhamma-saṃhitaṃ
+‘#4Na h' etaṃ āvuso attha-saṃhitaṃ na#5 dhamma-saṃhitaṃ
 na ādibrahmacariyakaṃ na nibbidāya na virāgāya na
 nirodhāya na upasamāya na abhiññāya na sambodhāya na
 nibbānāya saṃvattati. Tasmā taṃ Bhagavatā avyā-
 katan ti.’
-     32. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-titthiyā
+     ^32. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-titthiyā
 paribbājakā evaṃ vadeyyuṃ -- ‘Kiṃ pan' āvuso Samaṇena
 Gotamena vyākatan ti?’ {Evaṃ-vādino} Cunda añña-
-titthiyā paribbājakā evam assu {vacanīyā} -- ‘6Idaṃ dukkhan
+titthiyā paribbājakā evam assu {vacanīyā} -- ‘#6Idaṃ dukkhan
 ti kho āvuso Bhagavatā vyākataṃ, Ayaṃ dukkha-samudayo
 ti kho āvuso Bhagavatā vyākataṃ, Ayaṃ dukkha-nirodha
 ti kho āvuso Bhagavatā vyākataṃ, Ayaṃ dukkha-nirodho-
 gāminī paṭipadā ti kho āvuso Bhagavatā vyākatan ti.’
 ~8.137
-     33. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-titthiyā
+     ^33. Ṭhānaṃ kho pan' etaṃ Cunda vijjati yaṃ añña-titthiyā
 paribbājakā evaṃ vadeyyuṃ -- ‘Kasmā pan' etaṃ āvuso
 Samaṇena Gotamena vyākatan ti?’ {Evaṃ-vādino} Cunda
 añña-titthiyā paribbājakā evam assu vacanīyā -- ‘1Etaṃ hi
 āvuso attha-saṃhitaṃ, etaṃ dhamma-saṃhitaṃ, etaṃ
-ādi-brahmacariyakaṃ, ekanta2-nibbidāya virāgāya nirodh-
+ādi-brahmacariyakaṃ, ekanta#2-nibbidāya virāgāya nirodh-
 āya upasamāya abhiññāya sambodhāya nibbānāya saṃ-
 vattati. Tasmā taṃ Bhagavatā vyākatan ti.’
-     34. Ye pi te Cunda pubbanta-sahagatā diṭṭhi-nissayā, te
-pi vo mayā vyākatā yathā te vyākattabbā,3 yathā ca kho4
-te na vyākattabbā, kiṃ no ahaṃ5 tathā6 vyākarissāmi?
+     ^34. Ye pi te Cunda pubbanta-sahagatā diṭṭhi-nissayā, te
+pi vo mayā vyākatā yathā te vyākattabbā,#3 yathā ca kho#4
+te na vyākattabbā, kiṃ no ahaṃ#5 tathā#6 vyākarissāmi?
 Ye pi te Cunda aparanta-sahagatā diṭṭhi-nissayā, te pi vo
-mayā vyākatā yathā te vyākattabbā, yathā ca kho7 te na
-vyākattabbā, kiṃ vo ahaṃ te8 tathā vyākarissāmi?
-     Katame te9 Cunda pubbanta-sahagatā diṭṭhi-nissayā ye
-vo10 mayā vyākatā yathā11 te vyākattabbā 12yathā ca te na
-vyākattabbā? 12 Santi13 Cunda eke Samaṇa-Brāhmaṇā
+mayā vyākatā yathā te vyākattabbā, yathā ca kho#7 te na
+vyākattabbā, kiṃ vo ahaṃ te#8 tathā vyākarissāmi?
+     Katame te#9 Cunda pubbanta-sahagatā diṭṭhi-nissayā ye
+vo#10 mayā vyākatā yathā#11 te vyākattabbā #12yathā ca te na
+vyākattabbā? 12 Santi#13 Cunda eke Samaṇa-Brāhmaṇā
 evaṃ-vādino evaṃ-diṭṭhino -- ‘Sassato attā ca loko ca, idam
 eva saccaṃ mogham aññan ti.’ Santi pana Cunda eke
 Samaṇa-Brāhmaṇā evaṃ-vādino evaṃ-diṭṭhino --
-     ‘Asassato attā ca loko ca . . . pe14 . . .
+     ‘Asassato attā ca loko ca . . . pe#14 . . .
      Sassato ca asassato ca attā ca loko ca . . . pe . . .
-     N' eva sassato15 nāsassato15 attā ca loko ca . . . pe . . .
+     N' eva sassato#15 nāsassato#15 attā ca loko ca . . . pe . . .
      Sayaṃ-kato attā ca loko ca . . . pe . . .
      Paraṃ-kato attā ca loko ca . . . pe . . .
      Sayaṃ-kato ca paraṃ-kato ca attā ca loko ca . . . pe . . .
@@ -627,40 +627,40 @@ loko ca. Idam eva saccaṃ, {mogham} aññan ti.’
      N' eva sassataṃ nāsassataṃ sukha-dukkhaṃ:
      Sayaṃ-kataṃ sukha-dukkhaṃ:
      Paraṃ-kataṃ sukha-dukkhaṃ:
-     Sayaṃ-katañ ca1 paraṃ-katañ ca sukha-dukkhaṃ.
+     Sayaṃ-katañ ca#1 paraṃ-katañ ca sukha-dukkhaṃ.
      Asayaṃ-kāraṃ aparaṃ-kāraṃ adhicca-samuppannaṃ
 sukha-dukkhaṃ. Idam eva saccaṃ, mogham aññan ti.
-     35. Tatra2 Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
+     ^35. Tatra#2 Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
 evaṃ-diṭṭhino -- ‘Sassato attā ca loko ca, idam eva saccaṃ,
 mogham aññan ti,’ tyāhaṃ upasaṃkamitvā {evaṃ} vadāmi --
-Atthi nu3 kho idaṃ, āvuso, vuccati ‘Sassato attā ca loko
+Atthi nu#3 kho idaṃ, āvuso, vuccati ‘Sassato attā ca loko
 cāti?’ Yañ ca kho te evam āhaṃsu -- ‘Idam eva saccaṃ,
 mogham aññan ti,’ taṃ tesaṃ nānujānāmi. Taṃ kissa
 hetu? Aññathā-saññino pi h' ettha Cunda sant' eke
-sattā. Imāya pi kho ahaṃ Cunda paññattiyā n' eva attano4
+sattā. Imāya pi kho ahaṃ Cunda paññattiyā n' eva attano#4
 sama-samaṃ samanupassāmi kuto bhiyyo, atha kho aham
 eva tattha bhiyyo yadidaṃ adhippaññatti.
-     36. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
-evaṃ-diṭṭhino5 --
-     ‘Asassato attā ca loko ca:6
+     ^36. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
+evaṃ-diṭṭhino#5 --
+     ‘Asassato attā ca loko ca:#6
      Sassato ca asassato ca attā ca loko ca:
      N' eva sassato nāsassato attā ca loko ca:
      Sayaṃ-kato attā ca loko ca:
      Paraṃ-kato attā ca loko ca:
      Sayaṃ-kato ca paraṃ-kato ca attā ca loko ca:
-     Asayaṃ-kāro7 ca aparaṃ-kāro7 ca adhicca-samuppanno
+     Asayaṃ-kāro#7 ca aparaṃ-kāro#7 ca adhicca-samuppanno
 attā ca loko ca:
-     Sassataṃ sukha8-dukkhaṃ:
+     Sassataṃ sukha#8-dukkhaṃ:
 ~8.139
      Asassataṃ sukha-dukkhaṃ:
      Sassatañ ca asassatañ ca sukha-dukkhaṃ:
-     N' eva sassataṃ1 nāsassataṃ1 sukha-dukkhaṃ:
+     N' eva sassataṃ#1 nāsassataṃ#1 sukha-dukkhaṃ:
      Sayaṃ-kataṃ sukha-dukkhaṃ:
      Paraṃ-kataṃ sukha-dukkhaṃ:
-     Sayaṃ-katañ ca2 paraṃ-katañ ca sukha-dukkhaṃ:
+     Sayaṃ-katañ ca#2 paraṃ-katañ ca sukha-dukkhaṃ:
      Asayaṃ-kāraṃ aparaṃ-kāraṃ adhicca-samuppannaṃ
 sukha-dukkhaṃ. Idam eva saccaṃ, mogham aññan ti: '
-     Tyāhaṃ upasaṃkamitvā evaṃ vadāmi -- Atthi3 kho idaṃ,
+     Tyāhaṃ upasaṃkamitvā evaṃ vadāmi -- Atthi#3 kho idaṃ,
 āvuso, vuccati ‘Asayaṃ-kāraṃ aparaṃ-{kāraṃ} adhicca-
 samuppannaṃ sukha-dukkhan ti?’ Yañ ca kho te evam
 āhaṃsu, -- ‘Idam eva saccaṃ, mogham aññan ti,’ taṃ
@@ -670,15 +670,15 @@ Cunda paññattiyā n' eva attano sama-samaṃ samanupas-
 sāmi kuto bhiyyo, atha kho aham eva tattha bhiyyo
 yadidaṃ adhippaññatti. Ime kho te Cunda pubbanta-
 sahagatā diṭṭhi-nissayā, ye vo mayā vyākatā yathā te
-vyākattabbā, yathā ca4 te na vyākattabbā, kiṃ vo ahaṃ te
-tattha5 vyākarissāmi? 6
-     37. Katame ca7 te Cunda aparanta-sahagatā diṭṭhi-
-nissayā ye vo mayā vyākatā yathā8 te vyākattabbā 9yathā
-ca te na vyākattabbā? 9
+vyākattabbā, yathā ca#4 te na vyākattabbā, kiṃ vo ahaṃ te
+tattha#5 vyākarissāmi? #6
+     ^37. Katame ca#7 te Cunda aparanta-sahagatā diṭṭhi-
+nissayā ye vo mayā vyākatā yathā#8 te vyākattabbā 9yathā
+ca te na vyākattabbā? #9
      Santi Cunda eke Samaṇa-Brāhmaṇā evaṃ-vādino evaṃ-
 diṭṭhino -- ‘Rūpī attā hoti arogo param maraṇā, idam eva
 saccaṃ, mogham aññan ti.’
-     Santi10 pana Cunda eke Samaṇa-Brāhmaṇā evaṃ-vādino
+     Santi#10 pana Cunda eke Samaṇa-Brāhmaṇā evaṃ-vādino
 evaṃ-diṭṭhino -- ‘Arūpī attā hoti. . . .
      Rūpī ca arūpī ca attā hoti. . . .
      N' eva rūpī nārūpī attā hoti. . . .
@@ -688,7 +688,7 @@ evaṃ-diṭṭhino -- ‘Arūpī attā hoti. . . .
       N' eva saññī nāsaññī attā hoti. . . .
      Attā ucchijjati vinassati, na hoti param maraṇā, idam
 eva saccaṃ, mogham aññan ti.’
-     38. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
+     ^38. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
 evaṃ-diṭṭhino -- ‘Rūpī attā hoti arogo param maraṇā, idam
 eva saccaṃ, mogham aññan ti,’ tyāhaṃ upasaṃkamitvā
 evaṃ vadāmi -- Atthi kho idaṃ, āvuso, vuccati ‘Rūpī attā
@@ -697,9 +697,9 @@ hoti arogo param maraṇā ti?’ Yañ ca kho te evam
 nānujānāmi. Taṃ kissa hetu? Aññathā-saññino pi h'
 ettha Cunda sant' eke sattā. Imāya pi kho ahaṃ Cunda
 paññattiyā n' eva attano sama-samaṃ samanupassāmi kuto
-bhiyyo, atha kho Cunda1 aham eva tattha bhiyyo yadidaṃ
+bhiyyo, atha kho Cunda#1 aham eva tattha bhiyyo yadidaṃ
 adhippaññatti.
-     39. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
+     ^39. Tatra Cunda ye te Samaṇa-Brāhmaṇā evaṃ-vādino
 evaṃ-diṭṭhino --
       Arūpī attā hoti . . . pe. . . .
       Rūpī ca arūpī ca attā hoti. . . .
@@ -707,7 +707,7 @@ evaṃ-diṭṭhino --
       Saññī attā hoti. . . .
       Asaññī attā hoti. . . .
       N' eva saññī nāsaññī attā hoti. . . .
-     Attā ucchijjati vinassati, na hoti2 param maraṇā, idam
+     Attā ucchijjati vinassati, na hoti#2 param maraṇā, idam
 eva saccaṃ, mogham aññan ti: '
      Tyāhaṃ upasaṃkamitvā evaṃ vadāmi -- Atthi kho idaṃ,
 āvuso, vuccati ‘Attā ucchijjati vinassati, na hoti param
@@ -717,32 +717,32 @@ Taṃ kissa hetu? Aññathā saññino pi h' ettha Cunda sant'
 eke sattā. Imāya pi kho ahaṃ Cunda paññattiyā n' eva
 attano sama-samaṃ samanupassāmi kuto bhiyyo, atha kho
 aham eva tattha bhiyyo yadidaṃ adhippaññatti. Ime kho
-Cunda aparanta-sahagatā diṭṭhi-nissayā ye vo3 mayā vyā-
+Cunda aparanta-sahagatā diṭṭhi-nissayā ye vo#3 mayā vyā-
 ~8.141
 katā, yathā te vyākattabbā; yathā ca te na vyākattabbā,
-kiṃ vo ahaṃ te tathā1 vyākarissāmi? 2
-     40. Imesañ ca Cunda pubbanta-sahagatānaṃ diṭṭhi-
+kiṃ vo ahaṃ te tathā#1 vyākarissāmi? #2
+     ^40. Imesañ ca Cunda pubbanta-sahagatānaṃ diṭṭhi-
 nissayānaṃ imesañ ca aparanta-sahagatānaṃ {diṭṭhi}-nis-
 sayānaṃ pahānāya samatikkamāya evaṃ mayā cattāro
 satipaṭṭhānā desitā paññattā. Katame cattāro? Idha
 Cunda bhikkhu kāye kāyānupassī viharati ātāpī sampajāno
 satimā, vineyya loke abhijjhā-domanassaṃ, vedanāsu . . .
-citte3 . . . dhammesu dhammānupassī viharati ātāpī sam-
+citte#3 . . . dhammesu dhammānupassī viharati ātāpī sam-
 pajāno satimā, vineyya loke abhijjhā-domanassaṃ. Imesañ
 ca Cunda pubbanta-sahagatānaṃ diṭṭhi-nissayānaṃ imesañ
 ca aparanta-sahagatānaṃ diṭṭhi-nissayānaṃ pahānāya
 samatikkamāya evam mayā ime cattāro satipaṭṭhānā desitā
 paññattā ti.
                        ----------------------------
-     41. Tena kho pana samayena āyasmā Upavāno4 Bhaga-
-vato piṭṭhito ṭhito hoti5 Bhagavantaṃ vījayamāno. Atha
-kho āyasmā Upavāno Bhagavantaṃ6 etad avoca:
-     ‘Acchariyaṃ bhante, abbhutaṃ7 bhante, pāsādiko
-vatāyaṃ bhante dhamma-pariyāyo, atipāsādiko8 vatāyaṃ
-bhante dhamma-pariyāyo. Ko nāmo ayaṃ9 bhante
+     ^41. Tena kho pana samayena āyasmā Upavāno#4 Bhaga-
+vato piṭṭhito ṭhito hoti#5 Bhagavantaṃ vījayamāno. Atha
+kho āyasmā Upavāno Bhagavantaṃ#6 etad avoca:
+     ‘Acchariyaṃ bhante, abbhutaṃ#7 bhante, pāsādiko
+vatāyaṃ bhante dhamma-pariyāyo, atipāsādiko#8 vatāyaṃ
+bhante dhamma-pariyāyo. Ko nāmo ayaṃ#9 bhante
 dhamma-pariyāyo ti?’
      ‘Tasmāt iha tvaṃ Upavāna imaṃ dhamma-pariyāyaṃ
-“Pāsādiko” ti eva naṃ10 dhārehīti.’
+“Pāsādiko” ti eva naṃ#10 dhārehīti.’
      Idam avoca Bhagavā. Attamano āyasmā Upavāno
 Bhagavato bhāsitaṃ abhinandīti.
-                        Pāsādika-Suttantaṃ11 Chaṭṭhaṃ.
+                        Pāsādika-Suttantaṃ#11 Chaṭṭhaṃ.

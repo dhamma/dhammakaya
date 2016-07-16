@@ -1,8 +1,8 @@
 ~8.194
                         [xxxii.  Āṭānāṭiya-Suttanta.]
 Evam me sutaṃ.
-     1. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjha-
-kūṭe pabbate. Atha kho cattāro Mahārājā1 mahatiyā ca
+     ^1. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjha-
+kūṭe pabbate. Atha kho cattāro Mahārājā#1 mahatiyā ca
 Yakkha-senāya mahatiyā ca Gandhabba-senāya mahatiyā
 ca Kumbhaṇḍa-senāya mahatiyā ca Nāga-senāya, catud-
 disaṃ rakkhaṃ ṭhapetvā, catuddisaṃ gumbaṃ ṭhapetvā,
@@ -12,12 +12,12 @@ yena Bhagavā ten' upasaṃkamiṃsu, upasaṃkamitvā
 Bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Te pi
 kho Yakkhā app ekacce Bhagavantaṃ abhivādetvā
 ekamantaṃ nisīdiṃsu: app ekacce Bhagavatā saddhiṃ
-sammodiṃsu, sammodanīyaṃ kathaṃ sārāṇīyaṃ2 vītisā-
-retvā3 ekamantaṃ nisīdiṃsu: {app} ekacce yena Bhagavā
+sammodiṃsu, sammodanīyaṃ kathaṃ sārāṇīyaṃ#2 vītisā-
+retvā#3 ekamantaṃ nisīdiṃsu: {app} ekacce yena Bhagavā
 ten' añjalim paṇāmetvā ekamantaṃ nisīdiṃsu: app ekacce
 nāma-gottaṃ sāvetvā ekamantam nisīdiṃsu: app ekacce
 tuṇhī-bhūtā ekamantaṃ {nisīdiṃsu.}
-     2. Ekamantaṃ nisinno kho Vessavaṇo4 Mahārājā
+     ^2. Ekamantaṃ nisinno kho Vessavaṇo#4 Mahārājā
 Bhagavantaṃ etad avoca:
      ‘Santi hi bhante uḷārā Yakkhā Bhagavato appasannā,
 santi hi bhante uḷārā Yakkhā Bhagavato pasannā: santi
@@ -37,16 +37,16 @@ pāṇātipātā, appaṭiviratā adinnādānā, appaṭiviratā kāmesu
 micchācārā, appaṭiviratā musā-vādā, appaṭiviratā surā-
 meraya-majja-pamādaṭṭhānā. Tesaṃ taṃ hoti appiyaṃ
 amanāpaṃ. Santi hi bhante Bhagavato sāvakā, araññe
-vanapatthāni1 pantāni2 senāsanāni paṭisevanti3 appa-
-ssaddāni appa-nigghosāni vijana4-vātāni manussa-rāha-
+vanapatthāni#1 pantāni#2 senāsanāni paṭisevanti#3 appa-
+ssaddāni appa-nigghosāni vijana#4-vātāni manussa-rāha-
 seyyakāni paṭisallāna-sāruppāni. Tattha santi uḷārā
 Yakkhā nivāsino ye imasmim Bhagavato pāvacane
 appasannā. Tesaṃ pasādāya uggaṇhātu bhante Bhagavā
-Āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ5 bhikkhunīnaṃ upāsa-
+Āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ#5 bhikkhunīnaṃ upāsa-
 kānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsu-
 vihārāyāti.’
      Adhivāsesi Bhagavā tuṇhi-bhāvena.
-     3. Atha kho Vessavaṇo Mahārājā Bhagavato adhivāsanaṃ
+     ^3. Atha kho Vessavaṇo Mahārājā Bhagavato adhivāsanaṃ
 viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
               ‘Vipassissa nam' atthu
                    cakkhumantassa sirīmato.
@@ -56,28 +56,28 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
                    nahātakassa tapassino.
 ~8.196
             Nam' atthu Kakusandhassa
-                 Māra-senā pamaddino.1
-            Konāgamanassa2 nam' atthu
+                 Māra-senā pamaddino.#1
+            Konāgamanassa#2 nam' atthu
                  brāhmaṇassa vusīmato.
             Kassapassa nam' atthu
                  vippamuttassa sabbadhi.
             Aṅgīrasassa nam' atthu
                  Sakya-puttassa sirīmato,
-            Yo imaṃ dhammam adesesi3
-                 sabba-dukkhāpanudanaṃ.4
+            Yo imaṃ dhammam adesesi#3
+                 sabba-dukkhāpanudanaṃ.#4
             Ye cāpi nibbutā loke
                  yathābhūtaṃ vipassisuṃ,
-            Te janā apisunā5
-                 mahantā6 vīta7-sāradā.
+            Te janā apisunā#5
+                 mahantā#6 vīta#7-sāradā.
             Hitaṃ deva-manussānaṃ
                  yaṃ namassanti Gotamaṃ
             Vijjā-{caraṇa}-sampannaṃ.
                  mahantaṃ vīta-saradaṃ.
-         4. ‘Yato uggacchati suriyo8
+         ^4. ‘Yato uggacchati suriyo#8
                  ādicco maṇḍalī mahā,
             Yassa c' uggacchamānassa
                  saṃvarī pi nirujjhati,
-            Yassa c' uggate9 suriye
+            Yassa c' uggate#9 suriye
                  “Divaso” ti pavuccati,
             Rahado pi tattha gambhīro
                  samuddo saritodako.
@@ -85,16 +85,16 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
                  “Samuddo saritodako.”
 ~8.197
             Ito “sā purimā disā”
-                 iti naṃ ācikkhatī1 jano.
+                 iti naṃ ācikkhatī#1 jano.
             Yaṃ disaṃ abhipāleti
                  Mahārājā yassassi so
-            Gandhabbānaṃ ādhipati,2
-                 “Dhataraṭṭho” iti3 nāma so,
-            Ramati4 nacca-gītehi
+            Gandhabbānaṃ ādhipati,#2
+                 “Dhataraṭṭho” iti#3 nāma so,
+            Ramati#4 nacca-gītehi
                  Gandhabbehi purakkhato.
             Puttā pi tassa bahavo,
                  eka-nāmā ti me sutaṃ,
-            Asīti5 dasa eko ca
+            Asīti#5 dasa eko ca
                  Inda-nāmā mahabbalā.
             Te cāpi Buddhaṃ disvāna,
                  Buddhaṃ ādicca-bandhunaṃ,
@@ -105,12 +105,12 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
             Kusalena samekkhasi,
                  amanussā pi taṃ vadanti!
             Sutaṃ n' etaṃ abhiṇhaso,
-                 tasmā evaṃ vademase,6
+                 tasmā evaṃ vademase,#6
             “Jinaṃ vandatha Gotamaṃ,
                  Jinaṃ vandāma Gotamaṃ,
             Vijjā-caraṇa-sampannaṃ
                  Buddhaṃ vadāma Gotamaṃ”
-         5. ‘Yena Petā pavuccanti
+         ^5. ‘Yena Petā pavuccanti
                  pisuṇā piṭṭhi-maṃsikā
             Pāṇātipātino luddhā
                  corā nekatikā janā,
@@ -141,7 +141,7 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
                  Jinaṃ vandāma Gotamaṃ,
             Vijjā-caraṇa-sampannaṃ
                  Buddhaṃ vandāma Gotamaṃ.”
-         6. ‘Yattha c' oggacchati suriyo
+         ^6. ‘Yattha c' oggacchati suriyo
                  ādicco maṇḍalī mahā,
             Yassa c' oggacchamānassa
                  divaso pi nirujjhati,
@@ -156,10 +156,10 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
 ~8.199
             Yaṃ disaṃ abhipāleti
                  Mahārājā yasassi so
-            Nāgānaṃ1 ādhipati,
+            Nāgānaṃ#1 ādhipati,
                  “Virūpakkho” iti nāma so
             Ramati nacca-gītehi,
-                 Nāgehi2 purakkhato.
+                 Nāgehi#2 purakkhato.
             Puttā pi tassa bahavo
                  eka-nāmā ti me sutaṃ,
             Asīti dasa eko ca
@@ -178,77 +178,77 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
                  Jinaṃ vandāma Gotamaṃ,
             Vijjā-caraṇa-sampannaṃ
                  Buddhaṃ vandāma Gotamaṃ.”
-         7. ‘Yena Uttara-kurū rammā3
+         ^7. ‘Yena Uttara-kurū rammā#3
                  Mahā-Neru sudassano
             Manussā tattha jāyanti
                  amamā apariggahā.
-            Na te bījaṃ pavapanti,4
-                 na pi nīyanti5 naṅgalā,
+            Na te bījaṃ pavapanti,#4
+                 na pi nīyanti#5 naṅgalā,
             Akaṭṭha-pākimaṃ sāliṃ
                  paribhuñjanti mānusā.
             Akaṇaṃ athusaṃ suddhaṃ
                  sugandhaṃ taṇḍula-pphalaṃ
 ~8.200
-            Tuṇḍi-kīre1 pacitvāna,
+            Tuṇḍi-kīre#1 pacitvāna,
                  tato bhuñjati bhojanaṃ.
             Gāvim eka-khuraṃ katvā
                  anuyanti diso disaṃ,
             Pasuṃ eka-khuraṃ katvā
                  anuyanti diso disaṃ,
-            Itthī2-vāhanaṃ katvā
+            Itthī#2-vāhanaṃ katvā
                  anuyanti diso disaṃ,
-            Purisa3-vāhanaṃ katvā
+            Purisa#3-vāhanaṃ katvā
                  anuyanti diso disaṃ,
-            Kumāri4-vāhanaṃ katvā
+            Kumāri#4-vāhanaṃ katvā
                  anuyanti diso disaṃ,
-            Kumāra5-vāhanaṃ katvā
+            Kumāra#5-vāhanaṃ katvā
                  anuyanti diso disaṃ,
             Te yāne abhirūhitvā
                  sabbā disā anupariyanti
                   Pacārā tassa rājino.
             Hatthi-yānaṃ assa-yānaṃ
-                 dibbaṃ6 yānaṃ upaṭṭhitaṃ,
+                 dibbaṃ#6 yānaṃ upaṭṭhitaṃ,
             Pāsādā sivikā c' eva
                  Mahārājassa yasassino.
             Tassa ca nagarā ahu
                  antalikkhe sumāpitā,
             Āṭānāṭā Kusināṭā
                  Parakusināṭā
-            Nāṭapuriyā7
-                 Parakusitanāṭā.8
+            Nāṭapuriyā#7
+                 Parakusitanāṭā.#8
 ~8.201
-            Uttarena Kapīvanto,1
+            Uttarena Kapīvanto,#1
                  Janogham aparena ca,
             Navanatiyo
                  Ambara-Ambaravatiyo,
-            Āḷakamandā nāma rāja-dhāni.2
+            Āḷakamandā nāma rāja-dhāni.#2
                  Kuverassa kho pana
             Mārisa, Mahārājassa
-                 Visāṇā nāma rāja-dhāni.3
+                 Visāṇā nāma rāja-dhāni.#3
             Tasmā Kuvero Mahārājā
                  “Vessavaṇo” ti pavuccati.
             Paccesanto pakāsenti
                  Tatolā Tattalā Tatotalā
             Ojasi Tejasi Tatojasi
-                 Sūro4 rājā Ariṭṭho Nemi.
+                 Sūro#4 rājā Ariṭṭho Nemi.
             Rahado pi tattha Dharanī nāma
                  yato meghā pavassanti,
                    Vassā yato patāyanti.
-            Sabhā pi tattha Bhagalavati5 nāma
-                 yattha Yakkhā payirupāsanti.6
+            Sabhā pi tattha Bhagalavati#5 nāma
+                 yattha Yakkhā payirupāsanti.#6
             Tattha nicca-phalā rukkhā
                  nānā-dija-gaṇāyutā
-            Mayūra-koñcābhirudā7
-                 kokilābhīhi8 vaggubhi.9
+            Mayūra-koñcābhirudā#7
+                 kokilābhīhi#8 vaggubhi.#9
             Jīvaṃ jīvaka-sadd' ettha
-                 atho oṭṭhava10-cittakā
+                 atho oṭṭhava#10-cittakā
 ~8.202
-            Kukutthakā1 kulīrakā2
-                 vane pokkhara-sātakā.3
-            Suka-sāḷika4-sadd' ettha
+            Kukutthakā#1 kulīrakā#2
+                 vane pokkhara-sātakā.#3
+            Suka-sāḷika#4-sadd' ettha
                  daṇḍa-mānavakāni ca,
             Sobhati sabba-kālaṃ sā
-                 Kuvera-nalinī5 sadā.
+                 Kuvera-nalinī#5 sadā.
             Ito “sā uttarā disa”
                  iti naṃ ācikkhatī jano.
             Yaṃ disaṃ abhipāleti,
@@ -256,7 +256,7 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
             Yakkhānaṃ ādhipati,
                  “Kuvero” iti nāma so
             Ramati nacca-gītehi,
-                 yakkhehi6 purakkhato.
+                 yakkhehi#6 purakkhato.
             Puttā pi tassa bahavo
                  eka-nāmā ti me sutaṃ,
             Asīti dasa eko ca
@@ -276,40 +276,40 @@ viditvā tāyaṃ velāyaṃ imaṃ Āṭānāṭiyaṃ rakkhaṃ abhāsi:
             Vijjā-caraṇa-sampannaṃ
                  Buddhaṃ vandāma Gotaman” ti.’
 ~8.203
-     8. ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā bhikkhūnaṃ
+     ^8. ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā bhikkhūnaṃ
 bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya
 avihiṃsāya phāsu-vihārayāti.’
      ‘Yassa kassaci Mārisa bhikkhussa vā bhikkhuniyā vā
 upāsakassa vā upāsikāya ayaṃ Āṭānāṭiyā rakkhā sugga-
-hitā1 bhavissati samattā pariyāputā,2 tañ ce amanusso
+hitā#1 bhavissati samattā pariyāputā,#2 tañ ce amanusso
 Yakkho vā Yakkhinī vā Yakkha-potako vā Yakkha-potikā
 vā Yakkha-mahāmatto vā Yakkha-pārisajjo vā Yakkha-
 pacāro vā, Gandhabbo vā Gandhabbī vā . . . pe . . .
 Kumbhaṇḍo vā . . . pe . . . Nāgo vā . . . pe . . . pad-
-uṭṭha-citto3 bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā
-upāsikaṃ vā3 gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upa-
-tiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ4 vā upani-
+uṭṭha-citto#3 bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā
+upāsikaṃ vā#3 gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upa-
+tiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ#4 vā upani-
 pajjeyya, na me so Mārisa amanusso labheyya gāmesu vā
 nigamesu vā sakkāraṃ vā {garu-kāraṃ} vā. Na me so
-Mārisa amanusso labheyya Āḷakamandāya5 rāja-dhāniyā6
+Mārisa amanusso labheyya Āḷakamandāya#5 rāja-dhāniyā#6
 vatthuṃ vā vāsaṃ vā. Na me so Mārisa amanusso labh-
 eyya Yakkhānaṃ samitiṃ gantuṃ Api ssu naṃ Mārisa
-amanussā anāvayham pi naṃ7 kareyyuṃ avivayhaṃ.
-Api ssu naṃ Mārisa amanussā attāhi pi8 {paripuṇṇāhi} pari-
+amanussā anāvayham pi naṃ#7 kareyyuṃ avivayhaṃ.
+Api ssu naṃ Mārisa amanussā attāhi pi#8 {paripuṇṇāhi} pari-
 bhāsāhi paribhāseyyuṃ. Api ssu naṃ Mārisa amanussā
-rittam pi9 pattaṃ sīse nikkujjeyyuṃ. Api ssu naṃ Mārisa
+rittam pi#9 pattaṃ sīse nikkujjeyyuṃ. Api ssu naṃ Mārisa
 amanussā sattadhā pi 'ssa muddhaṃ phāleyyuṃ.
-     9. ‘Santi hi Mārisa amanussā caṇḍā ruddā10 rabhasā.
+     ^9. ‘Santi hi Mārisa amanussā caṇḍā ruddā#10 rabhasā.
 Te n' eva Mahārājānaṃ ādiyanti, na Mahārājānaṃ purisa-
 kānaṃ ādiyanti, na Mahārājānaṃ purisakānaṃ purisa-
 kānaṃ ādiyanti. te kho te Mārisa amanussā Mahā-
 ~8.204
 rājānaṃ avaruddhā nāma vuccanti. Seyyathāpi Mārisa
-rañño Māgadhassa vijite mahā-corā,1 te n' eva rañño
+rañño Māgadhassa vijite mahā-corā,#1 te n' eva rañño
 Māgadhassa ādiyanti, na rañño Māgadhassa purisakānaṃ
 ādiyanti, na rañño Māgadhassa purisakānaṃ purisakānaṃ
 ādiyanti, te kho te Mārisa mahā-corā rañño Māgadhassa
-avaruddhā nāma vuccanti, -- evam eva kho Mārisa santi2
+avaruddhā nāma vuccanti, -- evam eva kho Mārisa santi#2
 amanussā caṇḍā {ruddā} rubhasā. Te n' eva Mahārājānaṃ
 ādiyanti, na Mahārājānaṃ purisakānaṃ ādiyanti, na
 Mahārānaṃ purisakānaṃ purisakānaṃ ādiyanti. Te kho
@@ -320,11 +320,11 @@ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā anugaccheyya,
 ṭhitaṃ vā upatiṭṭheyya nisinnaṃ vā upanisīdeyya, nipannaṃ
 vā {upanipajjeyya}, imesaṃ Yakkhānaṃ Mahā-Yakkhānaṃ
 Senāpatīnaṃ Mahā-Senāpatīnaṃ ujjhāpetabbaṃ vikkan-
-ditabbaṃ viravitabbaṃ -- “Ayaṃ Yakkho gaṇhāti,3 ayaṃ
+ditabbaṃ viravitabbaṃ -- “Ayaṃ Yakkho gaṇhāti,#3 ayaṃ
 Yakkho āvisati, ayaṃ Yakkho heṭheti, ayaṃ Yakkho
 viheṭheti, ayaṃ Yakkho hiṃsati, ayaṃ Yakkho vihiṃsati,
 ayaṃ Yakkho na muñcatīyi.”
-     10. ‘Katamesaṃ Yakkhānaṃ Mahā-Yakkhānaṃ Senā-
+     ^10. ‘Katamesaṃ Yakkhānaṃ Mahā-Yakkhānaṃ Senā-
 patīnaṃ Mahā-Senāpatīnaṃ?
             Indo Somo Varuṇo ca
                  Bhāradvājo Pajāpati,
@@ -333,31 +333,31 @@ patīnaṃ Mahā-Senāpatīnaṃ?
             Panādo Opamañño ca
                  Devasūto ca Mātali,
             Cittaseno ca Gandhabbo
-                 Naḷo4 rājā Janesabho,
+                 Naḷo#4 rājā Janesabho,
             Sātāgiro Hemavato
-                 Puṇṇako Karatiyo Gulo,5
+                 Puṇṇako Karatiyo Gulo,#5
 ~8.205
-            Sīvako1 Mucalido ca
+            Sīvako#1 Mucalido ca
                  Vessāmitto Yugandharo
-            Gopālo Suppagedho2 ca
-                 Hirī3 Nettī4 ca Mandiyo5
-            Pañcāla-caṇḍo Ālavako6
-                 Pajjunno7 Sumano8 Sumukho
-            Dadhimukho Maṇi Mānicaro9 Dīgho
-                 Atho Serissako10 sahā.11
+            Gopālo Suppagedho#2 ca
+                 Hirī#3 Nettī#4 ca Mandiyo#5
+            Pañcāla-caṇḍo Ālavako#6
+                 Pajjunno#7 Sumano#8 Sumukho
+            Dadhimukho Maṇi Mānicaro#9 Dīgho
+                 Atho Serissako#10 sahā.#11
      ‘Imesaṃ Yakkhānaṃ Mahā-Yakkhānaṃ Senāpatīnaṃ
 Mahā-Senāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ vira-
 vitabbaṃ -- “Ayaṃ Yakkho gaṇhāti, ayaṃ Yakkho {āvisati},
 ayaṃ Yakkho heṭheti, ayaṃ Yakkho viheṭheti, ayaṃ
 Yakkho hiṃsati, ayaṃ Yakkho vihiṃsati, ayaṃ yakkho na
 muñcatīti.”
-     11. ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā bhikkhūnaṃ
+     ^11. ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā bhikkhūnaṃ
 bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya
 avihiṃsāya phāsu-vihārāyāti.’
      ‘Handa ca dāni mayaṃ Mārisa gacchāma, bahu-kiccā
 mayaṃ, bahu-karaṇīyā ti.’
      ‘Yassa dāni tumhe Mahārājāno kālaṃ maññathāti.’
-     Atha kho cattāro Mahārājā12 uṭṭhāy' āsanā Bhagavantaṃ
+     Atha kho cattāro Mahārājā#12 uṭṭhāy' āsanā Bhagavantaṃ
 abhivādetvā padakkhiṇaṃ katvā tatth' ev' antaradhāyiṃsu.
 Te pi kho Yakkhā uṭṭhāy' āsanā app ekacce Bhagavantaṃ
 abhivādetvā padakkhiṇaṃ katvā tatth' eva anatradhāyiṃsu:
@@ -367,23 +367,23 @@ yaṃ kathaṃ {sārāṇīyaṃ} kathaṃ {vītisāretvā}, tatth' ev'
 antaradhāyiṃsu: app ekacce yena Bhagavā ten' añjalim
 paṇāmetvā tatth' ev' antaradhāyiṃsu: app ekacce nāma-
 gottaṃ sāvetvā tatth' ev' {antaradhāyiṃsu}: app ekacce
-tuṇhī1-bhūtā tatth' ev' antaradhāyiṃsu2
-     12. Atha kho Bhagavā tassā rattiyā accayena bhikkhū
+tuṇhī#1-bhūtā tatth' ev' antaradhāyiṃsu#2
+     ^12. Atha kho Bhagavā tassā rattiyā accayena bhikkhū
 āmantesi:
      ‘Imaṃ bhikkhave rattiṃ cattāro Mahārājā mahatiyā ca
-Yakkha-senāya3 . . .
+Yakkha-senāya#3 . . .
      Vipassissa nam' atthu cakkhumantassa sirīmato!
      Sikhissa pi nam' atthu sabba-bhūtānukampino.
                              * * * * *
-     So yeva purima-peyyālena4 vitthāretabbo.
-     ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā5 . . . antara-
+     So yeva purima-peyyālena#4 vitthāretabbo.
+     ‘Ayaṃ kho sā Mārisa Āṭānāṭiyā rakkhā#5 . . . antara-
 dhāyiṃsu.
-     13. ‘Uggaṇhātha bhikkhave Āṭānāṭiyaṃ rakkhaṃ, pari-
+     ^13. ‘Uggaṇhātha bhikkhave Āṭānāṭiyaṃ rakkhaṃ, pari-
 yāpuṇātha bhikkhave Āṭānātiyaṃ rakkhaṃ, dhāretha
-bhikkhave Āṭānāṭiyaṃ rakkhaṃ, attha-saṃhitā 'yaṃ6
-bhikkhave Āṭānāṭiyā rakkhā7 bhikkhūnaṃ bhikkhunīnaṃ
+bhikkhave Āṭānāṭiyaṃ rakkhaṃ, attha-saṃhitā 'yaṃ#6
+bhikkhave Āṭānāṭiyā rakkhā#7 bhikkhūnaṃ bhikkhunīnaṃ
 upāsakānaṃ upāsikānaṃ guttiyā rakkāya avihiṃsāya
 phāsu-vihārāyāti.’
      Idam avoca Bhagavā. Attamanā te bhikkhū Bhagavato
 bhāsitaṃ abhinadun ti.
-                 Āṭānāṭiya-Suttantaṃ8 Navamaṃ.9
+                 Āṭānāṭiya-Suttantaṃ#8 Navamaṃ.9

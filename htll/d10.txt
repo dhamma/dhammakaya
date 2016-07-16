@@ -1,14 +1,14 @@
 ~6.204
                         [x. Subha Sutta.]
                        ----------------------
-     1.1. Evam me sutaṃ. Ekaṃ samayaṃ āyasmā Ānando
+     ^101. Evam me sutaṃ. Ekaṃ samayaṃ āyasmā Ānando
 Sāvatthiyaṃ viharati Jetavane Anāthapiṇḍikassa ārāme,
 acira-parinibbute Bhagavati. Tena kho pana samayena
 Subho māṇavo Todeyya-putto Sāvatthiyaṃ paṭivasati
 kenacid eva karaṇīyena.
-     2. Atha kho Subho māṇavo Todeyya-putto aññataraṃ
-māṇavakaṃ1 āmantesi: ‘Ehi tvaṃ māṇavaka, yena
-samaṇo Ānando ten' upasaṃkama,2 upasaṃkamitvā mama
+     ^102. Atha kho Subho māṇavo Todeyya-putto aññataraṃ
+māṇavakaṃ#1 āmantesi: ‘Ehi tvaṃ māṇavaka, yena
+samaṇo Ānando ten' upasaṃkama,#2 upasaṃkamitvā mama
 vacanena samaṇaṃ Ānandaṃ appābādhaṃ appātaṅkaṃ
 {lahu-ṭṭhānaṃ} balaṃ phāsu-vihāraṃ puccha: “Subho māṇavo
 Todeyya-putto bhavantaṃ Ānandaṃ appābādham appātaṅ-
@@ -16,8 +16,8 @@ kaṃ {lahu-ṭṭhānaṃ} balaṃ phāsu-vihāraṃ pucchatīti,” evañ
 ca vadehi: “Sādhu kira bhavaṃ Ānando yena Subhassa
 māṇavassa Todeyya-puttassa nivesanaṃ ten' upasaṃ-
 kamatu anukampaṃ upādāyāti.”’
-     3. ‘Evaṃ bho’ ti kho so māṇavako Subhassa māṇavassa
-Todeyya-puttassa paṭissutvā3 yen' āyasmā Ānando ten'
+     ^103. ‘Evaṃ bho’ ti kho so māṇavako Subhassa māṇavassa
+Todeyya-puttassa paṭissutvā#3 yen' āyasmā Ānando ten'
 upasaṃkami, upasaṃkamitvā āyasmatā Ānandena saddhiṃ
 sammodi, sammodanīyaṃ kathaṃ sārāṇīyaṃ vītisāretvā
 ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so māṇavako
@@ -29,16 +29,16 @@ bhavaṃ Ānando yena Subhassa māṇavassa Todeyya-
 ~6.205
 puttassa nivesanaṃ ten' upasaṃkamatu anukampaṃ
 upādāyāti.”’
-     4. Evaṃ vutte āyasmā Ānando taṃ māṇavakam etad
+     ^104. Evaṃ vutte āyasmā Ānando taṃ māṇavakam etad
 avoca:
      ‘Akālo kho māṇavaka, atthi me ajja bhesajja-mattā
-pītā,1 {app} eva nāma sve pi upasaṃkameyyāma, kālañ ca
+pītā,#1 {app} eva nāma sve pi upasaṃkameyyāma, kālañ ca
 samayañ ca upādāyāti.’
-     Atha kho so māṇavako2 uṭṭhāy' āsanā yena Subho
+     Atha kho so māṇavako#2 uṭṭhāy' āsanā yena Subho
 māṇavo Todeyya-putto ten' upasaṃkami, upasaṃkamitvā
 Subhaṃ māṇavaṃ Todeyya-puttaṃ etad avoca:
      ‘Avocumha kho mayaṃ bhoto vacanena taṃ bhavantaṃ
-Ānandaṃ: “Subho3 māṇavo Todeyya-putto bhavantaṃ
+Ānandaṃ: “Subho#3 māṇavo Todeyya-putto bhavantaṃ
 Ānandaṃ appābādhaṃ appātaṅkaṃ {lahu-ṭṭhānaṃ} balaṃ
 phāsu-vihāraṃ pucchati, evañ ca vadeti: ‘Sādhu kira
 bhavaṃ Ānando yena Subhassa māṇavassa Todeyya-
@@ -47,9 +47,9 @@ upādāyāti.’ ” Evaṃ vutte bho samaṇo Ānando maṃ etad
 avoca: “Akālo kho māṇavaka, atthi me ajja bhesajja-
 mattā pītā, {app} eva nāma sve pi upasaṃkameyyāma kālañ
 ca samayañ ca upādāyāti.” Ettāvatā pi kho bho katam'
-eva etaṃ4 yato kho so bhavaṃ Ānando okāsam akāsi
+eva etaṃ#4 yato kho so bhavaṃ Ānando okāsam akāsi
 svātanāya pi upasaṃkamanāyāti.’
-     5. Atha kho āyasmā Ānando tassā rattiyā accayena
+     ^105. Atha kho āyasmā Ānando tassā rattiyā accayena
 pubbaṇha-samayaṃ nivāsetvā patta-cīvaraṃ ādāya Ceta-
 kena bhikkhunā pacchā samaṇena yena Subhassa māṇa-
 vassa Todeyya-puttassa nivesanaṃ ten' upasaṃkami,
@@ -64,10 +64,10 @@ Todeyya-putto āyasmantaṃ Ānandaṃ etad avoca:
 rattaṃ upaṭṭhāko santikāvacaro samīpa-cārī. Bhavaṃ etaṃ
 Ānando jāneyya yesaṃ so bhavaṃ Gotamo dhammānaṃ
 vaṇṇa-vādī ahosi, yattha ca imaṃ janataṃ samādapesi
-nivesesi patiṭṭhāpesi.1 Katamesānaṃ kho2 bho Ānanda
-dhammānaṃ so bhavaṃ Gotamo vaṇṇa-vādī ahosi, kattha3
+nivesesi patiṭṭhāpesi.#1 Katamesānaṃ kho#2 bho Ānanda
+dhammānaṃ so bhavaṃ Gotamo vaṇṇa-vādī ahosi, kattha#3
 ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesīti?’
-     6. ‘Tiṇṇaṃ kho māṇava khandhānaṃ so Bhagavā
+     ^106. ‘Tiṇṇaṃ kho māṇava khandhānaṃ so Bhagavā
 vaṇṇa-vādī ahosi, ettha ca imaṃ janataṃ samādapesi
 nivesesi patiṭṭhāpesi. Katamesaṃ tiṇṇaṃ? Ariyassa
 sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa
@@ -77,17 +77,17 @@ janataṃ samādapesi nivesesi patiṭṭhāpesīti.’
      ‘Katamo pana so bho Ānanda ariyo sīlakkhandho yassa
 so bhavaṃ Gotamo vaṇṇa-vādī ahosi yattha ca imaṃ jana-
 taṃ samādapesi nivesesi patiṭṭhāpesīti?’
-     47. ‘Idha māṇava Tathāgato loke uppajjati arahaṃ
+     #4^107. ‘Idha māṇava Tathāgato loke uppajjati arahaṃ
 sammā-sambuddho . . . evaṃ kho māṇava bhikkhu sīla-
 sampanno hoti.
-            [See Sāmañña-Phala-Sutta, § § 40-63.5]
-     30. ‘Ayaṃ kho so māṇava ariyo sīlakkhandho yassa so
-Bhagavā vaṇṇa-vādi ahosi, ettha6 ca imaṃ janataṃ samā-
+            [See Sāmañña-Phala-Sutta, § § 40-63.#5]
+     ^130. ‘Ayaṃ kho so māṇava ariyo sīlakkhandho yassa so
+Bhagavā vaṇṇa-vādi ahosi, ettha#6 ca imaṃ janataṃ samā-
 dapesi nivesesi patiṭṭhāpesi. Atthi c' ev' ettha uttariṃ
 karaṇīyan ti.’
      ‘Acchariyaṃ bho Ānanda, abbhutaṃ bho Ānanda. So
 cāyaṃ bho Ānanda ariyo sīlakkhandho paripuṇṇo no
-aparipuṇṇo, evaṃ paripuṇṇaṃ vāham7 bho Ānanda ariyaṃ
+aparipuṇṇo, evaṃ paripuṇṇaṃ vāham#7 bho Ānanda ariyaṃ
 ~6.207
 sīlakkhandhaṃ ito {bahiddhā} aññesu samaṇa-brāhmaṇesu na
 samanupassāmi. Evaṃ paripuṇṇaṃ ca bho Ānanda ari-
@@ -97,53 +97,53 @@ attani samanupasseyyuṃ, te tāvataken' eva attamanā assu:
 n' atthi no kiñci uttariṃ karaṇīyan ti”? Atha ca pana
 bhavaṃ Ānando evam āha: ‘Atthi c' ev' ettha uttariṃ
 karaṇīyan ti.’
-                Subha-Suttamhi Paṭhamaka-{Bhāṇavāraṃ}.1
-     2.1. ‘Katamo pana so bho Ānanda ariyo samādhi-
+                Subha-Suttamhi Paṭhamaka-{Bhāṇavāraṃ}.#1
+     ^201. ‘Katamo pana so bho Ānanda ariyo samādhi-
 kkhandho yassa so bhavaṃ Gotamo vaṇṇa-vādī ahosi,
 yattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpe-
 sīti’?
      ‘Kathañ ca māṇava bhikkhu indriyesu gutta-dvāro
-hoti? 2 . . . nāssa kiñci sabbāvato kāyassa vivekajena
+hoti? #2 . . . nāssa kiñci sabbāvato kāyassa vivekajena
 pīti-sukhena apphutaṃ hoti.
                   [Sāmañña-Phala-Sutta, § § 64-76.]
-     13. ‘Yam pi māṇava bhikkhu vivicc' eva kāmehi vivicca
+     ^213. ‘Yam pi māṇava bhikkhu vivicc' eva kāmehi vivicca
 akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pīti-
 sukhaṃ paṭhamajjhānaṃ upasampajja viharati, so imam
 eva kāyaṃ vivekajena pīti-sukhena abhisandeti, parisan-
 deti {paripūreti} parippharati, nāssa kiñci sabbāvato kāyassa
 vivekajena pīti-sukhena apphutaṃ hoti. Idam pi 'ssa hoti
 samādhismiṃ.
-     14. ‘Puna ca paraṃ māṇava bhikkhu vitakka-{vicārā}-
-naṃ3 . . . apphutaṃ hoti.
+     ^214. ‘Puna ca paraṃ māṇava bhikkhu vitakka-{vicārā}-
+naṃ#3 . . . apphutaṃ hoti.
                  [Sāmañña-Phala-Sutta, § § 77,78.]
 ~6.208
       . . . pe . . . Idam pi 'ssa hoti samādhismiṃ.
-     16. ‘Puna ca paraṃ māṇava bhikkhu pītiyā ca virāgā
-upekhako viharati1 . . . apphutaṃ hoti.
+     ^216. ‘Puna ca paraṃ māṇava bhikkhu pītiyā ca virāgā
+upekhako viharati#1 . . . apphutaṃ hoti.
                   [Sāmañña-Phala-Sutta, § § 79-82.]
       . . . pe . . . Idam pi 'ssa hoti samādhismiṃ.
-     19. ‘Ayaṃ kho so māṇava ariyo samādhikkhandho
-yassa so Bhagavā vaṇṇa-vādi ahosi, ettha ca2 imaṃ jana-
+     ^219. ‘Ayaṃ kho so māṇava ariyo samādhikkhandho
+yassa so Bhagavā vaṇṇa-vādi ahosi, ettha ca#2 imaṃ jana-
 taṃ samādapesi nivesesi patiṭṭhāpesi. Atthi c' ev' ettha
 uttariṃ karaṇīyan’ ti.
      ‘Acchariyaṃ bho Ānanda, abbhutaṃ bho Ānanda. So
 cāyaṃ bho Ānanda ariyo samādhikkhandho paripuṇṇo no
-aparipuṇṇo, evaṃ paripuṇṇaṃ3 'vāhaṃ4 bho Ānanda
+aparipuṇṇo, evaṃ paripuṇṇaṃ#3 'vāhaṃ#4 bho Ānanda
 ariyaṃ samādhikkhandhaṃ ito bahiddhā aññesu samaṇa-
 brāhmaṇesu na samanupassāmi. Evaṃ paripuṇṇañ ca
 bho Ānanda ariyaṃ samādhikkhandhaṃ ito bahiddhā aññe
 samaṇa-brāhmaṇā attani samanupasseyyuṃ, te tāva-
-taken' eva attamanā assu: “Alam ettāvatā5 katam ettāvatā5
-anuppatto6 sāmaññattho, n' atthi no kiñci uttariṃ kara-
+taken' eva attamanā assu: “Alam ettāvatā#5 katam ettāvatā#5
+anuppatto#6 sāmaññattho, n' atthi no kiñci uttariṃ kara-
 ṇīyan ti.” Atha ca pana bhavaṃ Ānando evam aha:
 ‘Atthi c' ev' ettha uttariṃ karaṇīyan ti.’
-     20. ‘Katamo pana so bho Ānanda ariyo {paññākhandho}7
+     ^20. ‘Katamo pana so bho Ānanda ariyo {paññākhandho}#7
 yassa so bhavaṃ Gotamo vaṇṇa-vādī ahosi, yattha ca
-imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesīti?’8
+imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesīti?’#8
      ‘So evaṃ samāhite citte parisuddhe pariyodāte . . .
 ettha paṭibaddhaṃ.
                  [Sāmañña-Phala-Sutta, § § 83,84.]
-     22. ‘Yam pi māṇava bhikkhu evaṃ samāhite citte pari-
+     ^22. ‘Yam pi māṇava bhikkhu evaṃ samāhite citte pari-
 suddhe pariyodāte {anaṅgaṇe} vigatūpakkilese mudu-bhūte
 ~6.209
 kammaniye ṭhite ānejjappatte ñāṇa-dassanāya cittaṃ abhi-
@@ -152,13 +152,13 @@ rūpī cātummahābhūtiko mātā-pettika-sambhavo odana-
 kummās-upacayo anicc-ucchādana-parimaddana-bhedana-
 {viddhaṃsana}-dhammo, idañ ca pana me {viññāṇaṃ} ettha
 sitaṃ ettha paribaddhan ti.” Idam pi 'ssa hoti paññāya.
-     23. ‘So evaṃ samāhite citte . . . ahīnindriyaṃ.
-                 [Sāmañña-Phala-Sutta, § § 85,86.1]
+     ^23. ‘So evaṃ samāhite citte . . . ahīnindriyaṃ.
+                 [Sāmañña-Phala-Sutta, § § 85,86.#1]
      Idam pi 'ssa hoti paññāya.
-     25. ‘So evaṃ samāhite citte . . . nāparaṃ itthattāyāti
+     ^25. ‘So evaṃ samāhite citte . . . nāparaṃ itthattāyāti
 {pajānāti}.
                   [Sāmañña-Phala-Sutta, § § 87-98.]
-     36. ‘Yam pi māṇava bhikkhu evaṃ samāhite citte pari-
+     ^36. ‘Yam pi māṇava bhikkhu evaṃ samāhite citte pari-
 suddhe pariyodāte {anaṅgaṇe} vigatūpakkilese mudu-bhūte
 kammaniye ṭhite ānejjappatte āsavānaṃ khayā ñāṇāya
 cittaṃ abhinīharati abhininnāmeti, so “Idaṃ dukkhan”
@@ -175,23 +175,23 @@ cati, avijjāsavā pi cittaṃ vimuccati, vimuttasmiṃ vimuttam
 iti ñāṇaṃ hoti, “{khīṇā} jāti, vusitaṃ brahmacariyaṃ,
 kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti” pajānāti. Idam
 pi 'ssa hoti paññāya.
-     37. ‘Ayaṃ kho so māṇava ariyo {paññākhandho} yassa
+     ^37. ‘Ayaṃ kho so māṇava ariyo {paññākhandho} yassa
 so Bhagavā vaṇṇa-vādī ahosi, ettha ca imaṃ janataṃ
 samādapesi nivesesi patiṭṭhāpesi. N' atthi c' ev' ettha
 uttariṃ karaṇīyan ti.’
 ~6.210
      ‘Acchariyaṃ bho Ānanda, abbhutam bho Ānanda.1So
-cāyaṃ bho Ānanda1 ariyo paññakkhandho paripuṇṇo no
+cāyaṃ bho Ānanda#1 ariyo paññakkhandho paripuṇṇo no
 aparipuṇṇo, evaṃ paripuṇṇaṃ cāhaṃ bho Ānanda ariyaṃ
 paññakkhandhaṃ ito bahiddhā aññesu samaṇa-brāhmaṇesu
-na samanupassāmi. N' atthi c' ev' ettha2 uttariṃ kara-
-ṇīyan ti.3 Abhikkantaṃ bho Ānanda, abhikkantaṃ bho
+na samanupassāmi. N' atthi c' ev' ettha#2 uttariṃ kara-
+ṇīyan ti.#3 Abhikkantaṃ bho Ānanda, abhikkantaṃ bho
 Ānanda. Seyyathā pi bho Ānanda nikkujjitaṃ vā ukkuj-
 jeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ
 ācikkheyya, andhakāre vā tela-pajjotaṃ dhāreyya: cakkhu-
 manto rūpāni dakkhintīti -- evam eva bhotā Ānandena
 aneka-pariyāyena dhammo pakāsito. Esāhaṃ bho Ānanda
-Bhagavantaṃ4 Gotamaṃ saraṇaṃ gacchāmi dhammañ ca
-bhikkhu-saṃghañ ca. Upāsakaṃ5 maṃ bhavaṃ Ānando
-dhāretu, ajjatagge pāṇupetaṃ saraṇaṃ6 gatan ti.’
+Bhagavantaṃ#4 Gotamaṃ saraṇaṃ gacchāmi dhammañ ca
+bhikkhu-saṃghañ ca. Upāsakaṃ#5 maṃ bhavaṃ Ānando
+dhāretu, ajjatagge pāṇupetaṃ saraṇaṃ#6 gatan ti.’
                           SUBHA-SUTTANTAṂ.7

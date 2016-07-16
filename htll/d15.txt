@@ -1,9 +1,9 @@
 ~7.55
                    [xv. Mahā-Nidāna Suttanta.]
                    -------------------------------------
-     1. Evam me sutaṃ.
+     ^1. Evam me sutaṃ.
      Ekaṃ samayaṃ Bhagavā Kurūsu viharati, Kammāssa-
-dhammaṃ1 nāma Kurūnaṃ nigamo. Atha kho āyasmā
+dhammaṃ#1 nāma Kurūnaṃ nigamo. Atha kho āyasmā
 Ānando yena Bhagavā ten' upasaṃkami, upasaṃkamitvā
 Bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekam-
 antaṃ nisinno kho āyasmā Ānando Bhagavantaṃ etad
@@ -12,13 +12,13 @@ avoca:
 cāyaṃ bhante paṭicca-samuppādo gambhīrāvabhāso ca.
 Atha ca pana me uttānakuttānako viya khāyatīti.’
      ‘Mā h' evaṃ Ānanda avaca, mā h' evaṃ Ānanda avaca.
-Gambhīro cāyaṃ Ānanda2 paṭicca-samuppādo gambhīr-
+Gambhīro cāyaṃ Ānanda#2 paṭicca-samuppādo gambhīr-
 āvabhāso ca. Etassa Ānanda dhammassa ananubodhā
 appaṭivedhā evam ayaṃ pajā tantākulaka-jātā gulā-
-guṇṭhika-jātā3 muñja-babbaja4-bhūtā apāyaṃ duggatiṃ
+guṇṭhika-jātā#3 muñja-babbaja#4-bhūtā apāyaṃ duggatiṃ
 vinipātaṃ saṃsāraṃ nātivattati.
-     2. ‘“Atthi idappaccayā jarā-maraṇan ti?” iti puṭṭhena
-satā Ānanda, “Atthīti”’ ssa vacanīyaṃ.5 “Kim paccayā
+     ^2. ‘“Atthi idappaccayā jarā-maraṇan ti?” iti puṭṭhena
+satā Ānanda, “Atthīti”’ ssa vacanīyaṃ.#5 “Kim paccayā
 jarā-maraṇan ti”? iti ce vadeyya, “Jāti-paccayā jarā-
 maraṇan ti” icc assa vacanīyaṃ.
      ‘“Atthi idappaccayā jātīti?” iti puṭṭhena satā Ānanda,
@@ -43,7 +43,7 @@ vedanā ti?” iti ce vadeyya, “Phassa-paccayā vedanā ti”
 icc assa vacanīyaṃ.
      ‘“Atthi idappaccayā phasso ti?” iti puṭṭhena satā
 Ānanda Atthīti”’ ssa vacanīyaṃ. Kim paccayā
-phasso ti?” iti ce vadeyya, Nāmarūpa-paccayā1 phasso
+phasso ti?” iti ce vadeyya, Nāmarūpa-paccayā#1 phasso
 ti” icc assa vacanīyaṃ.
      ‘“Atthi idappaccayā nāma-rūpan ti?” iti puṭṭhena
 satā Ānanda “Atthīti”’ ssa vacanīyaṃ. “Kim paccayā
@@ -53,52 +53,52 @@ rūpan ti” icc assa vacanīyaṃ.
 Ānanda “Atthīti”’ ssa vacanīyaṃ. “Kim paccayā
 viññāṇan ti?” iti ce vadeyya, “Nāmarūpa-paccayā viññā-
 ṇan ti” icc assa vacanīyaṃ.
-     3. ‘Iti kho Ānanda nāmarūpa-paccayā viññāṇaṃ, viññā-
+     ^3. ‘Iti kho Ānanda nāmarūpa-paccayā viññāṇaṃ, viññā-
 ṇa-paccayā nāmarūpaṃ, nāmarūpa-paccayā phasso, phassa-
 paccayā vedanā, vedanā-paccayā taṇhā, taṇhā-paccayā
 upādānaṃ, upādāna-paccayā bhavo, bhava-paccayā jāti,
-jāti-paccayā jarā-maraṇaṃ, jarā-maraṇa-paccayā2 soka-
+jāti-paccayā jarā-maraṇaṃ, jarā-maraṇa-paccayā#2 soka-
 ~7.57
 parideva-dukkha-domanassupāyāsā sambhavanti. Evam
 etassa kevalassa dukkhakkhandhassa samudayo hoti.
-     4. ‘“Jāti-paccayā jarā-maraṇan ti” iti kho pan' etaṃ
+     ^4. ‘“Jāti-paccayā jarā-maraṇan ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ
-yathā jāti-paccayā jarā-maraṇaṃ. Jāti va hi1 Ānanda
-nābhavissa2 sabbena sabbaṃ sabbathā sabbaṃ kassaci
+yathā jāti-paccayā jarā-maraṇaṃ. Jāti va hi#1 Ānanda
+nābhavissa#2 sabbena sabbaṃ sabbathā sabbaṃ kassaci
 kimhici, seyyathīdaṃ devānaṃ vā devattāya, gandhabbā-
 naṃ vā gandhabbattāya, yakkhānaṃ vā yakkhattāya,
 bhūtānaṃ vā bhūtattāya, manussānaṃ vā manussattāya,
 catuppadānam vā catuppadattāya, pakkhīnaṃ vā pakkhat-
-tāya, siriṃsapānaṃ vā siriṃsapattāya,3 tesaṃ tesaṃ va4
+tāya, siriṃsapānaṃ vā siriṃsapattāya,#3 tesaṃ tesaṃ va#4
 hi Ānanda sattānaṃ tathattāya jāti nābhavissa, sabbaso
 jātiyā asati jāti-nirodhā api nu kho jarā-maraṇaṃ
 paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo jarā-maraṇassa, yadidaṃ jāti.
-     5. ‘“Bhava-paccayā {jātīti}” iti kho pan' etaṃ vuttaṃ,
+     ^5. ‘“Bhava-paccayā {jātīti}” iti kho pan' etaṃ vuttaṃ,
 tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ yathā
 bhava-paccayā jāti. Bhavo va hi Ānanda nābhavissa
 sabbena sabbaṃ sabbathā sabbaṃ kassaci kimhici, seyya-
-thīdaṃ kāma-bhavo rūpa-bhavo arūpa-bhavo vā,5
+thīdaṃ kāma-bhavo rūpa-bhavo arūpa-bhavo vā,#5
 sabbasso bhave asati bhava-nirodhā api nu kho jāti
 paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo jātiyā, yadidaṃ bhavo.
-     6. ‘“Upādāna-paccayā bhavo ti” iti kho pan' etaṃ
+     ^6. ‘“Upādāna-paccayā bhavo ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ
 yathā upādāna-paccayā bhavo. Upādānaṃ va hi Ānanda
 nābhavissa sabbena sabbaṃ sabbathā sabbaṃ kassaci
 ~7.58
-kimhici, seyyathīdaṃ kāmūpādanaṃ1 vā diṭṭhūpādānaṃ
+kimhici, seyyathīdaṃ kāmūpādanaṃ#1 vā diṭṭhūpādānaṃ
 vā sīlabbatūpādānaṃ vā attavādūpādānaṃ vā, sabbaso
 upādāne asati upādāna-nirodhā api nu kho bhavo
 paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo bhavassa, yadidaṃ upādānaṃ.
-     7. ‘“Taṇhā-paccayā upādānan ti” iti kho pan' etaṃ
+     ^7. ‘“Taṇhā-paccayā upādānan ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ
 yathā taṇhā-paccayā upādānaṃ. Taṇhā va hi Ānanda
 nābhavissa sabbena sabbaṃ sabbathā sabbaṃ kassaci
@@ -109,7 +109,7 @@ paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo upādānassa, yadidaṃ taṇhā.
-     8. ‘“Vedanā-paccayā taṇhā ti” iti kho pan' etaṃ
+     ^8. ‘“Vedanā-paccayā taṇhā ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ
 yathā vedanā-paccayā taṇhā. Vedanā va hi Ānanda
 nābhavissa sabbena sabbaṃ {sabbathā} sabbaṃ kassaci
@@ -121,16 +121,16 @@ nirodhā api nu kho taṇhā paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo taṇhāya, yadidaṃ vedanā.
-     9. ‘Iti kho2 Ānanda vedanaṃ paṭicca taṇhā, taṇhaṃ
+     ^9. ‘Iti kho#2 Ānanda vedanaṃ paṭicca taṇhā, taṇhaṃ
 paṭicca pariyesanā, pariyesanaṃ paṭicca lābho, lābhaṃ
 paṭicca vinicchayo, vinicchayaṃ paṭicca chanda-rāgo,
 chanda-rāgaṃ paṭicca ajjhosānaṃ, ajjhosānaṃ paṭicca
 pariggaho, pariggahaṃ paṭicca macchariyaṃ, macchariyaṃ
 ~7.59
-paṭicca ārakkho,1 ārakkhādhikaraṇaṃ daṇḍādāna-satthā-
+paṭicca ārakkho,#1 ārakkhādhikaraṇaṃ daṇḍādāna-satthā-
 dāna-kalaha-viggaha-vivāda-tuvaṃtuva-pesuñña-musā-
 vādā aneke pāpakā akusalā dhammā sambhavanti.
-     10. ‘“{Ārakkhādhikaraṇaṃ} daṇḍādāna-satthādāna-kala-
+     ^10. ‘“{Ārakkhādhikaraṇaṃ} daṇḍādāna-satthādāna-kala-
 ha-viggaha-vivāda-tuvaṃtuva-pesuñña-musā-vādā aneke
 pāpakā akusalā dhammā sambhavantīti” iti kho pan'
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena vedi-
@@ -148,7 +148,7 @@ samudayo esa paccayo daṇḍādāna-satthādāna-kalaha-
 viggaha-vivāda-tuvaṃtuva-pesuñña-musāvādānaṃ aneke-
 saṃ pāpakānaṃ akusalānaṃ dhammānaṃ sambhavāya,
 yadidaṃ ārakkho.
-     11. ‘“Macchariyaṃ paṭicca ārakkho ti” iti kho pan'
+     ^11. ‘“Macchariyaṃ paṭicca ārakkho ti” iti kho pan'
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā macchariyaṃ paṭicca ārakkho. Mac-
 chariyaṃ va hi Ānanda nābhavissa sabbena sabbaṃ
@@ -159,7 +159,7 @@ yethāti?’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo ārakkhassa, yadidaṃ maccha-
 riyaṃ.
-     12. ‘“Pariggahaṃ paṭicca macchariyan ti” iti kho
+     ^12. ‘“Pariggahaṃ paṭicca macchariyan ti” iti kho
 pan' etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā pariggahaṃ paṭicca macchariyaṃ.
 ~7.60
@@ -171,17 +171,17 @@ yethāti?’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo macchariyassa, yadidaṃ parig-
 gaho.
-     13. ‘“Ajjhosānaṃ paṭicca pariggaho ti” iti kho pan'
+     ^13. ‘“Ajjhosānaṃ paṭicca pariggaho ti” iti kho pan'
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena vedi-
 tabbaṃ, yathā ajjhosānaṃ paṭicca pariggaho. Ajjhosā-
-naṃ va1 hi Ānanda nābhavissa sabbena sabbaṃ sabbathā
+naṃ va#1 hi Ānanda nābhavissa sabbena sabbaṃ sabbathā
 sabbaṃ kassaci kimhici, sabbaso ajjhosāne asati ajjho-
 sāna-nirodhā api nu kho pariggaho paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ
 esa samudayo esa paccayo pariggahassa, yadidaṃ
 ajjhosānaṃ.
-     14. ‘“Chanda-rāgaṃ paṭicca ajjhosānan ti” iti kho
+     ^14. ‘“Chanda-rāgaṃ paṭicca ajjhosānan ti” iti kho
 pan' etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā chanda-rāgaṃ paṭicca ajjhosānaṃ.
 Chanda-rāgo va hi Ānanda nābhavissa sabbena sabbaṃ
@@ -192,10 +192,10 @@ yethāti?’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo ajjhosānassa, yadidaṃ chanda-
 rāgo.
-     15. ‘“Vinicchayaṃ paṭicca chanda-rāgo ti” iti kho
+     ^15. ‘“Vinicchayaṃ paṭicca chanda-rāgo ti” iti kho
 pan' etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā vinicchayaṃ paṭicca chanda-rāgo.
-Vinicchayo va2 hi Ānanda nābhavissa sabbena sabbaṃ
+Vinicchayo va#2 hi Ānanda nābhavissa sabbena sabbaṃ
 sabbathā sabbaṃ kassaci kimhici, sabbaso vinicchaye
 asati vinicchaya-nirodhā api nu kho chanda-rāgo paññā-
 yethāti?’
@@ -204,7 +204,7 @@ yethāti?’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo chanda-rāgassa, yadidaṃ vinic-
 chayo.
-     16. ‘“Lābhaṃ paṭicca vinicchayo ti” iti kho pan'
+     ^16. ‘“Lābhaṃ paṭicca vinicchayo ti” iti kho pan'
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā lābhaṃ paṭicca vinicchayo. Lābho va
 hi Ānanda nābhavissa sabbena sabbaṃ sabbathā sabbaṃ
@@ -213,7 +213,7 @@ kho vinicchayo paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo vinicchayassa, yadidaṃ lābho.
-     17. ‘“Pariyesanaṃ paṭicca lābho ti” iti kho pan' etaṃ
+     ^17. ‘“Pariyesanaṃ paṭicca lābho ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ,
 yathā pariyesanaṃ paṭicca lābho. Pariyesanā va hi
 Ānanda nābhavissa sabbena sabbaṃ sabbathā sabbaṃ
@@ -222,7 +222,7 @@ nirodhā api nu kho lābho paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo lābhassa, yadidaṃ pariyesanā.
-     18. ‘“Taṇhaṃ paṭicca pariyesanā ti” iti kho pan' etaṃ
+     ^18. ‘“Taṇhaṃ paṭicca pariyesanā ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditab-
 baṃ, yathā taṇhaṃ paṭicca pariyesanā. Taṇhā va hi
 Ānanda nābhavissa sabbena sabbaṃ sabbathā sabbaṃ
@@ -232,10 +232,10 @@ nu kho pariyesanā paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu esaṃ nidānaṃ esa
 samudayo esa paccayo pariyesanāya, yadidaṃ taṇhā.
-     ‘Iti kho Ānanda ime dve1 dhammā dvayena2 vedanāya
-eka-samosaraṇā3 bhavanti.
+     ‘Iti kho Ānanda ime dve#1 dhammā dvayena#2 vedanāya
+eka-samosaraṇā#3 bhavanti.
 ~7.62
-     19. ‘“Phassa-paccayā vedanā ti” iti kho pan' etaṃ
+     ^19. ‘“Phassa-paccayā vedanā ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditab-
 baṃ, yathā phassa-paccayā vedanā. Phasso va hi Ānanda
 nābhavissa sabbena sabbaṃ sabbathā sabbaṃ kassaci
@@ -246,7 +246,7 @@ kho vedanā paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo vedanāya yadidaṃ phasso.
-     20. ‘“Nāmarūpa-paccayā phasso ti” iti kho pan' etaṃ
+     ^20. ‘“Nāmarūpa-paccayā phasso ti” iti kho pan' etaṃ
 vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena veditabbaṃ,
 yathā nāmarūpa-paccayā phasso. Yehi Ānanda ākārehi
 yehi liṅgehi yehi nimittehi yehi uddesehi nāma-kāyassa
@@ -272,42 +272,42 @@ phasso paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo phassassa, yadidaṃ nāma-rūpaṃ.
-     21. ‘“Viññāṇa-paccayā nāma-rūpan ti” iti kho pan'
+     ^21. ‘“Viññāṇa-paccayā nāma-rūpan ti” iti kho pan'
 ~7.63
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ yathā viññāṇa-paccayā nāma-rūpaṃ. Viññā-
-ṇaṃ va hi Ānanda mātu kucchiṃ1 na okkamissatha, api
+ṇaṃ va hi Ānanda mātu kucchiṃ#1 na okkamissatha, api
 nu kho nāma-rūpaṃ mātu kucchismiṃ samucchissa-
 thāti?’
      ‘No h' etaṃ bhante.’
-     ‘Viññāṇaṃ va hi Ānanda mātu kucchiṃ2 okkamitvā
+     ‘Viññāṇaṃ va hi Ānanda mātu kucchiṃ#2 okkamitvā
 vokkamissatha, api nu kho nāma-rūpaṃ itthattāya abhi-
 nibbattissathāti?’
      ‘No h' etaṃ bhante.’
      ‘Viññāṇaṃ va hi Ānanda daharass' eva sato vocchij-
-jissatha kumārassa3 vā kumārikāya vā, api nu kho
-nāma-rūpam vuddhiṃ4 virūḷhiṃ vepullaṃ āpajjissa-
+jissatha kumārassa#3 vā kumārikāya vā, api nu kho
+nāma-rūpam vuddhiṃ#4 virūḷhiṃ vepullaṃ āpajjissa-
 thāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo nāma-rūpassa, yadidaṃ viññāṇaṃ.
-     22. ‘“Nāmarūpa-paccayā viññāṇan ti” iti kho pan'
+     ^22. ‘“Nāmarūpa-paccayā viññāṇan ti” iti kho pan'
 etaṃ vuttaṃ, tad Ānanda iminā p' etaṃ pariyāyena
 veditabbaṃ, yathā nāmarūpa-paccayā viññāṇaṃ. Viññā-
-ṇaṃ va hi Ānanda nāma-rūpe patiṭṭhaṃ nālabhissatha,5
-api nu kho āyati6 jāti-jarā-maraṇa7-dukkha-samudaya8-
+ṇaṃ va hi Ānanda nāma-rūpe patiṭṭhaṃ nālabhissatha,#5
+api nu kho āyati#6 jāti-jarā-maraṇa#7-dukkha-samudaya#8-
 sambhavo paññāyethāti?’
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda es' eva hetu etaṃ nidānaṃ esa
 samudayo esa paccayo viññāṇassa, yadidaṃ nāmarūpaṃ.
-     ‘Ettāvatā kho Ānanda jāyetha9 vā jīyetha10 vā mī-
-yetha11 vā cavetha vā uppajjetha12 vā, ettāvatā13 adhiva-
+     ‘Ettāvatā kho Ānanda jāyetha#9 vā jīyetha#10 vā mī-
+yetha#11 vā cavetha vā uppajjetha#12 vā, ettāvatā#13 adhiva-
 cana-patho, ettāvatā nirutti-patho, ettāvatā paññatti-
 patho, ettāvatā paññāvacaraṃ, ettāvatā vaṭṭaṃ vaṭṭati
 ~7.64
 itthattaṃ paññāpanāya, yadidaṃ nāma-rūpaṃ saha viññā-
-ṇena.1
-     23. ‘Kittāvatā ca Ānanda attānaṃ paññāpento2 paññā-
+ṇena.#1
+     ^23. ‘Kittāvatā ca Ānanda attānaṃ paññāpento#2 paññā-
 peti? {Rūpiṃ} vā hi Ānanda parittaṃ attānaṃ paññā-
 pento, paññāpeti “Rūpī me paritto attā ti.” Rūpiṃ vā hi
 Ānanda anantaṃ attānaṃ paññāpento, paññāpeti “Rūpī
@@ -315,13 +315,13 @@ me ananto attā ti.” Arūpiṃ vā hi Ānanda parittaṃ attā-
 naṃ paññāpento, paññāpeti “Arūpī me paritto attā ti”;
 arūpiṃ vā hi Ānanda anantaṃ attānaṃ paññāpento,
 paññāpeti “Arūpī me ananto attā ti.”
-     24. ‘Tatr' Ānanda yo so rūpiṃ parittaṃ attānaṃ
+     ^24. ‘Tatr' Ānanda yo so rūpiṃ parittaṃ attānaṃ
 paññāpento paññāpeti, etarahi vā so rūpiṃ parittaṃ attā-
-naṃ paññāpento paññāpeti, tattha3-bhāviṃ vā so rūpiṃ
+naṃ paññāpento paññāpeti, tattha#3-bhāviṃ vā so rūpiṃ
 parittaṃ attānaṃ paññāpento paññāpeti, “Atathaṃ va
 pana santaṃ tathattāya upakappessāmīti iti vā pan' assa
-hoti. Evaṃ santaṃ kho Ānanda rūpiṃ4 parittattānudiṭ-
-ṭhi anusetīti icc alaṃ5 vacanāya.
+hoti. Evaṃ santaṃ kho Ānanda rūpiṃ#4 parittattānudiṭ-
+ṭhi anusetīti icc alaṃ#5 vacanāya.
      ‘Tatr' Ānanda yo so rūpiṃ anantaṃ attānaṃ paññā-
 pento paññāpeti, etarahi vā so rūpiṃ anantaṃ attānaṃ
 paññāpento {paññāpeti}, tattha-bhāviṃ vā so rūpiṃ anan-
@@ -341,7 +341,7 @@ pan' assa hoti. Evaṃ santaṃ kho Ānanda arūpiṃ anan-
 tattānudiṭṭhi anusetīti icc alaṃ vacanāya.
      ‘Ettāvatā kho Ānanda attānaṃ paññāpento paññā-
 peti.
-     25. ‘Kittāvatā ca Ānanda attānaṃ na paññāpento na
+     ^25. ‘Kittāvatā ca Ānanda attānaṃ na paññāpento na
 paññāpeti? Rūpiṃ vā hi Ānanda parittaṃ attānaṃ na
 paññāpento na paññāpeti “Rūpī me paritto attā ti”;
 rūpiṃ vā hi Ānanda anantaṃ attānaṃ na paññāpento na
@@ -349,7 +349,7 @@ paññāpeti “Rūpī me ananto attā ti”; arūpiṃ vā hi Ānanda
 parittaṃ attānaṃ na paññāpento na paññāpeti “Arūpī me
 paritto attā ti”; arūpiṃ vā hi Ānanda anantaṃ attānaṃ
 na paññāpento na paññāpeti “Arūpī me ananto attā ti.”
-     26. ‘Tatr' Ānanda yo so rūpiṃ parittaṃ attānaṃ na
+     ^26. ‘Tatr' Ānanda yo so rūpiṃ parittaṃ attānaṃ na
 paññāpento na paññāpeti, etarahi vā so rūpiṃ parittaṃ
 attānaṃ na paññāpento na paññāpeti, tattha-bhāviṃ vā so
 rūpiṃ parittaṃ attānaṃ na paññāpento na paññāpeti,
@@ -373,20 +373,20 @@ assa na hoti. Evaṃ santaṃ kho Ānanda arūpiṃ anantat-
 tānudiṭṭhi nānusetīti icc alaṃ vacanāya.
      ‘Ettāvatā kho Ānanda attānaṃ na paññāpento na
 paññāpeti.
-     27. ‘Kittāvatā ca Ānanda attānaṃ samanupassamāno
+     ^27. ‘Kittāvatā ca Ānanda attānaṃ samanupassamāno
 samanupassati? Vedanaṃ vā hi Ānanda attānaṃ samanu-
 passamāno samanupassati. “Vedanā me attā” ti. “Na
 h' eva kho me vedanā attā, appaṭisaṃvedano me attā” ti,
 iti vā hi Ānanda attānaṃ samanupassamāno samanu-
 passati. “Na h' eva kho me vedanā attā, no pi appaṭi-
-saṃvedano me1 attā, attā me vediyati2 vedanā-dhammo
+saṃvedano me#1 attā, attā me vediyati#2 vedanā-dhammo
 hi me attā” ti iti vā hi Ānanda attānaṃ samanupassamāno
 samanupassati.
-     28. ‘Tatr' Ānanda yo so evam āha “Vedanā me attā”
+     ^28. ‘Tatr' Ānanda yo so evam āha “Vedanā me attā”
 ti, so evam assa vacanīyo “Tisso kho imā āvuso vedanā,
 sukhā vedanā dukkhā vedanā adukkhā-m-asukhā vedanā.
-Imāsaṃ tvaṃ3 tissannaṃ vedanānaṃ katamaṃ attano
-samanupassasīti4?”
+Imāsaṃ tvaṃ#3 tissannaṃ vedanānaṃ katamaṃ attano
+samanupassasīti#4?”
      ‘Yasmiṃ Ānanda samaye sukhaṃ vedanaṃ vedeti,
 n' eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na aduk-
 kha-m-asukhaṃ vedanaṃ vedeti, sukhaṃ yeva tasmiṃ
@@ -398,7 +398,7 @@ dukkhaṃ yeva tasmiṃ samaye vedanaṃ vedeti. Yasmiṃ
 n' eva tasmiṃ samaye sukhaṃ vedanaṃ vedeti, na duk-
 khaṃ vedanaṃ vedeti, adukkha-m-asukhaṃ yeva tasmiṃ
 samaye vedanaṃ vedeti.
-     29. ‘Sukhā pi kho Ānanda vedanā aniccā saṃkhatā
+     ^29. ‘Sukhā pi kho Ānanda vedanā aniccā saṃkhatā
 {paṭiccasamuppannā} khāya-dhammā vaya-dhammā virāga-
 dhammā nirodha-dhammā. Dukkhā pi kho Ānanda
 vedanā aniccā saṃkhatā {paṭiccasamuppannā} khaya-
@@ -407,8 +407,8 @@ dhammā vaya-dhammā virāga-dhammā nirodha-dhammā.
 Adukkha-m-asukhā pi kho Ānanda vedanā aniccā saṃ-
 khatā {paṭiccasamupannā} khaya-dhammā vaya-dhammā
 virāga-dhammā nirodha-dhammā. Tassa sukhaṃ veda-
-naṃ vediyamānassa1 “Eso me attā” ti hoti, tassā yeva
-sukhāya vedanāya nirodhā “Vyāgā2 me attā” ti hoti.
+naṃ vediyamānassa#1 “Eso me attā” ti hoti, tassā yeva
+sukhāya vedanāya nirodhā “Vyāgā#2 me attā” ti hoti.
 Dukkhaṃ vedanaṃ vediyamānassa “Eso me attā ti”
 hoti, tassā yeva dukkhāya vedanāya nirodhā “Vyāgā me
 attā” ti hoti. Adukkha-m-asukhaṃ vedanaṃ vediya-
@@ -419,115 +419,115 @@ vokiṇṇaṃ uppāda-vaya-dhammaṃ attānaṃ samanupassa-
 māno samanupassati yo so evam āha “Vedanā me attā”
 ti. Tasmāt ih' Ānanda etena p' etaṃ nakkhamati “Ve-
 danā me attā” ti samanupassituṃ.
-     30. ‘Tatr' Ānanda yo so evam āha “Na h' eva kho me
+     ^30. ‘Tatr' Ānanda yo so evam āha “Na h' eva kho me
 vedanā attā, appaṭisaṃvedano me attā” ti, so evam assa
-vacanīyo “Yattha pan' āvuso sabbaso vedayitaṃ n' atthi,3
+vacanīyo “Yattha pan' āvuso sabbaso vedayitaṃ n' atthi,#3
 api nu kho tattha ‘Asmīti’ siyāti?”
-     ‘No h' etaṃ bhante.’4
+     ‘No h' etaṃ bhante.’#4
      ‘Tasmāt ih' Ānanda etena p' etaṃ nakkhamati “Na
-h' eva kho me5 vedanā attā, appaṭisaṃvedano me attā” ti
+h' eva kho me#5 vedanā attā, appaṭisaṃvedano me attā” ti
 samanupassituṃ.
-     31. ‘Tatr' Ānanda yo so evam āha “Na h' eva kho me
-vedanā attā, no pi appaṭisaṃvedano me6 attā, attā me
+     ^31. ‘Tatr' Ānanda yo so evam āha “Na h' eva kho me
+vedanā attā, no pi appaṭisaṃvedano me#6 attā, attā me
 vediyati, vedanā-dhammo hi me attā” ti, so evam assa
 vacanīyo “Vedanā va hi āvuso sabbena sabbaṃ sabbathā
 sabbaṃ aparisesā nirujjheyyuṃ, sabbaso vedanāya asati
-vedanā-nirodhā, api nu kho tattha ‘Ayam7 aham
+vedanā-nirodhā, api nu kho tattha ‘Ayam#7 aham
 asmīti’ siyāti?”
      ‘No h' etaṃ bhante.’
      ‘Tasmāt ih' Ānanda etena p' etaṃ nakkhamati “Na
 ~7.68
-h' eva kho me vedanā attā, no pi appaṭisaṃvedano1 attā,
+h' eva kho me vedanā attā, no pi appaṭisaṃvedano#1 attā,
 attā me vediyati, vedanā-dhammo hi me attā” ti samanu-
 passituṃ.
-     32. ‘Yato kho Ānanda bhikkhu n' eva vedanaṃ attānaṃ
+     ^32. ‘Yato kho Ānanda bhikkhu n' eva vedanaṃ attānaṃ
 samanupassati, no pi appaṭisaṃvedanaṃ attānaṃ samanu-
-passati, no pi “Attā me2 vediyati, vedanā-dhammo hi
-me attā” ti samanupassati, so evaṃ asamanupassanto3
-na4 kiñci loke upādiyati,5 anupādiyaṃ6 na paritassati,
-aparitassaṃ paccattaṃ yeva parinibbāyati,7 “Khīṇā jāti,
+passati, no pi “Attā me#2 vediyati, vedanā-dhammo hi
+me attā” ti samanupassati, so evaṃ asamanupassanto#3
+na#4 kiñci loke upādiyati,#5 anupādiyaṃ#6 na paritassati,
+aparitassaṃ paccattaṃ yeva parinibbāyati,#7 “Khīṇā jāti,
 vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ
-itthattāyāti” pajānāti. Evaṃ-vimutta-cittaṃ8 kho
+itthattāyāti” pajānāti. Evaṃ-vimutta-cittaṃ#8 kho
 Ānanda bhikkhuṃ yo evaṃ vadeyya “Hoti Tathāgato
-param maraṇā” ti,9 iti 'ssa10 diṭṭhīti tad akallaṃ. “Na
-hoti Tathāgato param maraṇā ti9 iti 'ssa diṭṭhīti tad akal-
-laṃ. “Hoti ca na ca hoti Tathāgato param maraṇā” ti,9
+param maraṇā” ti,#9 iti 'ssa#10 diṭṭhīti tad akallaṃ. “Na
+hoti Tathāgato param maraṇā ti#9 iti 'ssa diṭṭhīti tad akal-
+laṃ. “Hoti ca na ca hoti Tathāgato param maraṇā” ti,#9
 iti 'ssa diṭṭhīti tad akallaṃ. “N' eva hoti na na hoti
-Tathāgato param maraṇā” ti,9 iti 'ssa {diṭṭhīti} tad akalaṃ.
+Tathāgato param maraṇā” ti,#9 iti 'ssa {diṭṭhīti} tad akalaṃ.
 11 Taṃ kissa hetu? Yāvat' Ānanda adhivacanaṃ yāvatā
-adhivacana-patho,12yāvatā nirutti12 yāvatā nirutti-patho,
-yāvatā paññatti yāvatā paññatti-patho, yāvatā paññā13
-yāvatā paññāvacaraṃ, yāvatā vaṭṭaṃ14 yāvatā vaṭṭaṃ15
-vaṭṭati,16 tad abhiññā vimutto bhikkhu, tad abhiññā
-vimutto bhikkhu17 na jānāti na passati iti 'ssa diṭṭhīti
+adhivacana-patho,#12yāvatā nirutti#12 yāvatā nirutti-patho,
+yāvatā paññatti yāvatā paññatti-patho, yāvatā paññā#13
+yāvatā paññāvacaraṃ, yāvatā vaṭṭaṃ#14 yāvatā vaṭṭaṃ#15
+vaṭṭati,#16 tad abhiññā vimutto bhikkhu, tad abhiññā
+vimutto bhikkhu#17 na jānāti na passati iti 'ssa diṭṭhīti
 tad akallaṃ.
-     33.18 ‘Satta kho imā Ānanda viññāṇaṭṭhitiyo, dve ca
+     ^33.#18 ‘Satta kho imā Ānanda viññāṇaṭṭhitiyo, dve ca
 āyatanāni. Katamā satta? Sant' Ānanda sattā nānatta-
 ~7.69
 kāyā nānatta-saññino, seyyathā pi manussā ekacce ca devā
 ekacce ca vinipātikā. Ayaṃ paṭhamā viññāṇaṭṭhiti.
      ‘Sant' Ānanda sattā nānatta-kāyā ekatta-saññino, sey-
-yathā pi devā Brahma-kāyikā paṭhamābhinibbattā.1
+yathā pi devā Brahma-kāyikā paṭhamābhinibbattā.#1
 Ayaṃ dutiyā viññāṇaṭṭhiti.
      ‘Sant' Ānanda sattā ekatta-kāyā nānatta-saññino, sey-
 yathā pi devā Ābhassarā. Ayaṃ tatiyā viññāṇaṭṭhiti.
      ‘Sant' Ānanda sattā ekatta-kāyā nānatta-saññino, sey-
-yathā pi devā Subhakiṇṇā.2 Ayaṃ catutthā3 viññāṇa-
+yathā pi devā Subhakiṇṇā.#2 Ayaṃ catutthā#3 viññāṇa-
 ṭṭhiti.
      ‘Sant' Ānanda {sattā} sabbaso {rūpa-saññānaṃ} samatik-
-kamā4 paṭigha-saññānaṃ atthagamā5 nānatta-saññānaṃ
+kamā#4 paṭigha-saññānaṃ atthagamā#5 nānatta-saññānaṃ
 amanasikārā “Ananto ākāso” ti ākāsānañcāyatanūpagā.
 Ayaṃ pañcamī viññāṇaṭṭhiti.
      ‘Sant' Ānanda sattā sabbaso ākāsānañcāyatanaṃ sam-
-atikkamma6 “Anantaṃ viññāṇan” ti viññāṇañcāyatanū-
-pagā. Ayaṃ chaṭṭhā7 viññāṇaṭṭhiti.
+atikkamma#6 “Anantaṃ viññāṇan” ti viññāṇañcāyatanū-
+pagā. Ayaṃ chaṭṭhā#7 viññāṇaṭṭhiti.
      ‘Sant' Ānanda sattā sabbaso viññāṇañcāyatanaṃ sam-
 atikkhamma “N' atthi kiñcīti” ākiñcaññāyatanūpagā.
-Ayaṃ sattamī8 viññāṇaṭṭhiti.
-     ‘Asaññasattāyatanaṃ9 {n'eva-saññā}-nāsaññāyatanam eva
+Ayaṃ sattamī#8 viññāṇaṭṭhiti.
+     ‘Asaññasattāyatanaṃ#9 {n'eva-saññā}-nāsaññāyatanam eva
 dutiyaṃ.
-     34. ‘Tatr' Ānanda yāyaṃ paṭhamā viññāṇaṭṭhiti
+     ^34. ‘Tatr' Ānanda yāyaṃ paṭhamā viññāṇaṭṭhiti
 nānatta-kāyā nānatta-saññino, seyyathā pi manussā ekacce
 ca devā ekacce ca vinipātikā, yo nu kho Ānanda tañ ca
 pajānāti, tassā ca samudayaṃ pajānāti, tassā ca atthaga-
 maṃ pajānāti, tassā ca assādaṃ pajānāti, tassā ca ādīna-
 vaṃ pajānāti, tassā ca nissaraṇaṃ pajānāti, kallaṃ nu
-kho10 tena tad abhinanditun ti?’
+kho#10 tena tad abhinanditun ti?’
 ~7.70
      ‘No h' etaṃ bhante.’
-                              . . . pe1 . . .
+                              . . . pe#1 . . .
      ‘Tatr' Ānanda yāyaṃ sattamī viññāṇaṭṭhiti sabbaso
-viññāṇañcāyatanaṃ samatikkamma2 “N' atthi kiñcīti”
+viññāṇañcāyatanaṃ samatikkamma#2 “N' atthi kiñcīti”
 ākiñcaññāyatanūpagā, yo nu kho Ānanda tañ ca pajānāti,
 tassā ca samudayaṃ pajānāti, tassā ca atthagamaṃ pajā-
 nāti, tassā ca assādaṃ pajānāti, tassā ca ādīnavaṃ pajā-
-nāti, tassā ca nissaraṇaṃ pajānāti, kallaṃ nu kho3 tena
+nāti, tassā ca nissaraṇaṃ pajānāti, kallaṃ nu kho#3 tena
 tad abhinanditun ti?’
      ‘No h' etaṃ bhante.’
-     ‘Tatr' Ānanda yam idaṃ asaññasattāyatanaṃ,4 yo nu
+     ‘Tatr' Ānanda yam idaṃ asaññasattāyatanaṃ,#4 yo nu
 kho Ānanda tañ ca pajānāti, tassa ca samudayaṃ pajānāti,
 tassa ca atthagamaṃ pajānāti, tassa ca assādaṃ pajānāti,
 tassa ca ādīnavaṃ pajānāti, tassa ca nissaraṇaṃ pajānāti,
-kallaṃ nu kho5 tena tad abhinanditun ti?’
+kallaṃ nu kho#5 tena tad abhinanditun ti?’
      ‘No h' etaṃ bhante.’
      ‘Tatr' Ānanda yam idaṃ {n'eva-saññā}-nāsaññāyatanaṃ,
 yo nu kho Ānanda tañ ca pajānāti, tassa ca samudayaṃ
 pajānāti, tassa ca atthagamaṃ pajānāti, tassa ca assādaṃ
 pajānāti, tassa ca ādīnavaṃ pajānāti, tassa ca nissaraṇaṃ
-pajānāti, kallaṃ nu kho6 tena tad abhinanditun ti?’
+pajānāti, kallaṃ nu kho#6 tena tad abhinanditun ti?’
      ‘No h' etaṃ bhante.’
      ‘Yato kho Ānanda bhikkhu imāsañ ca sattannaṃ viñ-
 ñāṇaṭṭhitīnaṃ imesañ ca dvinnaṃ āyatanānaṃ samu-
 dayañ ca atthagamañ ca assādañ ca ādīnavañ ca nissara-
 ṇañ ca yathābhūtaṃ viditvā anupādā vimutto hoti, ayaṃ
-vuccati Ānanda7 bhikkhu paññā-vimutto.
-     35. ‘Aṭṭha kho ime Ānanda, vimokhā.8 Katame aṭṭha?
+vuccati Ānanda#7 bhikkhu paññā-vimutto.
+     ^35. ‘Aṭṭha kho ime Ānanda, vimokhā.#8 Katame aṭṭha?
 Rūpī rūpāni passati. Ayaṃ paṭhamo vimokho.
      ‘Ajjhattaṃ arūpa-saññī bahiddhā rūpāni passati. Ayaṃ
 dutiyo vimokho.
 ~7.71
      ‘Subhan' t' eva adhimutto hoti. Ayaṃ tatiyo vimokho.
-     ‘Sabbaso rūpa-saññānaṃ samatikkamā1 paṭigha-saññā-
+     ‘Sabbaso rūpa-saññānaṃ samatikkamā#1 paṭigha-saññā-
 naṃ atthagamā nānatta-saññānaṃ amanasikārā “Ananto
 ākāso” ti ākāsānañcāyatanaṃ upasampajja viharati.
 Ayaṃ catuttho vimokho.
@@ -541,12 +541,12 @@ chaṭṭho vimokho.
 nāsaññāyatanaṃ upasampajja viharati. Ayaṃ sattamo
 vimokho.
      ‘Sabbaso {n'eva-saññā}-nāsaññāyatanaṃ samatikkamma
-saññā2-vedayita3-nirodhaṃ upasampajja viharati. Ayaṃ
+saññā#2-vedayita#3-nirodhaṃ upasampajja viharati. Ayaṃ
 aṭṭhamo vimokho. Ime kho Ānanda aṭṭha vimokhā.
-     36. ‘Yato kho Ānanda bhikkhu ime aṭṭha vimokhe
+     ^36. ‘Yato kho Ānanda bhikkhu ime aṭṭha vimokhe
 anulomam pi samāpajjati, paṭilomam pi samāpajjati, anu-
 loma-paṭilomam pi samāpajjati, yatth' icchakaṃ yad
-icchakaṃ yāvad4 icchakaṃ samāpajjati pi vuṭṭhāti pi,5
+icchakaṃ yāvad#4 icchakaṃ samāpajjati pi vuṭṭhāti pi,#5
 āsavānañ ca khayā anāsavaṃ cetovimuttiṃ paññā-vimut-
 tiṃ diṭṭhe va dhamme sayaṃ abhiññā sacchikatvā upa-
 sampajja viharati, ayaṃ vuccati Ānanda bhikkhu ubhato-

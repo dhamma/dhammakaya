@@ -1,8 +1,8 @@
 ~6.1
           NAMO TASSA BHAGAVATO ARAHATO SAMMĀ SAMBUDDHASSA.
-                          [Dīgha Nikāya.
+                          Dīgha Nikāya.
                     ------------------------------
-                      i. Brahmajāla Sutta.] *
+                      [i. Brahmajāla Sutta.] *
                     ------------------------------
 
     ^101. Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā antarā
@@ -910,7 +910,7 @@ me no. No no ti pi me no ti.”
 ārabbha eke samaṇa-brāhmaṇā amarā-vikkhepikā tattha
 tattha pañhaṃ puṭṭhā samānā vācā-vikkhepaṃ āpajjanti
 amarā-vikkhepaṃ.
-28. Ime kho te, bhikkhave, samaṇa-brāhmaṇā amarā-
+^228. Ime kho te, bhikkhave, samaṇa-brāhmaṇā amarā-
 ~6.28
 vikkhepikā tattha tattha pañhaṃ puṭṭhā samānā vācā-vik-
 khepaṃ āpajjanti amarā-vikkhepaṃ catuhi vatthūhi. Ye hi

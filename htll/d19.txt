@@ -1,26 +1,26 @@
 ~7.220
-                  [xix. Mahā-Govinda Suttanta.] 1
+                  [xix. Mahā-Govinda Suttanta.] #1
                   ---------------------------------------
      Evam me sutaṃ.
-     1. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjha-
+     ^1. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjha-
 kūṭe pabbate. Atha kho Pañcasikho Gandhabba-putto
-abhikkantāya rattiyā abhikkanta-vaṇṇo2 {kevalakappaṃ}
-Gijjhakūṭaṃ3 obhāsetvā yena Bhagavā ten' upasaṃkami,
+abhikkantāya rattiyā abhikkanta-vaṇṇo#2 {kevalakappaṃ}
+Gijjhakūṭaṃ#3 obhāsetvā yena Bhagavā ten' upasaṃkami,
 upasaṃkamitvā Bhagavantaṃ abhivādetvā ekamantaṃ
 aṭṭhāsi. Ekamantaṃ ṭhito kho Pañcasikho Gandhabba-
 putto Bhagavantaṃ etad avoca:
      ‘Yam me bhante devānaṃ Tāvatiṃsānaṃ sammukhā
-sutaṃ sammukhā {paṭiggahītaṃ},4 ārocem' etaṃ bhante5
+sutaṃ sammukhā {paṭiggahītaṃ},#4 ārocem' etaṃ bhante#5
 Bhagavato ti.’
      ‘Ārocehi me tvaṃ Pañcasikhāti,’ Bhagavā avoca.
                        ---------------------------
-     2. Purimāni bhante divasāni purimatarāni, tadahu
+     ^2. Purimāni bhante divasāni purimatarāni, tadahu
 'posathe paṇṇarase pavāraṇāya puṇṇamāya rattiyā keva-
 lakappā ca devā Tāvatiṃsā Sudhammāyaṃ sabhāyaṃ
-sannisinnā honti sannipatitā, mahatī ca dibbā6 parisā
-samantato nisinnā hoti, cattāro ca {Mahārājā}7 cātuddisā
+sannisinnā honti sannipatitā, mahatī ca dibbā#6 parisā
+samantato nisinnā hoti, cattāro ca {Mahārājā}#7 cātuddisā
 nisinnā honti. Puratthimāya disāya Dhataraṭṭho Mahā-
-rājā pacchābhimukho8 nisinno hoti deve9 purakkhatvā.10
+rājā pacchābhimukho#8 nisinno hoti deve#9 purakkhatvā.#10
 Dakkhiṇāya disāya Virūḷhako Mahārājā uttarābhimukho
 nisinno hoti deve purakkhatvā. Pacchimāya disāya
 ~7.221
@@ -29,21 +29,21 @@ deve purakkhatvā. Uttarāya disāya Vessavaṇo Mahārājā
 dakkhiṇābhimukho nisinno hoti deve purakkhatvā. Yadā
 bhante kevalakappā ca devā Tāvatiṃsā Sudhammāyaṃ
 sabhāyaṃ sannisinnā honti sannipatitā, mahatī ca dibbā
-parisā samantato nisinnā honti,1 cattāro ca mahārājā
-catuddisā nisinnā honti, idaṃ tesaṃ2 hoti āsanasmiṃ,
+parisā samantato nisinnā honti,#1 cattāro ca mahārājā
+catuddisā nisinnā honti, idaṃ tesaṃ#2 hoti āsanasmiṃ,
 atha pacchā amhākaṃ āsanaṃ hoti. Ye te bhante devā
-Bhagavati brahmacariyaṃ caritvā adhun-uppannā3 Tāva-
-tiṃsa-kāyā,4 te aññe deve atirocanti vaṇṇena c' eva
-yasasā5 ca. Tena sudaṃ bhante devā Tāvatiṃsā atta-
-manā honti pamuditā pīti6-somanassa-jātā: “Dibbā vata
-bho kāyā paripūrenti,7 hāyanti asura-kāyā ti.”
-     3. Atha8 bhante Sakko devānam Indo devānaṃ Tāva-
-tiṃsānaṃ pāsādaṃ9 viditvā imāhi gāthāhi anumodi:
-‘Modanti vata bho devā Tāvatiṃsā sahindakā,10
-Tathāgataṃ namassantā dhammassa ca sudhammataṃ,11
-Nave va12 deve passantā13 vaṇṇavante yasassino,14
+Bhagavati brahmacariyaṃ caritvā adhun-uppannā#3 Tāva-
+tiṃsa-kāyā,#4 te aññe deve atirocanti vaṇṇena c' eva
+yasasā#5 ca. Tena sudaṃ bhante devā Tāvatiṃsā atta-
+manā honti pamuditā pīti#6-somanassa-jātā: “Dibbā vata
+bho kāyā paripūrenti,#7 hāyanti asura-kāyā ti.”
+     ^3. Atha#8 bhante Sakko devānam Indo devānaṃ Tāva-
+tiṃsānaṃ pāsādaṃ#9 viditvā imāhi gāthāhi anumodi:
+‘Modanti vata bho devā Tāvatiṃsā sahindakā,#10
+Tathāgataṃ namassantā dhammassa ca sudhammataṃ,#11
+Nave va#12 deve passantā#13 vaṇṇavante yasassino,#14
 Sugatasmiṃ brahmacariyaṃ caritvāna idhāgate.
-Te aññe atirocanti15 vaṇṇena yasasāyunā,16
+Te aññe atirocanti#15 vaṇṇena yasasāyunā,#16
 Sāvakā Bhūri-paññassa visesūpagatā idha.
 Idaṃ disvāna nandanti Tāvatiṃsā sahindakā,
 Tathāgataṃ namassantā dhammassa ca sudhammatan ti.’
@@ -51,7 +51,7 @@ Tathāgataṃ namassantā dhammassa ca sudhammatan ti.’
      Tena sudaṃ bhante devā Tāvatiṃsā bhīyoso mattāya
 attamanā honti pamuditā pīti-somanassa-jātā: “Dibbā
 vata bho kāyā paripūrenti, hāyanti asura-kāyā ti.”
-     4. Atha1 bhante Sakko devānam indo devānaṃ Tāva-
+     ^4. Atha#1 bhante Sakko devānam indo devānaṃ Tāva-
 tiṃsānaṃ sampasādaṃ viditvā deve Tāvatiṃse āmantesi:
      “Iccheyyātha no tumhe mārisā tassa Bhagavato
 aṭṭha yathā-bhucce vaṇṇe sotun ti?”
@@ -59,61 +59,61 @@ aṭṭha yathā-bhucce vaṇṇe sotun ti?”
 yathā-bhucce vaṇṇe sotun ti.”
      Atha bhante Sakko devānam indo devānaṃ Tāva-
 ṭiṃsānaṃ Bhagavato aṭṭha yathā-bhucce vaṇṇe payiru-
-dāhāsi.2
-     5. “Taṃ {kiṃ} maññanti bhonto devā Tāvatiṃsā? Yāva
-c'3 assa so Bhagavā bahujana-hitāya paṭipanno bahujana-
-sukhāya lokānukampakāya4 atthāya hitāya sukhāya deva-
+dāhāsi.#2
+     ^5. “Taṃ {kiṃ} maññanti bhonto devā Tāvatiṃsā? Yāva
+c'#3 assa so Bhagavā bahujana-hitāya paṭipanno bahujana-
+sukhāya lokānukampakāya#4 atthāya hitāya sukhāya deva-
 manussānaṃ, evaṃ bahujana-hitāya paṭipannaṃ bahu-
 jana-sukhāya lokānukampakāya atthāya hitāya sukhāya
 deva-manussānaṃ, iminā p' aṅgena samannāgataṃ sat-
 thāraṃ, n' eva atītaṃse samanupassāma, na pan' etarahi
 aññatra tena Bhagavatā.
-     6. “Svākkhāto kho pana tassa Bhagavato dhammo5
-sandiṭṭhiko akāliko6 ehipassiko opanayiko7 paccattaṃ
-veditabbo viññūhi.8 Evam opanayikassa dhammassa
+     ^6. “Svākkhāto kho pana tassa Bhagavato dhammo#5
+sandiṭṭhiko akāliko#6 ehipassiko opanayiko#7 paccattaṃ
+veditabbo viññūhi.#8 Evam opanayikassa dhammassa
 desetāraṃ, iminā p' aṅgena samannāgataṃ satthāraṃ,
 n' eva atītaṃse samanupassāma, na pan' etarahi aññatra
 tena Bhagavatā.
-     7. “Idaṃ kusalan ti kho pana9 tena Bhagavatā
-suppaññattaṃ, idam akusalan ti suppaññattaṃ,10 idaṃ
+     ^7. “Idaṃ kusalan ti kho pana#9 tena Bhagavatā
+suppaññattaṃ, idam akusalan ti suppaññattaṃ,#10 idaṃ
 ~7.223
 sāvajjaṃ idam anavajjaṃ, idaṃ sevitabbaṃ idaṃ na
 sevitabbaṃ, idaṃ hīnaṃ idaṃ paṇītaṃ, idaṃ kaṇha-
 sukka-sappaṭibhāgan ti suppaññattaṃ. Evaṃ kusalā-
-kusala-sāvajjānavajja1-sevitabbāsevitabba-hīnappaṇīta-
+kusala-sāvajjānavajja#1-sevitabbāsevitabba-hīnappaṇīta-
 kaṇhasukka-sappaṭibhāgānaṃ dhammānaṃ paññāpetā-
-raṃ,2 iminā p' aṅgena samannāgataṃ satthāraṃ, n' eva
+raṃ,#2 iminā p' aṅgena samannāgataṃ satthāraṃ, n' eva
 atītaṃse samanupassāma, na pan' etarahi aññatra tena
 Bhagavatā.
-     8. “Suppaññattā kho pana tena Bhagavatā sāvakā-
+     ^8. “Suppaññattā kho pana tena Bhagavatā sāvakā-
 naṃ nibbāna-gāminī paṭipadā, saṃsandati nibbānañ ca
 paṭipadā ca. Seyyathā pi nāma Gaṅgodakaṃ Yamu-
-nodakena saṃsandati sameti,3 evam eva suppaññattā
+nodakena saṃsandati sameti,#3 evam eva suppaññattā
 tena Bhagavatā sāvakānam nibbāna-gāminī paṭipadā,
 saṃsandati nibbānañ ca paṭipadā ca.{Evaṃ} nibbāna-
-gāmini4-paṭipadāya paññāpetāraṃ iminā p' aṅgena
+gāmini#4-paṭipadāya paññāpetāraṃ iminā p' aṅgena
 samannāgataṃ satthāraṃ n' eva atītaṃse samanupas-
 sāma, na pan' etarahi aññatra tena Bhagavatā.
-     9.5 “Laddha-sahāyo kho pana so Bhagavā sekhānañ
-c' eva paṭipadānaṃ khīṇāsavānañ ca vusitavataṃ,6 te7
-Bhagavā apanujja8 ekārāmataṃ anuyutto viharati. Evaṃ
+     ^9.#5 “Laddha-sahāyo kho pana so Bhagavā sekhānañ
+c' eva paṭipadānaṃ khīṇāsavānañ ca vusitavataṃ,#6 te#7
+Bhagavā apanujja#8 ekārāmataṃ anuyutto viharati. Evaṃ
 ekārāmataṃ anuyuttaṃ iminā p' aṅgena samannāgataṃ
 satthāraṃ n' eva atītaṃse samanupassāma, na pan'
 etarahi aññatra tena Bhagavatā.
-     10. “Abhinippanno9 kho pana tassa Bhagavato lābho,
-abhinippanno siloko, yāva maññe10 khattiyā sampiyāya-
+     ^10. “Abhinippanno#9 kho pana tassa Bhagavato lābho,
+abhinippanno siloko, yāva maññe#10 khattiyā sampiyāya-
 māna-rūpā viharanti, vigata-mado kho pana so Bhagavā
-āhāraṃ11 āhāreti. Evaṃ vigata-madaṃ āhāraṃ āhari-
+āhāraṃ#11 āhāreti. Evaṃ vigata-madaṃ āhāraṃ āhari-
 yamānaṃ iminā p' aṅgena samannāgataṃ satthāraṃ n'
 ~7.224
 eva atītaṃse samanupassāma, na pan' etarahi aññatra
 tena Bhagavatā.
-     11. “Yathā-vādī kho pana so Bhagavā tathā-kārī,
+     ^11. “Yathā-vādī kho pana so Bhagavā tathā-kārī,
 yathā-kārī tathā-vādī. Iti yathā-vādī tathā-kārī {yathā}-
 kārī tathā-vādī evaṃ dhammānudhamma-paṭipannaṃ
 iminā p' aṅgena samannāgataṃ satthāraṃ n' eva atītaṃse
 samanupassāma, na pan' etarahi aññatra tena Bhagavatā.
-     12. “Tiṇṇa-vicikiccho kho pana so Bhagavā vigata-
+     ^12. “Tiṇṇa-vicikiccho kho pana so Bhagavā vigata-
 kathaṃkatho pariyosita-saṃkappo ajjhāsayaṃ ādi-brah-
 macariyaṃ. Evaṃ tiṇṇa-vicikicchaṃ vigata-kathaṅ-
 kathaṃ pariyosita-saṃkappaṃ ajjhāsayaṃ ādi-brahma-
@@ -122,10 +122,10 @@ atītaṃse samanupassāma, na pan' etarahi {aññatra} tena
 Bhagavatā” ti.
      Ime kho bhante Sakko devānam indo devānaṃ
 Tāvatiṃsānaṃ Bhagavato aṭṭha yathā-bhucce vaṇṇe
-payirudāhāsi.1 Tena sudaṃ bhante devā Tāvatiṃsā
+payirudāhāsi.#1 Tena sudaṃ bhante devā Tāvatiṃsā
 bhīyoso mattāya attamanā honti, pamuditā pīti-soma-
 nassa-jātā Bhagavato aṭṭha yathā-bhucce vaṇṇe sutvā.
-     13. Tatra kho2 bhante ekacce devā evam āhaṃsu:--
+     ^13. Tatra kho#2 bhante ekacce devā evam āhaṃsu:--
      “Aho vata mārisā cattāro Sammā-sambuddhā loke
 uppajjeyyuṃ, dhammañ ca deseyyuṃ, yathariva Bhagavā.
 Tad assa bahujana-hitāya bahujana-sukhāya lokānukam-
@@ -143,130 +143,130 @@ dhammañ ca deseyyuṃ, yathariva Bhagavā. Tad assa
 bahujana-hitāya bahujana-sukhāya lokānukampakāya
 atthāya hitāya sukhāya deva-manussānan” ti.
 ~7.225
-     14. Evaṃ vutte bhante Sakko devānam indo deve
+     ^14. Evaṃ vutte bhante Sakko devānam indo deve
 Tāvatiṃse etad avoca:--
-     “Aṭṭhānaṃ kho etaṃ1 mārisā anavakāso yaṃ ekissā
+     “Aṭṭhānaṃ kho etaṃ#1 mārisā anavakāso yaṃ ekissā
 loka-dhātuyā dve arahanto sammā-sambuddhā apubbaṃ
 acarimaṃ uppajjeyyuṃ. N' etaṃ ṭhānaṃ vijjati. Aho
-vata mārisā so2 Bhagavā appābādho appātaṅko ciraṃ3
+vata mārisā so#2 Bhagavā appābādho appātaṅko ciraṃ#3
 dīgham addhānaṃ tiṭṭheyya. Tad assa bahujana-hitāya
 bahujana-sukhāya lokānukampakāya atthāya hitāya su-
 khāya deva-manussānan” ti.
      Atha bhante yen' atthena devā Tāvatiṃsā Sudham-
-māya4 sabhāyaṃ sannisinnā honti sannipatitā, taṃ
+māya#4 sabhāyaṃ sannisinnā honti sannipatitā, taṃ
 atthaṃ cintayitvā taṃ atthaṃ mantayitvā vutta-vacanā
-pi taṃ5 cattāro Mahārājā6 {tasmiṃ} atthe honti, paccanu-
+pi taṃ#5 cattāro Mahārājā#6 {tasmiṃ} atthe honti, paccanu-
 siṭṭha-vacanā pi taṃ cattāro Mahārājā tasmiṃ atthe
-honti sakesu7 āsanesu ṭhitā avippakantā.8
-     Te vutta-vākyā9 rājāno {paṭiggayhānusāsaniṃ}
-     Vippasanna10-manā santā aṭṭhaṃsu11 samhi āsane ti.
-     15. Atha12 bhante uttarāya disāya uḷāro āloko sañjāyi13
+honti sakesu#7 āsanesu ṭhitā avippakantā.#8
+     Te vutta-vākyā#9 rājāno {paṭiggayhānusāsaniṃ}
+     Vippasanna#10-manā santā aṭṭhaṃsu#11 samhi āsane ti.
+     ^15. Atha#12 bhante uttarāya disāya uḷāro āloko sañjāyi#13
 obhāso pātur ahosi atikamm' eva devānaṃ devānubhā-
 vaṃ. Atha bhante Sakko devānam indo deve Tāvatiṃse
 āmantesi:
-     14 “Yathā kho mārisā nimittā dissanti āloko sañjāyati
+     #14 “Yathā kho mārisā nimittā dissanti āloko sañjāyati
 obhāso pātu bhavati Brahmā pātu bhavissati. Brahmuno
 etaṃ pubba-nimittaṃ pātubhāvāya yadidaṃ āloko
 sañjāyati obhāso pātu bhavatīti.
      Yathā nimittā dissanti, Brahmā pātu bhavissati,
-     Brahmuno h' etaṃ nimittaṃ15 obhāso vipulo mahā ti.
+     Brahmuno h' etaṃ nimittaṃ#15 obhāso vipulo mahā ti.
 ~7.226
      Atha bhante devā Tāvatiṃsā yathā sakesu āsanesu
-nisīdiṃsu: “Obhāsam etaṃ ñassāma, {yaṃ1-vipāko}2
+nisīdiṃsu: “Obhāsam etaṃ ñassāma, {yaṃ#1-vipāko}#2
 bhavissati, sacchikatvā va naṃ gamissāmāti.” Cattāro ca
-Mahārājā3 yathā sakesu āsanesu nisīdiṃsu: “Obhāsam
+Mahārājā#3 yathā sakesu āsanesu nisīdiṃsu: “Obhāsam
 etaṃ ñassāma, yaṃ vipāko bhavissati, sacchikatvā va naṃ
-gamissāmāti.” Idaṃ sutvā4 devā5 Tāvatiṃsā ekaggatā6
+gamissāmāti.” Idaṃ sutvā#4 devā#5 Tāvatiṃsā ekaggatā#6
 {samāpajjiṃsu:} “Obhāsam etaṃ ñassāma, {yaṃ-vipāko}
 bhavissati, sacchikatvā va naṃ gamissāmāti.”
-     16. Yadā bhante Brahmā7 Sanaṃkumāro devānaṃ8
+     ^16. Yadā bhante Brahmā#7 Sanaṃkumāro devānaṃ#8
 Tāvatiṃsānaṃ pātu bhavati, {oḷārikaṃ} attabhāvaṃ abhi-
-nimminitvā9 pātu bhavati. Yo10 kho pana bhante
+nimminitvā#9 pātu bhavati. Yo#10 kho pana bhante
 Brahmuno pakati-vaṇṇo anabhisambhavanīyo, so devā-
 naṃ Tāvatiṃsānaṃ cakkhu-pathasmiṃ. Yadā bhante
 Brahmā Sanaṃkumāro devānaṃ Tāvatiṃsānaṃ pātu
-bhavati, so aññe deve atirocati11 vaṇṇena c' eva yasasā ca.
+bhavati, so aññe deve atirocati#11 vaṇṇena c' eva yasasā ca.
 Seyyathā pi bhante sovaṇṇo viggaho mānusaṃ viggahaṃ
 atirocati, evam eva kho bhante yadā Brahmā Sanaṃku-
 māro devānaṃ Tāvatiṃsānaṃ pātu bhavati, so aññe deve
 atirocativaṇṇena c' eva yasasā ca. Yadā bhante Brahmā
 Sanaṃkumāro devānaṃ Tāvatiṃsānaṃ pātu bhavati,
-na tassa parisāyaṃ koci devo12 abhivādeti vā paccuṭṭheti
-vā āsanena nimanteti vā.13 Sabbe14 tuṇhī-bhūtā pañjalikā
+na tassa parisāyaṃ koci devo#12 abhivādeti vā paccuṭṭheti
+vā āsanena nimanteti vā.#13 Sabbe#14 tuṇhī-bhūtā pañjalikā
 pallaṅkena nisīdanti: “Yassa dāni devassa icchissati
 Brahmā Sanaṃkumāro, tassa devassa pallaṅke nisīdissa-
-tīti.” Yassa15 kho pana bhante devassa Brahmā Sanaṃku-
-māro pallaṅke16 nisīdati,17 uḷāraṃ so labhati devo veda-
-paṭilābhaṃ,17 uḷāraṃ so labhati devo18 somanassa-paṭilā-
+tīti.” Yassa#15 kho pana bhante devassa Brahmā Sanaṃku-
+māro pallaṅke#16 nisīdati,#17 uḷāraṃ so labhati devo veda-
+paṭilābhaṃ,#17 uḷāraṃ so labhati devo#18 somanassa-paṭilā-
 ~7.227
 bhaṃ. Seyyathā pi bhante rājā khattiyo muddhāvasitto
-adhunābhisitto1 rajjena, uḷāraṃ so labhati veda2-paṭilā-
+adhunābhisitto#1 rajjena, uḷāraṃ so labhati veda#2-paṭilā-
 bhaṃ, uḷāraṃ so labhati somanassa-paṭilābhaṃ, evam eva
 kho bhante yassa devassa Brahmā Sanaṃkumāro pallaṅke
-nisīdati, uḷāraṃ so labhati devo veda3-paṭilābhaṃ, uḷāraṃ
+nisīdati, uḷāraṃ so labhati devo veda#3-paṭilābhaṃ, uḷāraṃ
 so labhati devo somanassa-paṭilābhaṃ.
-     17. Atha bhante Brahmā Sanaṃkumāro devānaṃ
+     ^17. Atha bhante Brahmā Sanaṃkumāro devānaṃ
 Tāvatiṃsānaṃ sampasādaṃ viditvā antarahito imāhi
 gāthāhi anumodi:
      Modanti vata bho devā Tāvatiṃsā sahindakā,
      Tathāgatam namassantā dhammassa ca sudhamma-
             taṃ,
      Nave va deve passantā vaṇṇavante yasassino,
-     Sugatasmiṃ brahmacariyaṃ caritvāna idhāgate.4
+     Sugatasmiṃ brahmacariyaṃ caritvāna idhāgate.#4
      Te aññe atirocanti vaṇṇena yasasāyunā
-     Sāvakā Bhūri-paññassa visesūpagatā5 idha.
+     Sāvakā Bhūri-paññassa visesūpagatā#5 idha.
      Idaṃ disvāna nandanti Tāvatiṃsā sahindakā,
      Tathāgataṃ namassantā dhammassa ca sudhammatan
             ti.
-     18. Idam atthaṃ6 bhante Brahmā Sanaṃkumāro
+     ^18. Idam atthaṃ#6 bhante Brahmā Sanaṃkumāro
 abhāsittha, idam atthaṃ bhante Brahmuno Sanaṃkumā-
 rassa bhāsato aṭṭhaṅga-samannāgato saro hoti vissaṭṭho
-ca viññeyyo ca mañju ca savanīyo ca bindu7 ca avisārī ca
+ca viññeyyo ca mañju ca savanīyo ca bindu#7 ca avisārī ca
 gambhīro ca ninnādī ca. Yathā-parisaṃ kho pana bhante
 Brahmā Sanaṃkumāro sarena viññāpeti, na c' assa
 bahiddhā parisāya ghoso niccharati. Yassa kho pana
 bhante evaṃ aṭṭhaṅga-samannāgato saro hoti, so vuccati
 Brahmassaro ti.
-     19. Atha8 bhante devā Tāvatiṃsā Brahmā-Sanaṃ-
-kumāraṃ9 etad avocuṃ:
-     “Sādhu Brahme,10 etad eva mayaṃ saṅkhāya modāma,
+     ^19. Atha#8 bhante devā Tāvatiṃsā Brahmā-Sanaṃ-
+kumāraṃ#9 etad avocuṃ:
+     “Sādhu Brahme,#10 etad eva mayaṃ saṅkhāya modāma,
 ~7.228
-atthi ca Sakkena devānam indena1 tassa Bhagavato aṭṭha
+atthi ca Sakkena devānam indena#1 tassa Bhagavato aṭṭha
 yathābhuccā vaṇṇā bhāsitā, te ca mayaṃ saṅkhāya modā-
 māti.”
-     Atha kho2 bhante Brahmā Sanaṃkumāro Sakkaṃ
+     Atha kho#2 bhante Brahmā Sanaṃkumāro Sakkaṃ
 devānam indaṃ etad avoca:--
      “Sādhu {devānam} inda, mayam pi tassa Bhagavato
 aṭṭha yathābhucce vaṇṇe suṇeyyāmāti.”
      “Evaṃ Mahā-Brahme” ti kho bhante Sakko devānam
 indo Brahmuno Sanaṃkumārassa Bhagavato aṭṭha yathā-
 bhucce {vaṇṇe} payirudāhāsi.
-     20. “Taṃ {kiṃ} maññati bhavaṃ Mahā-Brahmā? Yāva
-ca so3 Bhagavā bahujana-hitāya paṭipanno bahujana-
+     ^20. “Taṃ {kiṃ} maññati bhavaṃ Mahā-Brahmā? Yāva
+ca so#3 Bhagavā bahujana-hitāya paṭipanno bahujana-
 sukhāya lokānukampakāya atthāya hitāya sukhāya deva-
 manussānaṃ, evaṃ bahujana-hitāya paṭipannaṃ bahujana-
-sukhāya lokānukampakāya atthāya hitāya sukhāya4 deva-
+sukhāya lokānukampakāya atthāya hitāya sukhāya#4 deva-
 manussānaṃ iminā p' aṅgena samannāgataṃ satthāraṃ
 n' eva atītaṃse samanupassāma, na pan' etarahi aññatra
 tena Bhagavatā.
-     21. “Svākkhāto kho pana tassa Bhagavato dhammo
+     ^21. “Svākkhāto kho pana tassa Bhagavato dhammo
 sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ vedi-
-tabbo viññūhi.5 Evaṃ opanayikassa6 dhammassa dese-
+tabbo viññūhi.#5 Evaṃ opanayikassa#6 dhammassa dese-
 tāraṃ iminā p' aṅgena samannāgataṃ satthāraṃ n' eva
 atītaṃse samanupassāma na pan' etarahi aññatra tena
 Bhagavatā.
-     22. “Idaṃ kusalan ti kho pana tena Bhagavatā
+     ^22. “Idaṃ kusalan ti kho pana tena Bhagavatā
 suppaññattaṃ, idaṃ akusalan ti suppaññattaṃ, idaṃ
 sāvajjaṃ idaṃ anavajjaṃ, idaṃ sevitabbaṃ idaṃ na
 sevitabbaṃ, idaṃ hīnaṃ idaṃ paṇītaṃ, idaṃ kaṇha-
 sukka-sappaṭibhāgan ti suppaññattaṃ. Evaṃ kusalā-
-kusala-sāvajjānavajja7-sevitabbāsevitabba8-hīnappaṇīta-
+kusala-sāvajjānavajja#7-sevitabbāsevitabba#8-hīnappaṇīta-
 kaṇhasukka-sappaṭibhāgānaṃ dhammānaṃ paññāpe-
 tāraṃ, iminā p' aṅgena samannāgataṃ satthāraṃ, n' eva
 ~7.229
 atītaṃse samanupassāma na pan' etarahi aññatra tena
 Bhagavatā.
-     23. “Suppaññattā kho pana tena Bhagavatā1 sāva-
+     ^23. “Suppaññattā kho pana tena Bhagavatā#1 sāva-
 kānaṃ nibbāna-{gāminī} paṭipadā, saṃsandati nibbānañ ca
 paṭipadā ca. Seyyathā pi nāma Gaṅgodakaṃ Yamuno-
 dakena saṃsandati sameti, evam eva suppaññattā tena
@@ -275,25 +275,25 @@ dati nibbānañ ca paṭipadā ca. Evaṃ nibbāna-gāmini-
 paṭipadāya paññāpetāraṃ iminā p' aṅgena samannāgataṃ
 satthāraṃ n' eva atītaṃse samanupassāma, na pan' etarahi
 aññatra tena Bhagavatā.
-     24.2 “Laddha-sahāyo kho pana so Bhagavā sekhānañ
-c' eva {paṭipadānaṃ} khīṇāsavānañ ca vusitavataṃ,3 te
-Bhagavā apanujja3 ekārāmataṃ anuyutto viharati. Evaṃ
+     ^24.#2 “Laddha-sahāyo kho pana so Bhagavā sekhānañ
+c' eva {paṭipadānaṃ} khīṇāsavānañ ca vusitavataṃ,#3 te
+Bhagavā apanujja#3 ekārāmataṃ anuyutto viharati. Evaṃ
 ekārāmataṃ anuyuttaṃ iminā p' aṅgena samannāgataṃ
 satthāraṃ n' eva atītaṃse samanupassāma, na pan' etarahi
 {aññatra} tena Bhagavatā.
-     25. “Abhinippanno4 kho pana tassa Bhagavato lābho,
-abhinippanno siloko, yāva maññe5 khattiyā sampiyāya-
+     ^25. “Abhinippanno#4 kho pana tassa Bhagavato lābho,
+abhinippanno siloko, yāva maññe#5 khattiyā sampiyāya-
 māna-rūpā viharanti, vigata-mado kho pana so Bhagavā
 āhāraṃ āhāreti. Evaṃ vigata-madaṃ āhāraṃ āhariya-
 mānaṃ iminā p' aṅgena samannāgataṃ satthāraṃ n' eva
 atītaṃse samanupassāma, na pan' etarahi aññatra tena
 Bhagavatā.
-     26. “Yathā-vādī kho pana so Bhagavā tathā-kārī,
+     ^26. “Yathā-vādī kho pana so Bhagavā tathā-kārī,
 yathā-kārī tathā-vādī. Iti yathā-vādī tathā-kārī, yathā-
 kārī tathā-vādī evaṃ dhammānudhamma-paṭipannaṃ
 iminā p' aṅgena samannāgataṃ satthāraṃ n' eva atītaṃse
 samanupassāma, na pan' etarahi aññatra tena Bhagavatā.
-     27. “Tiṇṇa-vicikiccho kho pana so Bhagavā vigata-
+     ^27. “Tiṇṇa-vicikiccho kho pana so Bhagavā vigata-
 kathaṅkatho pariyosita-saṃkappo ajjhāsayaṃ ādi-brahma-
 ~7.230
 cariyaṃ. Evaṃ tiṇṇa-vicikicchaṃ vigata-kathaṅkathaṃ
@@ -301,50 +301,50 @@ pariyosita-saṃkappaṃ ajjhāsayaṃ ādi-brahmacariyaṃ
 iminā p' aṅgena samannāgataṃ satthāraṃ n' eva atītaṃse
 samanupassāma, na pan' etarahi aññatra tena Bhaga-
 vatā” ti.
-     Ime1 kho bhante Sakko devānam indo Brahmuno
+     Ime#1 kho bhante Sakko devānam indo Brahmuno
 Sanaṃkumārassa Bhagavato aṭṭha yathā-bhucce vaṇṇe
 payirudāhāsi. Tena sudaṃ bhante Brahmā Sanaṃku-
 māro attamano hoti pamudito pīti-somanassa-jāto Bhaga-
 vato aṭṭha yathā-bhucce vaṇṇe sutvā.
-     28. Atha bhante Brahmā Sanaṃkumāro {oḷārikaṃ}
-attabhāvaṃ abhinimminitvā2 kumāra-vaṇṇī3 hutvā Pañca-
-sikho devānaṃ Tāvatiṃsānaṃ pātur ahosi4 vehāsaṃ5
-abbhuggantvā ākāse antalikkhe pallaṅkena6 nisīditvā.7
+     ^28. Atha bhante Brahmā Sanaṃkumāro {oḷārikaṃ}
+attabhāvaṃ abhinimminitvā#2 kumāra-vaṇṇī#3 hutvā Pañca-
+sikho devānaṃ Tāvatiṃsānaṃ pātur ahosi#4 vehāsaṃ#5
+abbhuggantvā ākāse antalikkhe pallaṅkena#6 nisīditvā.#7
 Seyyathā pi bhante balavā puriso supaccatthate vā pallaṅke
-same vā bhūmi-bhāge pallaṅkena8 nisīdeyya, evam eva
+same vā bhūmi-bhāge pallaṅkena#8 nisīdeyya, evam eva
 kho bhante Brahmā Sanaṃkumāro vehāsaṃ abbhuggantvā
-ākāse antalikkhe pallaṅkena9 nisīditvā deve Tāvatiṃse
+ākāse antalikkhe pallaṅkena#9 nisīditvā deve Tāvatiṃse
 āmantesi:--
-     29. Taṃ {kiṃ} maññanti bhonto10 devā Tāvatiṃsā?
+     ^29. Taṃ {kiṃ} maññanti bhonto#10 devā Tāvatiṃsā?
 Yāva dīgha-rattaṃ mahā-pañño ca so Bhagavā ahosi.
                        ------------------------
-     Bhūta-pubbaṃ bho rājā Disampatī11 nāma ahosi.
+     Bhūta-pubbaṃ bho rājā Disampatī#11 nāma ahosi.
 Disampatissa rañño Govindo nāma brāhmaṇo purohito
 ahosi. Disampatissa rañño Reṇu nāma kumāro putto
 ahosi. Govindassa brāhmaṇassa Jotipālo nāma māṇavo
 putto ahosi. Iti Reṇu ca rājaputto Jotipālo ca māṇavo
-aññe ca chakkhattiyā12 icc ete aṭṭha sahāyā ahesuṃ.
+aññe ca chakkhattiyā#12 icc ete aṭṭha sahāyā ahesuṃ.
 ~7.231
-Attha kho1 ahorattānaṃ accayena Govindo brāhmaṇo
-kālam akāsi. Govinde2 brāhmaṇe3 kālakate4 rājā Disam-
+Attha kho#1 ahorattānaṃ accayena Govindo brāhmaṇo
+kālam akāsi. Govinde#2 brāhmaṇe#3 kālakate#4 rājā Disam-
 patī paridevesi:--
-     ‘Yasmiṃ vata bho mayaṃ5 samaye Govinde6 brāh-
-maṇe7 sabba-kiccāni {sammavossajjitvā} pañcahi kāma-guṇehi
-samappitā samaṅgi-bhūtā paricārema,8 tasmiṃ samaye
+     ‘Yasmiṃ vata bho mayaṃ#5 samaye Govinde#6 brāh-
+maṇe#7 sabba-kiccāni {sammavossajjitvā} pañcahi kāma-guṇehi
+samappitā samaṅgi-bhūtā paricārema,#8 tasmiṃ samaye
 Govindo brāhmaṇo kālakato’ ti.
      Evaṃ vutte bho Reṇu rājaputto rājānaṃ Disampatiṃ
 etad avoca:--
      ‘Mā kho tvaṃ deva Govinde brāhmaṇe kālakate ati-
 bāḷhaṃ paridevesi. Atthi deva Govindassa brāhmaṇassa
 Jotipālo nāma māṇavo putto paṇḍitataro c' eva pitarā
-alamatthadasataro {c' eva} pitarā.9 Ye pi 'ssa10 pitā atthe
-anusāsi, te pi Jotipālass' eva māṇavassa anusāsaniyā’11 ti.
+alamatthadasataro {c' eva} pitarā.#9 Ye pi 'ssa#10 pitā atthe
+anusāsi, te pi Jotipālass' eva māṇavassa anusāsaniyā’#11 ti.
      ‘Evaṃ kumārāti’ ?
      ‘Evaṃ devāti.’
-     30. Atha kho bho rājā Disampati aññataraṃ purisaṃ
+     ^30. Atha kho bho rājā Disampati aññataraṃ purisaṃ
 āmantesi:--
-     ‘Ehi tvaṃ ambho purisa, yena Jotipālo12 māṇavo ten'
-upasaṃkama, upasaṃkamitvā Jotipālaṃ13 māṇavaṃ evaṃ
+     ‘Ehi tvaṃ ambho purisa, yena Jotipālo#12 māṇavo ten'
+upasaṃkama, upasaṃkamitvā Jotipālaṃ#13 māṇavaṃ evaṃ
 vadehi: Bhavam atthu bhavantaṃ Jotipālaṃ māṇavaṃ,
 rājā Disampati bhavantaṃ Jotipālaṃ māṇavaṃ āmanta-
 yati. Rājā Disampati bhoto Jotipālassa māṇavassa
@@ -363,47 +363,47 @@ saṃkamitvā Disampatinā raññā saddhiṃ sammodi,
 sammodanīyaṃ kathaṃ sārāṇīyaṃ vītisāretvā ekamantaṃ
 nisīdi. Ekamantaṃ nisinnaṃ kho bho Jotipālaṃ māṇa-
 vaṃ rājā Disampati etad avoca:--
-     ‘Anusāsatu no bhavaṃ Jotipālo māṇavo, mā1 bhavaṃ
-Jotipālo anusāsaniyā paccavyāhāsi.2 Pettike3 taṃ ṭhāne
-ṭhapayissāmi,4 Govindiye abhisiñcissāmīti.’
-     ‘Evaṃ bho’ ti kho bho5 Jotipālo māṇavo Disampatissa
+     ‘Anusāsatu no bhavaṃ Jotipālo māṇavo, mā#1 bhavaṃ
+Jotipālo anusāsaniyā paccavyāhāsi.#2 Pettike#3 taṃ ṭhāne
+ṭhapayissāmi,#4 Govindiye abhisiñcissāmīti.’
+     ‘Evaṃ bho’ ti kho bho#5 Jotipālo māṇavo Disampatissa
 rañño paccassosi.
-     31. Atha kho bho6 rājā Disampati Jotipālaṃ māṇavaṃ
+     ^31. Atha kho bho#6 rājā Disampati Jotipālaṃ māṇavaṃ
 Govindiye abhisiñci, pettike ṭhāne ṭhapesi. Abhisitto
 Jotipālo māṇavo Govindiye pettike ṭhāne ṭhapito ye pi
-'ssa pitā atthe anusāsi, te7 atthe anusāsati; ye pi 'ssa
+'ssa pitā atthe anusāsi, te#7 atthe anusāsati; ye pi 'ssa
 pitā atthe nānusāsi, te pi atthe nānusāsati. Ye pi 'ssa
 pitā kammante abhisambhosi, te pi kammante abhisam-
 bhoti; ye pi 'ssa pitā kammante nābhisambhosi te pi
 kammante nābhisambhoti. Tam enaṃ manussā evam
 āhaṃsu: ‘Govindo vata bho brāhmaṇo, mahā Govindo
-vata bho brāhmaṇo’ ti. Iminā kho etaṃ8 bho pariyāyena
-Jotipālassa māṇavassa Mahā-Govindo9 Mahā-Govindo
-tv eva10 samaññā udapādi.
-     32. Atha kho bho11 Mahā-Govindo brāhmaṇo yena te
-chakkhattiyā12 ten' upasaṃkami, upasaṃkamitvā te
-chakkhattiye13 etad avocā:--
-     ‘Disampati14 bho rājā jiṇṇo vuddho mahallako addha-
+vata bho brāhmaṇo’ ti. Iminā kho etaṃ#8 bho pariyāyena
+Jotipālassa māṇavassa Mahā-Govindo#9 Mahā-Govindo
+tv eva#10 samaññā udapādi.
+     ^32. Atha kho bho#11 Mahā-Govindo brāhmaṇo yena te
+chakkhattiyā#12 ten' upasaṃkami, upasaṃkamitvā te
+chakkhattiye#13 etad avocā:--
+     ‘Disampati#14 bho rājā jiṇṇo vuddho mahallako addha-
 ~7.233
-gato vayo-anuppatto. Ko nu kho pana1 bho2 jānāti
+gato vayo-anuppatto. Ko nu kho pana#1 bho#2 jānāti
 jīvitānaṃ? Ṭhānaṃ kho pan' etaṃ vijjati yaṃ Disampa-
 timhi raññe kālakate, rāja-kattāro Reṇuṃ rāja-puttaṃ
-rajje abhisiñceyyuṃ. Āyantu bho3 bhonto, yena Reṇu
-rāja-putto ten' upasaṃkamatha, upasaṃkamitvā Reṇuṃ4
-rāja-puttaṃ evaṃ vadetha: “Mayaṃ5 bhoto Reṇussa
-sahāyā piyā manāpā appaṭikkūlā,6 {yaṃ-sukho} bhavaṃ
-{taṃ-sukhā} mayaṃ,7 {yaṃ8-dukkho}9 bhavaṃ,10 {taṃ-dukkhā}
-mayaṃ.7 Disampati11 bho rājā jiṇṇo vuddho mahallako
+rajje abhisiñceyyuṃ. Āyantu bho#3 bhonto, yena Reṇu
+rāja-putto ten' upasaṃkamatha, upasaṃkamitvā Reṇuṃ#4
+rāja-puttaṃ evaṃ vadetha: “Mayaṃ#5 bhoto Reṇussa
+sahāyā piyā manāpā appaṭikkūlā,#6 {yaṃ-sukho} bhavaṃ
+{taṃ-sukhā} mayaṃ,#7 {yaṃ#8-dukkho}#9 bhavaṃ,#10 {taṃ-dukkhā}
+mayaṃ.#7 Disampati#11 bho rājā jiṇṇo vuddho mahallako
 addha-gato vayo-anuppatto. Ko nu kho pana bho jānāti
 jīvitānaṃ? Ṭhānaṃ kho pan' etaṃ vijjati yaṃ Disampa-
 timhi raññe kālakate rāja-kattāro bhavantaṃ Reṇuṃ rajje
 abhisiñceyyuṃ. Sace bhavaṃ Reṇu rajjaṃ labhetha,
 saṃvibhajetha no rajjenāti.”’
-     33. ‘Evaṃ bho’ ti kho bho te {chakkhattiyā} Mahā-
+     ^33. ‘Evaṃ bho’ ti kho bho te {chakkhattiyā} Mahā-
 Govindassa Brāhmaṇassa paṭissutvā yena Reṇu rāja-putto
 ten' {upasaṃkamiṃsu}, upasaṃkamitvā Reṇuṃ rāja-puttaṃ
 etad avocuṃ:--
-     ‘Mayaṃ12 bhoto Reṇussa sahāyā piyā manāpā appaṭi-
+     ‘Mayaṃ#12 bhoto Reṇussa sahāyā piyā manāpā appaṭi-
 kkūlā, {yaṃ-sukho} bhavaṃ {taṃ-sukhā} mayaṃ, {yaṃ-dukkho}
 bhavaṃ {taṃ-dukkhā} mayaṃ. Disampati kho bho rājā
 jiṇṇo vuddho mahallako addha-gato vayo-anuppatto. Ko
@@ -412,21 +412,21 @@ etaṃ vijjati yaṃ Disampatimhi {raññe} kālakate rāja-
 kattāro bhavantaṃ Reṇuṃ rajje abhisiñceyyuṃ. Sace
 bhavaṃ {Reṇu} rajjaṃ labhetha, saṃvibhajetha no rajjenāti.’
 
-     ‘Ko no kho bho añño mama vijite sukham13 edheyy-
-ātha14 aññatra bhavantehi? Sacāhaṃ bho rajjaṃ
+     ‘Ko no kho bho añño mama vijite sukham#13 edheyy-
+ātha#14 aññatra bhavantehi? Sacāhaṃ bho rajjaṃ
 labhissāmi, saṃvibhajissāmi vo rajjenāti.’
 ~7.234
-     34. Atha kho bho ahorattānaṃ accayena rājā Dis-
+     ^34. Atha kho bho ahorattānaṃ accayena rājā Dis-
 ampati kālam akāsi. Disampatimhi raññe kālakate rāja-
-kattāro Reṇuṃ rāja-puttaṃ rajje1 abhisiñciṃsu. Abhisitto
+kattāro Reṇuṃ rāja-puttaṃ rajje#1 abhisiñciṃsu. Abhisitto
 Reṇu rajjena pañcahi kāma-guṇehi samappito samaṅgi-
 bhūto paricāreti. Atha kho bho Mahā-Govindo brāhmaṇo
-yena te chakkhattiyā2 ten' upasaṃkami, upasaṃkamitvā
-te chakkhattiye3 etad avoca:--
+yena te chakkhattiyā#2 ten' upasaṃkami, upasaṃkamitvā
+te chakkhattiye#3 etad avoca:--
      ‘Disampati kho bho rājā kālakato, abhisitto bhavaṃ
-Reṇu rajjena4 pañcahi kāma-guṇehi samappito samaṅgi-
+Reṇu rajjena#4 pañcahi kāma-guṇehi samappito samaṅgi-
 bhūto paricāreti. Ko nu kho pana bho jānāti? Madanīyā
-kāmā.5 Āyantu bhonto, yena Reṇu rājā ten' upasaṃ-
+kāmā.#5 Āyantu bhonto, yena Reṇu rājā ten' upasaṃ-
 kamatha, upasaṃkamitvā Reṇuṃ rājānaṃ evaṃ vadetha:
 “Disampati kho bho rājā kālakato, abhisitto bhavaṃ
 Reṇu rajjena, sarati bhavan tam vacanan” ti?’
@@ -438,65 +438,65 @@ avocuṃ:--
 Reṇu rajjena, sarati bhavan taṃ vacanan’ ti?
      ‘{Sarām'} ahaṃ bho taṃ vacanaṃ. Ko nu kho bho
 pahoti imaṃ mahā-paṭhaviṃ uttarena āyataṃ dakkhiṇena
-sakaṭamukhaṃ6 sattadhā7 samaṃ suvibhattaṃ vibhaj-
+sakaṭamukhaṃ#6 sattadhā#7 samaṃ suvibhattaṃ vibhaj-
 itun’ ti?
      ‘Ko nu kho bho añño pahoti aññatra Mahā-Govindena
 brāhmaṇenāti?’
-     35. Atha kho bho Reṇu rājā aññataraṃ purisaṃ
+     ^35. Atha kho bho Reṇu rājā aññataraṃ purisaṃ
 āmantesi:--
-     ‘Ehi tvaṃ ambho purisa yena Mahā8-Govindo brāh-
-maṇo ten' {upasaṃkama},9 upasaṃkamitvā Mahā-Govin-
-daṃ brāhmaṇaṃ evaṃ vadehi: “Rājā taṃ bhante10 Reṇu
+     ‘Ehi tvaṃ ambho purisa yena Mahā#8-Govindo brāh-
+maṇo ten' {upasaṃkama},#9 upasaṃkamitvā Mahā-Govin-
+daṃ brāhmaṇaṃ evaṃ vadehi: “Rājā taṃ bhante#10 Reṇu
 āmantetīti.”’
 ~7.235
-     ‘Evaṃ devo’ ti kho bho1 so puriso Reṇussa rañño paṭis-
+     ‘Evaṃ devo’ ti kho bho#1 so puriso Reṇussa rañño paṭis-
 sutvā yena Mahā-Govindo brāhmaṇo ten' upasaṃkami,
 upasaṃkamitvā Mahā-Govindaṃ brāhmaṇaṃ etad avoca:
-‘Rājā taṃ bhante2 Reṇu āmantetīti.’
-     ‘Evaṃ bho’ ti kho bho3 Mahā-Govindo brāhmaṇo
+‘Rājā taṃ bhante#2 Reṇu āmantetīti.’
+     ‘Evaṃ bho’ ti kho bho#3 Mahā-Govindo brāhmaṇo
 tassa purisassa paṭissutvā yena Reṇu rājā ten' upasaṃ-
 kami, {upasaṃkamitvā} Reṇunā raññā saddhiṃ sammodi,
 sammodanīyaṃ kathaṃ sārāṇīyaṃ vītisāretvā ekamantaṃ
-nisīdi. Ekamantaṃ nisinnaṃ kho4 Mahā-Govindaṃ
+nisīdi. Ekamantaṃ nisinnaṃ kho#4 Mahā-Govindaṃ
 brāhmaṇaṃ Reṇu rājā etad avoca:
-     ‘Etu bhavaṃ Govindo imaṃ mahā-paṭhaviṃ uttarena5
+     ‘Etu bhavaṃ Govindo imaṃ mahā-paṭhaviṃ uttarena#5
 āyataṃ dakkhiṇena sakaṭamukhaṃ sattadhā samaṃ
-suvibhattaṃ vibhajatūti.6
-     ‘Evaṃ bho’ ti kho7 Mahā-Govindo brāhmaṇo Reṇussa
+suvibhattaṃ vibhajatūti.#6
+     ‘Evaṃ bho’ ti kho#7 Mahā-Govindo brāhmaṇo Reṇussa
 rañño paṭissutvā, imaṃ mahā-paṭhaviṃ uttarena āyataṃ
 dakkhiṇena sakaṭamukhaṃ sattadhā samaṃ suvibhattaṃ
-vibhaji, sabbāni sakaṭamukhāni aṭṭhapesi.8
-     36. Tatra sudaṃ majjhe Reṇussa rañño janapado hoti.
-     Dantapuraṃ Kāliṅgānaṃ9 Assakānañ ca {Potanaṃ}10
-     Māhissatī11 Avantīnaṃ Sovīrānañ12 ca Rorukaṃ13
-     Mithilā14 ca Videhānaṃ Campā Aṅgesu māpitā,
-     Bārāṇasī ca Kāsīnaṃ, ete Govinda-māpitā ti.15
+vibhaji, sabbāni sakaṭamukhāni aṭṭhapesi.#8
+     ^36. Tatra sudaṃ majjhe Reṇussa rañño janapado hoti.
+     Dantapuraṃ Kāliṅgānaṃ#9 Assakānañ ca {Potanaṃ}#10
+     Māhissatī#11 Avantīnaṃ Sovīrānañ#12 ca Rorukaṃ#13
+     Mithilā#14 ca Videhānaṃ Campā Aṅgesu māpitā,
+     Bārāṇasī ca Kāsīnaṃ, ete Govinda-māpitā ti.#15
 ~7.236
      Atha kho bho te chakkhattiyā yathā sakena lābhena
 attamanā ahesuṃ paripuṇṇa-saṃkappā: ‘Yaṃ vata no
 ahosi icchitaṃ yaṃ ākaṅkhitaṃ yaṃ adhippetaṃ yaṃ
 adhipatthitaṃ, taṃ no laddhan ti.
-     Sattabhū Brahmadātto ca Vessabhū Bharato saha,1
-     Reṇu dve ca2 Dhataraṭṭhā3 tadāsuṃ4 satta Bhār-
-            atā5 ti.
-                 Paṭhama-bhāṇavāraṃ niṭṭhitaṃ.6
-     37. Atha kho bho te chakkhattiyā yena Mahā-Govindo
+     Sattabhū Brahmadātto ca Vessabhū Bharato saha,#1
+     Reṇu dve ca#2 Dhataraṭṭhā#3 tadāsuṃ#4 satta Bhār-
+            atā#5 ti.
+                 Paṭhama-bhāṇavāraṃ niṭṭhitaṃ.#6
+     ^37. Atha kho bho te chakkhattiyā yena Mahā-Govindo
 Brāhmaṇo ten' upasaṃkamiṃsu, upasaṃkamitvā Mahā-
-Govindaṃ Brāhmaṇaṃ etad avocuṃ: ‘Yathā7 bhavaṃ
+Govindaṃ Brāhmaṇaṃ etad avocuṃ: ‘Yathā#7 bhavaṃ
 Govindo Reṇussa rañño sahāyo piyo manāpo appaṭikkūlo,
-evam eva8 bhavam Govindo amhākaṃ pi sahāyo piyo
-manāpo appaṭikkūlo. Anusāsatu no bhavaṃ Govindo,9
-mā no10 bhavaṃ Govindo anusāsaniyā paccavyāhā-
-sīti.11
+evam eva#8 bhavam Govindo amhākaṃ pi sahāyo piyo
+manāpo appaṭikkūlo. Anusāsatu no bhavaṃ Govindo,#9
+mā no#10 bhavaṃ Govindo anusāsaniyā paccavyāhā-
+sīti.#11
      ‘Evaṃ bho’ ti kho bho Mahā-Govindo Brāhmaṇo tesaṃ
 channaṃ khattiyānaṃ paccassosi. Atha kho bho Mahā-
 Govindo Brāhmaṇo satta ca rājāno khattiye muddhā-
-vasitte12 rajje anusāsi, satta ca brāhmaṇa-{mahāsāle}13
-satta ca nahātaka-satāni14 mante vācesi.
+vasitte#12 rajje anusāsi, satta ca brāhmaṇa-{mahāsāle}#13
+satta ca nahātaka-satāni#14 mante vācesi.
 ~7.237
-     38. Atha kho bho Mahā-Govindassa Brāhmaṇassa
+     ^38. Atha kho bho Mahā-Govindassa Brāhmaṇassa
 aparena samayena evaṃ kalyāṇo kittisaddo abbhug-
-gañchi1: ‘Sakkhī Mahā-Govindo brāhmaṇo Brahmānaṃ
+gañchi#1: ‘Sakkhī Mahā-Govindo brāhmaṇo Brahmānaṃ
 passati, sakkhī Mahā-Govindo brāhmaṇo Brahmunā
 sākaccheti sallapati mantetīti.’ Atha kho bho Mahā-
 Govindassa brāhmaṇassa etad ahosi: ‘Mayhaṃ kho evaṃ
@@ -507,11 +507,11 @@ Na kho panāhaṃ Brahmānaṃ passāmi, na Brahmunā
 sākacchemi, na Brahmūnā sallapāmi, na Brahmunā
 mantemi. Sutaṃ kho pana m' etaṃ brāhmaṇānaṃ vud-
 dhānaṃ mahallakānaṃ ācariya-pācariyānaṃ bhāsamānā-
-nam: Yo vassike cattāro māse patisallīyati,2 karuṇaṃ
+nam: Yo vassike cattāro māse patisallīyati,#2 karuṇaṃ
 jhānaṃ jhāyati, so Brahmānaṃ passati Brahmunā sākac-
 cheti sallapati mantetīti. {Yannūnāhaṃ} vassike cattāro
-māse patisallīyeyyaṃ3 karuṇaṃ jhānaṃ jhāyeyyan’ ti.
-     39. Atha kho bho Mahā-Govindo Brāhmaṇo yena Reṇu
+māse patisallīyeyyaṃ#3 karuṇaṃ jhānaṃ jhāyeyyan’ ti.
+     ^39. Atha kho bho Mahā-Govindo Brāhmaṇo yena Reṇu
 rājā ten' upasaṃkami, upasaṃkamitvā Reṇuṃ rājānaṃ
 etad avoca: ‘Mayhaṃ kho bho evaṃ kalyāṇo kittisaddo
 abbhuggato: Sakkhī Mahā-Govindo brāhmaṇo Brah-
@@ -528,7 +528,7 @@ patisallīyituṃ, karuṇaṃ jhānaṃ jhāyituṃ. N' amhi ke-
 naci upasaṃkamitabbo aññatra ekena bhattābhihārenāti.’
      ‘Yassa dāni bhavaṃ Govindo kālaṃ maññatīti.’
 ~7.238
-     40. Atha kho Mahā-Govindo Brāhmaṇo yena te chak-
+     ^40. Atha kho Mahā-Govindo Brāhmaṇo yena te chak-
 khattiyā ten' upasaṃkami, upasaṃkamitvā te chak-
 khattiye etad avoca: ‘Mayhaṃ kho evaṃ kalyāṇo kittis-
 addo abbhuggato: Sakkhī Mahā-Govindo brāhmaṇo
@@ -544,7 +544,7 @@ tetīti. Icchām' ahaṃ bho vassike cattāro māse patis-
 allīyituṃ, karuṇaṃ jhāyaṃ jhāyituṃ. {N' amhi} kenaci
 upasaṃkamitabbo aññatra ekena bhattābhihārenāti.
      ‘Yassa dāni bhavaṃ Govindo kālaṃ maññatīti.’
-     41. Atha kho bho Mahā-Govindo Brāhmaṇo yena satta
+     ^41. Atha kho bho Mahā-Govindo Brāhmaṇo yena satta
 ca Brāhmaṇa-mahā-sālā satta ca nahātaka-satāni ten'
 upasaṃkami, upasaṃkamitvā satta ca Brāhmaṇa-mahāsāle
 satta ca nahātaka-satāni etad avoca:--
@@ -562,11 +562,11 @@ pariyatte mante vitthārena sajjhāyaṃ karotha, aññam
 aññañ ca mante vācetha. Icchām' ahaṃ bho vassike
 cattāro māse patisallīyituṃ karuṇaṃ jhānaṃ jhāyituṃ.
 {N' amhi} kenaci upasaṃkamitabbo aññatra ekena bhattā-
-bhihārenāti.’1
+bhihārenāti.’#1
      ‘Yassa dāni bhavaṃ Govindo kālaṃ maññatīti.’
 ~7.239
-     42. Atha kho bho Mahā-Govindo brāhmaṇo yena
-cattārīsā bhariyā sādisiyo1 ten' upasaṃkami, upasaṃ-
+     ^42. Atha kho bho Mahā-Govindo brāhmaṇo yena
+cattārīsā bhariyā sādisiyo#1 ten' upasaṃkami, upasaṃ-
 kamitvā {cattārīsā} bhariyā sādisiyo etad avoca: ‘Mayhaṃ
 kho {bhoti} evaṃ kalyāṇo kittisaddo {abbhuggato}: Sakkhī
 Mahā-Govindo brāhmaṇo Brahmānaṃ passati, sakkhī
@@ -580,22 +580,22 @@ karuṇaṃ jhānaṃ jhāyati, so Brahmānaṃ passati, Brah-
 munā sākaccheti sallapati mantetīti. Icchām' ahaṃ bho-
 ti vassike cattāro māse {patisallīyituṃ} karuṇaṃ jhānaṃ
 jhāyituṃ. {N' amhi} kenaci upasaṃkamitabbo aññatra
-ekena bhattābhihārenāti.’2
+ekena bhattābhihārenāti.’#2
      ‘Yassa dāni bhavaṃ Govindo kālaṃ maññatīti.’
-     43. Atha kho bho Mahā-Govindo brāhmaṇo puratthi-
-mena nagarassa navaṃ santhāgāraṃ3 kārāpetvā vassike
-cattāro māse {patisallīyi}, karuṇaṃ jhānaṃ jhāyi, nāssuda4
+     ^43. Atha kho bho Mahā-Govindo brāhmaṇo puratthi-
+mena nagarassa navaṃ santhāgāraṃ#3 kārāpetvā vassike
+cattāro māse {patisallīyi}, karuṇaṃ jhānaṃ jhāyi, nāssuda#4
 koci upasaṃkami aññatra ekena bhattābhihārena. Atha
 kho bho Mahā-Govindassa brāhmaṇassa catunnaṃ mās-
-ānaṃ accayena5 ahud eva ukkaṇṭhanā ahu paritassanā6:
-Sutaṃ kho pana m' etaṃ7 Brāhmaṇānaṃ vuddhānaṃ
+ānaṃ accayena#5 ahud eva ukkaṇṭhanā ahu paritassanā#6:
+Sutaṃ kho pana m' etaṃ#7 Brāhmaṇānaṃ vuddhānaṃ
 mahallakānaṃ ācariya-pācariyānaṃ {bhāsamānānaṃ}: Yo
 vassike cattāro māse patisallīyati karuṇaṃ jhāyaṃ jhāyati,
 so Brahmānaṃ passati, Brahmunā sākaccheti sallapati
 mantetīti. Na kho panāhaṃ Brahmānaṃ passāmi, na
 Brahmunā sākacchemi, na Brahmunā sallapāmi, na
 Brahmunā mantemīti.
-     44. Atha kho bho Brahmā Sanaṃkumāro Mahā-
+     ^44. Atha kho bho Brahmā Sanaṃkumāro Mahā-
 Govindassa Brāhmaṇassa cetasā {ceto-}parivitakkam aññā-
 ~7.240
 ya, seyyathā pi nāma balavā puriso sammiñjitaṃ vā bā-
@@ -607,19 +607,19 @@ bhitattaṃ ahu lomahaṃso yathā taṃ adiṭṭha-pubbaṃ
 rūpaṃ disvā. Atha kho bho Mahā-Govindo brāhmaṇo
 bhīto saṃviggo loma-haṭṭha-jāto Brahmānaṃ Sanaṃ-
 kumāraṃ gāthāya ajjhabhāsi:--
-    ‘Vaṇṇavā1 yasavā sirimā,2 ko nu tvam asi3 mārisa?
-     Ajānantā tam4 pucchāma5 kathaṃ jānemu taṃ
-        mayaṃ?’6
-    ‘Maṃ7 ve kumāraṃ jānanti Brahma-loke sanan-
-        tanaṃ,8
-     Sabbe jānanti maṃ devā, evaṃ Govinda jānahi.’9
+    ‘Vaṇṇavā#1 yasavā sirimā,#2 ko nu tvam asi#3 mārisa?
+     Ajānantā tam#4 pucchāma#5 kathaṃ jānemu taṃ
+        mayaṃ?’#6
+    ‘Maṃ#7 ve kumāraṃ jānanti Brahma-loke sanan-
+        tanaṃ,#8
+     Sabbe jānanti maṃ devā, evaṃ Govinda jānahi.’#9
     ‘Āsanaṃ udakaṃ pajjaṃ madhu-pākañ ca brahmuno,
-     Agghe10 Bhavantaṃ pucchāma. Agghaṃ11 kurutu12
+     Agghe#10 Bhavantaṃ pucchāma. Agghaṃ#11 kurutu#12
         no Bhavaṃ.’
-    ‘{Paṭigaṇhāma}13 te agghaṃ yaṃ tvaṃ Govinda bhāsasi.14
-     Diṭṭha-dhamma-hitatthāya15 samparāya-sukhāya16 ca,
+    ‘{Paṭigaṇhāma}#13 te agghaṃ yaṃ tvaṃ Govinda bhāsasi.#14
+     Diṭṭha-dhamma-hitatthāya#15 samparāya-sukhāya#16 ca,
      Katāvakāso puccha ssu yaṃ kiñci abhipatthitan’ ti.
-     45. Atha kho bho Mahā-Govindassa brāhmaṇassa etad
+     ^45. Atha kho bho Mahā-Govindassa brāhmaṇassa etad
 ahosi: ‘Katāvakāso kho 'mhi Brahmunā Sanaṃku-
 mārena. Kin nu kho ahaṃ Brahmānaṃ Sanaṃkumāraṃ
 puccheyyaṃ diṭṭha-dhammikaṃ vā atthaṃ samparāyikaṃ
@@ -632,52 +632,52 @@ Yannūnāhaṃ Brahmānaṃ Sanaṃkumāraṃ samparāyikaṃ
 yeva atthaṃ puccheyyan’ ti.
      Atha kho bho Mahā-Govindo brāhmaṇo Brahmānaṃ
 Sanaṃkumāraṃ gāthāya ajjhabhāsi:
-            ‘Pucchāmi Brahmānaṃ1 Sanaṃkumāraṃ
-             Kaṅkhī2 akaṅkhiṃ3 paravediyesu4
-             Katthaṭṭhito kimhi ca5 sikkhamāno
-             Pappoti macco amataṃ Brahma-lokan ti?’6
-            ‘Hitvā mamattaṃ manujesu brahme7
+            ‘Pucchāmi Brahmānaṃ#1 Sanaṃkumāraṃ
+             Kaṅkhī#2 akaṅkhiṃ#3 paravediyesu#4
+             Katthaṭṭhito kimhi ca#5 sikkhamāno
+             Pappoti macco amataṃ Brahma-lokan ti?’#6
+            ‘Hitvā mamattaṃ manujesu brahme#7
              Ekodibhūto karuṇādhimutto
              Nirāmagandho virato methunasmā
-             Etthaṭṭhito8 ettha ca sikkhamāno
+             Etthaṭṭhito#8 ettha ca sikkhamāno
              Pappoti macco amataṃ Brahma-lokan ti.’
-     46. ‘Hitvā mamattaṃ tāhaṃ9 bhoto ājānāmi.10 Idh'
+     ^46. ‘Hitvā mamattaṃ tāhaṃ#9 bhoto ājānāmi.#10 Idh'
 ekacco appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ
 vā bhogakkhandhaṃ pahāya appaṃ vā ñāti-parivaṭṭaṃ
 pahāya mahantaṃ vā ñati-parivaṭṭaṃ pahāya kesa-massuṃ
 ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāri-
-yaṃ pabbajati. Iti hitvā mamattaṃ tāhaṃ11 bhoto ājānāmi.
+yaṃ pabbajati. Iti hitvā mamattaṃ tāhaṃ#11 bhoto ājānāmi.
 ~7.242
-     ‘Ekodibhūto ti cāhaṃ1 bhoto ājānāmi. Idh' ekacco
+     ‘Ekodibhūto ti cāhaṃ#1 bhoto ājānāmi. Idh' ekacco
 vivittaṃ senāsanaṃ bhajati araññaṃ rukkha-mūlaṃ pab-
-bataṃ kandaraṃ giri-guhaṃ susānaṃ vana-patthaṃ2
-abbhokāsaṃ palāla-puñjaṃ.3 Iti ekodibhūto ti p' ahaṃ4
+bataṃ kandaraṃ giri-guhaṃ susānaṃ vana-patthaṃ#2
+abbhokāsaṃ palāla-puñjaṃ.#3 Iti ekodibhūto ti p' ahaṃ#4
 bhoto ājānāmi.
-     ‘Karuṇādhimutto ti p' ahaṃ5 bhoto ājānāmi. Idh'
-ekacco karuṇā-sahagatena cetasā ekaṃ6 disaṃ pharitvā
-viharati, tathā dutiyaṃ7 tathā tatiyaṃ tathā catutthaṃ.
-Iti uddham adho tiriyaṃ sabbadhi8 sabbattatāya9 sabbā-
+     ‘Karuṇādhimutto ti p' ahaṃ#5 bhoto ājānāmi. Idh'
+ekacco karuṇā-sahagatena cetasā ekaṃ#6 disaṃ pharitvā
+viharati, tathā dutiyaṃ#7 tathā tatiyaṃ tathā catutthaṃ.
+Iti uddham adho tiriyaṃ sabbadhi#8 sabbattatāya#9 sabbā-
 vantaṃ lokaṃ karuṇā-sahagatena cetasā vipulena mahag-
-gatena appamāṇena averena10 avyāpajjhena11 pharitvā
-viharati. Iti karuṇādhimutto ti p' ahaṃ12 bhoto ājānāmi.
-     ‘Āmagandhe va kho ahaṃ bhoto bhāsamānassa na13
+gatena appamāṇena averena#10 avyāpajjhena#11 pharitvā
+viharati. Iti karuṇādhimutto ti p' ahaṃ#12 bhoto ājānāmi.
+     ‘Āmagandhe va kho ahaṃ bhoto bhāsamānassa na#13
 ājānāmi.
             ‘Ke āmagandhā manujesu Brahme?
-             Ete avidvā14 idha brūhi dhīra.
-             Ken' āvaṭā15 vāti pajā kuruṭṭharū16
-             Āpāyikā nīvuta-brahmalokā17 ti.’
+             Ete avidvā#14 idha brūhi dhīra.
+             Ken' āvaṭā#15 vāti pajā kuruṭṭharū#16
+             Āpāyikā nīvuta-brahmalokā#17 ti.’
 ~7.243
-            ‘Kodho mosa-vajjaṃ1 nikatī ca dobho2
-             Kadariyatā3 atimāno usuyyā4
+            ‘Kodho mosa-vajjaṃ#1 nikatī ca dobho#2
+             Kadariyatā#3 atimāno usuyyā#4
              Icchā vicikicchā para-heṭhanā ca
              Lobho ca doso ca mado ca moho
              Etesu yuttā anirāmagandhā
              Āpāyikā nīvuta-brahmalokā ti.’
      ‘Yathā kho ahaṃ bhoto āmagandhe bhāsamānassa
-ājānāmi, te na sunimmadayā5 agāraṃ ajjhāvasatā, pab-
+ājānāmi, te na sunimmadayā#5 agāraṃ ajjhāvasatā, pab-
 bajissām' ahaṃ bho agārasmā anagāriyan’ ti.
      ‘Yassa dāni bhavaṃ Govindo kālaṃ maññatīti.’
-     47. Atha kho bho Mahā-Govindo brāhmaṇo yena Reṇu
+     ^47. Atha kho bho Mahā-Govindo brāhmaṇo yena Reṇu
 rājā ten' upasaṃkami, upasaṃkamitvā Reṇu-{rājānaṃ} etad
 avoca: ‘Aññaṃ dāni bhavaṃ purohitaṃ pariyesatu, yo
 bhoto rajjaṃ anusāsissati. Icchām' ahaṃ bho agārasmā
@@ -686,30 +686,30 @@ Brahmuno āmagandhe bhāsamānassa te na sunimmadayā
 agāraṃ ajjhāvasatā, pabbajissām' ahaṃ bho agārasmā
 anagāriyan’ ti.
      ‘Āmantayāmi rājānaṃ Reṇuṃ bhūmi-patiṃ ahaṃ,
-     Tvaṃ pajānassu rajjena, nāhaṃ porohacce6 rame.’
-     ‘Sace te7 ūnaṃ kāmehi ahaṃ paripūrayāmi te,
-     Yo taṃ hiṃsati vāremi bhūmi-senāpatī8 ahaṃ,
-     Tvaṃ pitā 'si9 ahaṃ putto10 mā no Govinda pājahi.’11
-     ‘Na m' atthi12 ūnaṃ kāmehi hiṃsitā13 me na vijjati
-     Amanussa-vaco14 sutvā tasmā 'haṃ na gahe15 rame.’
+     Tvaṃ pajānassu rajjena, nāhaṃ porohacce#6 rame.’
+     ‘Sace te#7 ūnaṃ kāmehi ahaṃ paripūrayāmi te,
+     Yo taṃ hiṃsati vāremi bhūmi-senāpatī#8 ahaṃ,
+     Tvaṃ pitā 'si#9 ahaṃ putto#10 mā no Govinda pājahi.’#11
+     ‘Na m' atthi#12 ūnaṃ kāmehi hiṃsitā#13 me na vijjati
+     Amanussa-vaco#14 sutvā tasmā 'haṃ na gahe#15 rame.’
 ~7.244
-‘Amanusso kathaṃ-vaṇṇo,1 kan2 te atthaṃ abhāsatha,
-Yaṃ3 sutvā pajāhāsi4 no gehe amhe ca kevale.’5
-‘Upavutthassa me pubbe yatthu-kāmassa6 me sato
+‘Amanusso kathaṃ-vaṇṇo,#1 kan#2 te atthaṃ abhāsatha,
+Yaṃ#3 sutvā pajāhāsi#4 no gehe amhe ca kevale.’#5
+‘Upavutthassa me pubbe yatthu-kāmassa#6 me sato
 Aggi pajjalito āsi kusapatta-paritthato.
 Tato me Brahmā pātur ahu Brahma-lokā Sanantano,
 So me pañhaṃ viyākāsi taṃ sutvā na gahe rame.’
 ‘Saddahāmi ahaṃ bhoto yaṃ tvaṃ Govinda bhāsasi,
 Amanussa-vaco sutvā kathaṃ vattetha aññathā,
-Te taṃ anuvattissāma7 satthā Govinda no bhava.
-Maṇi yathā veḷuriyo akāco8 vimalo subho,
+Te taṃ anuvattissāma#7 satthā Govinda no bhava.
+Maṇi yathā veḷuriyo akāco#8 vimalo subho,
 Evaṃ suddhā carissāma Govindassānusāsane ti.’
      ‘Sace bhavaṃ Govindo agārasmā anagāriyaṃ pabbajis-
-sati, aham9 pi agārasmā anagāriyaṃ pabbajissāmi.10 Atha
+sati, aham#9 pi agārasmā anagāriyaṃ pabbajissāmi.#10 Atha
 yā te gati sā no gati bhavissatīti.’
-     48. Atha kho bho Mahā-Govindo brāhmaṇo yena te
-chakkhattiyā11 ten' upasaṃkami, upasaṃkamitvā12 chak-
-khattiye etad avoca: ‘Aññaṃ dāni13 bhavanto purohitaṃ
+     ^48. Atha kho bho Mahā-Govindo brāhmaṇo yena te
+chakkhattiyā#11 ten' upasaṃkami, upasaṃkamitvā#12 chak-
+khattiye etad avoca: ‘Aññaṃ dāni#13 bhavanto purohitaṃ
 pariyesantu, yo bhavantānaṃ rajje anusāsissati. Icchām'
 ahaṃ bho agārasmā anagāriyaṃ pabbajituṃ. Yathā kho
 pana me sutaṃ Brahmuno āmagandhe bhāsamānassa te
@@ -717,62 +717,62 @@ na sunimmadayā agāraṃ ajjhāvasatā, pabbajissām' ahaṃ
 bho agārasmā anagāriyan’ ti.
      Atha kho bho chakkhattiyā ekamantaṃ apakkamma
 ~7.245
-evaṃ samacintesuṃ: ‘Ime kho1 brāhmaṇā nāma dhana-
+evaṃ samacintesuṃ: ‘Ime kho#1 brāhmaṇā nāma dhana-
 luddhā, yan nūna mayaṃ Mahā-Govindaṃ brāhmaṇaṃ
 dhanena sikkheyyāmāti.’
      Te Mahā-Govindaṃ brāhmaṇaṃ upasaṃkamitvā evam
-āhaṃsu: ‘Saṃvijjati2 kho bho imesu sattasu rajjesu
+āhaṃsu: ‘Saṃvijjati#2 kho bho imesu sattasu rajjesu
 pahūtaṃ sāpateyyaṃ. Tato bhoto yāvatakena attho
-tāvatakaṃ āhareyyatan ti.3
+tāvatakaṃ āhareyyatan ti.#3
      ‘Alaṃ bho! Mama p' idaṃ pahūtaṃ sāpateyyaṃ
-bhavantānaṃ yeva vāhasā, tam4 ahaṃ yasaṃ5 pahāya
+bhavantānaṃ yeva vāhasā, tam#4 ahaṃ yasaṃ#5 pahāya
 agārasmā anagāriyaṃ pabbajissāmi. Yathā kho pana
 me sutaṃ Brahmuno āmagandhe bhāsamānassa, te na
 sunimmadayā agāraṃ ajjhāvasatā, pabbajissām' ahaṃ bho
 agārasmā anagāriyan’ ti.
-     49. Atha kho bho te chakkhattiyā ekamantaṃ apak-
-kamma evaṃ6 samacintesuṃ: ‘Ime kho brāhmaṇā nāma
+     ^49. Atha kho bho te chakkhattiyā ekamantaṃ apak-
+kamma evaṃ#6 samacintesuṃ: ‘Ime kho brāhmaṇā nāma
 itthi-luddhā. Yan nūna mayaṃ Mahā-Govindaṃ brāh-
 maṇaṃ itthīhi sikkheyyāmāti?’
      Te Mahā-Govindaṃ brāhmaṇaṃ upasaṃkamitvā evam
-āhaṃsu: ‘{Saṃvijjante}’ kho bho imesu sattasu rajjesu
+āhaṃsu: ‘{Saṃvijjante}’ #7 kho bho imesu sattasu rajjesu
 pahūtā itthiyo. Tato bhoto yāvatikāhi attho, tāvatikā
-āniyyatan’8 ti.
-     ‘Alaṃ bho! mama p' imā9 {cattārīsā} bhariyā sādisiyo.
-Tā p' ahaṃ10 sabbā pahāya agārasmā anagāriyaṃ pabba-
+āniyyatan’#8 ti.
+     ‘Alaṃ bho! mama p' imā#9 {cattārīsā} bhariyā sādisiyo.
+Tā p' ahaṃ#10 sabbā pahāya agārasmā anagāriyaṃ pabba-
 jissāmi. Yathā kho pana me sutaṃ Brahmuno āmagandhe
 bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā,
 pabbajissām' ahaṃ bho agārasmā anagāriyan’ ti.
 ~7.246
-     50. ‘Sace bhavaṃ Govindo agārasmā anagāriyaṃ
+     ^50. ‘Sace bhavaṃ Govindo agārasmā anagāriyaṃ
 pabbajissati, mayam pi agārasmā anagāriyaṃ pabba-
 jissāma, atha yā te gati sā no gati bhavissatīti.’
-     ‘Sace jahātha1 kāmāni yattha satto puthujjano
-     Ārabhavho2 daḷhā hotha khanti-bala-samāhitā.
-     Esa maggo uju maggo esa3 maggo anuttaro
+     ‘Sace jahātha#1 kāmāni yattha satto puthujjano
+     Ārabhavho#2 daḷhā hotha khanti-bala-samāhitā.
+     Esa maggo uju maggo esa#3 maggo anuttaro
      Saddhammo sabbhi rakkhito Brahmalokūpapattiyā ti.’
-     51. ‘Tena hi bhavaṃ Govindo satta vassāni āgametu,
+     ^51. ‘Tena hi bhavaṃ Govindo satta vassāni āgametu,
 sattannaṃ vassānaṃ accayena mayam pi agārasmā
 anagāriyaṃ pabbajissāma, atha yā te gati sā no gati
 bhavissatīti.’
      ‘Aticiraṃ kho bho satta vassāni. Nāhaṃ sakkomi
-bhavante satta vassāni āgametuṃ. Ko kho4 pana bho
+bhavante satta vassāni āgametuṃ. Ko kho#4 pana bho
 jānāti jīvitānaṃ. Gamanīyo samparāyo, mantāya {bodhab-
-baṃ},5 kattabbaṃ kusalaṃ, caritabbaṃ brahmacari-
+baṃ},#5 kattabbaṃ kusalaṃ, caritabbaṃ brahmacari-
 yaṃ, n' atthi jātassa amaraṇaṃ. Yathā kho pana me
 sutaṃ Brahmuno āmagandhe bhāsamānassa te na sunim-
 madayā agāraṃ ajjhāvasatā, pabbajissām' ahaṃ bho
 agārasmā anagāriyan’ ti.
-     52. ‘Tena hi bhavaṃ Govindo cha vassāni āgametu
+     ^52. ‘Tena hi bhavaṃ Govindo cha vassāni āgametu
  . . . pe . . . pañca vassāni āgametu . . . [pe]
  . . . cattāri vassāni āgametu . . . [pe] . . . tīṇi
 vassāni āgametu . . . [pe] . . . dve vassāni āgametu
- . . . [pe] . . . ekaṃ vassaṃ āgametu. Eka-vassassa6
+ . . . [pe] . . . ekaṃ vassaṃ āgametu. Eka-vassassa#6
 accayena mayam pi agārasmā anagāriyaṃ pabbajissāma,
 atha yā te gati sā no gati bhavissatīti?
-     53. ‘Aticiraṃ kho bho ekaṃ vassaṃ. Nāhaṃ sakkomi
+     ^53. ‘Aticiraṃ kho bho ekaṃ vassaṃ. Nāhaṃ sakkomi
 ~7.247
-bhavante ekaṃ vassaṃ āgametuṃ. Ko1 kho pana
+bhavante ekaṃ vassaṃ āgametuṃ. Ko#1 kho pana
 bho jānāti jīvitānaṃ. Gamanīyo samparāyo, mantāya
 bodhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahma-
 cariyaṃ, n' atthi jātassa amaraṇaṃ. Yathā kho pana
@@ -783,8 +783,8 @@ bho agārasmā anagāriyan’ ti.
 Sattannaṃ māsānaṃ accayena mayam pi agārasmā anagā-
 riyaṃ pabbajissāma, atha yā te gati sā no gati bha-
 vissatīti.’
-     54. ‘Aticiraṃ kho bho satta māsāni. Nāhaṃ sakkomi
-bhavante2 satta māsāni āgametuṃ. Ko3 kho pana bho
+     ^54. ‘Aticiraṃ kho bho satta māsāni. Nāhaṃ sakkomi
+bhavante#2 satta māsāni āgametuṃ. Ko#3 kho pana bho
 jānāti jīvitānaṃ? Gamanīyo samparāyo, mantāya
 bodhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahma-
 cariyaṃ, n' atthi jātassa amaraṇaṃ. Yathā kho pana me
@@ -795,42 +795,42 @@ agārasmā anagāriyan’ ti.
 pe . . . pañca māsāni āgametu . . . [pe] . . . cattāri
 māsāni āgametu . . . [pe] . . . tīṇi māsāni āgametu
  . . . [pe] . . . dve māsāni āgametu . . . [pe] . . .
-māsaṃ āgametu . . . [pe] . . . addha-māsaṃ4 āga-
+māsaṃ āgametu . . . [pe] . . . addha-māsaṃ#4 āga-
 metu. Addha-māsassa accayena mayam pi agārasmā
 anagāriyaṃ pabbajissāma, atha yā te gati sā no gati
 {bhavissatīti.}
-     55. ‘Aticiraṃ kho bho addhamāso. Nāhaṃ sakkomi
+     ^55. ‘Aticiraṃ kho bho addhamāso. Nāhaṃ sakkomi
 bhavante addhamāsam āgametuṃ. Ko kho pana bho
-jānāti jīvitānaṃ? 5 Gamanīyo samparāyo, mantāya
+jānāti jīvitānaṃ? #5 Gamanīyo samparāyo, mantāya
 {bodhabbaṃ}, kattabbaṃ kusalaṃ, caritabbaṃ brahma-
 cariyaṃ, n' atthi jātassa amaraṇaṃ. Yathā kho pana
 me sutaṃ Brahmuno āmagandhe {bhāsamānassa} te na
 sunimmadayā agārasmā ajjhāvasatā, pabbajissām' aham
 bho agārasmā anagāriyan’ ti.
 ~7.248
-     ‘Tena hi bhavaṃ1 Govindo sattāhaṃ āgametu yāva
-mayaṃ sake putta-2 bhātaro rajje anusāsāma.3 Sattāhassa
+     ‘Tena hi bhavaṃ#1 Govindo sattāhaṃ āgametu yāva
+mayaṃ sake putta-#2 bhātaro rajje anusāsāma.#3 Sattāhassa
 accayena mayam pi agārasmā anagāriyaṃ pabbajissāma,
 atha yā te gati sā no gati bhavissatīti.’
-     ‘Na ciraṃ kho bho sattāhaṃ,4 āgamissām' ahaṃ
+     ‘Na ciraṃ kho bho sattāhaṃ,#4 āgamissām' ahaṃ
 bhavante sattāhan’ ti.
-     56. Atha kho bho Mahā-Govindo brāhmaṇo yena te
+     ^56. Atha kho bho Mahā-Govindo brāhmaṇo yena te
 satta brāhmaṇā mahā-sālā satta ca nahātaka-satāni ten'
 upasaṃkami, upasaṃkamitvā satta brāhmaṇa-mahāsāle
 satta ca nahātaka-satāni etad avoca:
-     ‘Aññaṃ dāni5 bhavanto ācariyaṃ pariyesantu,6 yo
+     ‘Aññaṃ dāni#5 bhavanto ācariyaṃ pariyesantu,#6 yo
 bhavantānaṃ mante vācessati. Icchām' ahaṃ bho
 agārasmā anagāriyaṃ pabbajituṃ. Yathā kho pana me
 sutaṃ Brahmuno āmagandhe bhāsamānassa te na sunim-
 madayā agāraṃ ajjhāvasatā, pabbajissām' ahaṃ bho
 agārasmā anagāriyan’ ti.
-     ‘Mā bhavaṃ Govindo agārasmā anagāriyaṃ pabbaji,7
-pabbajjā bho appesakkhā ca appalābhā ca, brahmaññaṃ8
+     ‘Mā bhavaṃ Govindo agārasmā anagāriyaṃ pabbaji,#7
+pabbajjā bho appesakkhā ca appalābhā ca, brahmaññaṃ#8
 mahesakkhañ ca mahālābhañ cāti.’
-     ‘Mā bhavanto evaṃ avacuttha9: “Pabbajjā appe-
+     ‘Mā bhavanto evaṃ avacuttha#9: “Pabbajjā appe-
 sakkhā ca appalābhā ca, brahmaññaṃ mahesakkhañ ca
-mahālābhañ cāti.” Ko nu kho bho añño10 mayā mahe-
-sakkhataro vā mahālābhataro vā. Ahaṃ hi bho11 etarahi
+mahālābhañ cāti.” Ko nu kho bho añño#10 mayā mahe-
+sakkhataro vā mahālābhataro vā. Ahaṃ hi bho#11 etarahi
 rājā ca raññaṃ Brahmā ca brāhmaṇānaṃ devatā ca
 gahapatikānaṃ, taṃ p' ahaṃ sabbaṃ pahāya agārasmā
 anagāriyaṃ pabbajissāmi. Yathā kho pana me sutaṃ
@@ -841,12 +841,12 @@ anagāriyan’ ti.
      ‘Sace bhavaṃ Govindo agārasmā anagāriyaṃ pabba-
 jissati, mayam pi agārasmā anagariyaṃ pabbajissāma,
 atha yā te gati sā no gati bhavissatīti.’
-     57. Atha kho bho Mahā-Govindo brāhmaṇo yena
-cattārīsā1 bhariyā sādisiyo ten' {upasaṃkami}, upasaṃ-
+     ^57. Atha kho bho Mahā-Govindo brāhmaṇo yena
+cattārīsā#1 bhariyā sādisiyo ten' {upasaṃkami}, upasaṃ-
 kamitvā cattārīsā bhariyā sādisiyo etad avoca: ‘Yā bhoti
-naṃ2 icchati sakāni va3 ñāti-kulāni gacchatu,4 aññaṃ5
-bhattāraṃ pariyesatu.6 Icchām' ahaṃ bhoti agārasmā
-anagāriyaṃ pabbajituṃ.7 Yathā kho pana me sutaṃ
+naṃ#2 icchati sakāni va#3 ñāti-kulāni gacchatu,#4 aññaṃ#5
+bhattāraṃ pariyesatu.#6 Icchām' ahaṃ bhoti agārasmā
+anagāriyaṃ pabbajituṃ.#7 Yathā kho pana me sutaṃ
 Brahmuno āmagandhe bhāsamānassa te na sunimmadayā
 agāraṃ ajjhāvasatā, pabbajissām' ahaṃ bhoti agārasmā
 anagāriyan’ ti.
@@ -854,14 +854,14 @@ anagāriyan’ ti.
 bhattu-kāmānaṃ. Sace bhavaṃ Govindo agārasmā
 anagāriyaṃ pabbajissati, mayam pi agārasmā anagāriyaṃ
 pabbajissāma, atha yā te gati sā no gati bhavissatīti.’
-     58. Atha kho bho Mahā Govindo brāhmaṇo tassa sattā-
+     ^58. Atha kho bho Mahā Govindo brāhmaṇo tassa sattā-
 hassa accayena kesa-massuṃ ohāretvā kāsāyāni vatthāni
-acchādetvā agārasmā anagāriyam pabbaji. Pabbajitañ8 ca
+acchādetvā agārasmā anagāriyam pabbaji. Pabbajitañ#8 ca
 pana Mahā-Govindaṃ brāhmaṇaṃ satta ca rājāno khat-
 tiyā muddhāvasittā satta ca brāhmaṇa-mahāsālā satta ca
 nahātaka-satāni cattārīsā ca bhariyā sādisiyo anekāni ca
 khattiya-sahassāni anekāni ca brāhmaṇa-sahassāni anekāni
-ca gahapati-sahassāni anekā9 ca itthāgārehi10 itthikāyo11
+ca gahapati-sahassāni anekā#9 ca itthāgārehi#10 itthikāyo#11
 kesa-massuṃ ohāretvā kāsāyāni vatthāni acchādetvā
 Mahā-Govindaṃ brāhmaṇaṃ agārasmā anagāriyaṃ
 pabbajitaṃ anupabbajiṃsu. Tāya sudaṃ bho parisāya
@@ -870,27 +870,27 @@ parivuto Mahā-Govindo brāhmaṇo gāma-nigama-rāja-
 dhānīsu cārikaṃ carati. Yaṃ kho pana bho tena sama-
 yena Mahā-Govindo brāhmaṇo gāmaṃ vā nigamaṃ vā
 upasaṃkamati, tattha rājā va hoti raññaṃ Brahmā va
-brāhmaṇānaṃ devatā va gahapatikānaṃ. Ye ca1 kho
-pana bho tena samayena manussā khipanti2 vā upak-
-kha4lanti3 vā, te evam {āhaṃsu}: ‘Nam' atthu Mahā-
+brāhmaṇānaṃ devatā va gahapatikānaṃ. Ye ca#1 kho
+pana bho tena samayena manussā khipanti#2 vā upak-
+kha4lanti#3 vā, te evam {āhaṃsu}: ‘Nam' atthu Mahā-
 Govindassa {brāhmaṇassa}, nam' atthu satta-purohitassāti.’
-     59. Mahā-Govindo bho4 brāhmaṇo mettā-sahagatena
-cetasā5 ekaṃ disaṃ pharitvā vihāsi, tathā dutiyaṃ, tathā
+     ^59. Mahā-Govindo bho#4 brāhmaṇo mettā-sahagatena
+cetasā#5 ekaṃ disaṃ pharitvā vihāsi, tathā dutiyaṃ, tathā
 tatiyaṃ, tathā catutthaṃ. Iti uddham adho tiriyaṃ
-sabbadhi sabbattatāya6 sabbāvantaṃ lokaṃ mettā-
+sabbadhi sabbattatāya#6 sabbāvantaṃ lokaṃ mettā-
 sahagatena cetasā vipulena mahaggatena appamāṇena
 averena avyāpajjhena pharitvā vihāsi. Karuṇā-sahaga-
 tena cetasā . . . muditā-sahagatena cetasā
- . . . upekhā-sahagatena cetasā7 ekaṃ disaṃ
+ . . . upekhā-sahagatena cetasā#7 ekaṃ disaṃ
 pharitvā vihāsi tathā dutiyaṃ tathā tatiyaṃ tathā catut-
-thaṃ. Iti udham adho tiriyaṃ sabbadhi sabbattatāya8
+thaṃ. Iti udham adho tiriyaṃ sabbadhi sabbattatāya#8
 sabbāvantaṃ lokaṃ upekhā-sahagatena cetasā vipulena
 mahaggatena appamāṇena averena avyāpajjhena pharitvā
-vihāsi, sāvakānañ ca Brahmaloka9-sahavyatāya maggaṃ
+vihāsi, sāvakānañ ca Brahmaloka#9-sahavyatāya maggaṃ
 desesi.
-     60. Ye kho pana bho tena samayena Mahā-Govin-
+     ^60. Ye kho pana bho tena samayena Mahā-Govin-
 dassa brāhmaṇassa sāvakā sabbena sabbaṃ sāsanaṃ
-ājāniṃsu,10 te kāyassa bhedā param maraṇā sugatiṃ
+ājāniṃsu,#10 te kāyassa bhedā param maraṇā sugatiṃ
 Brahma-lokaṃ upapajjiṃsu. Ye na sabbena sabbaṃ
 sāsanaṃ ājāniṃsu, te kāyassa bhedā param maraṇā app
 ekacce Paranimmita-Vasavattīnaṃ devānaṃ sahavyataṃ
@@ -903,45 +903,45 @@ vānaṃ sahavyataṃ uppajjiṃsu, app ekacce Cātumma-
 hārājikānaṃ devānaṃ sahavyataṃ uppajjiṃsu. Ye sabbe
 sabba-nihīna-kāyaṃ paripūresuṃ te gandhabba-kāyaṃ
 paripūresuṃ.
-     Iti kho bho1 sabbesaṃ yeva tesaṃ kula-puttānaṃ
-amoghā pabbajjā ahosi avañjhā2 saphalā sa-uddisā ti.3
+     Iti kho bho#1 sabbesaṃ yeva tesaṃ kula-puttānaṃ
+amoghā pabbajjā ahosi avañjhā#2 saphalā sa-uddisā ti.#3
                        ----------------------------
-     61. ‘Sarati taṃ4 Bhagavā ti?’
-     ‘Sarām'5 ahaṃ6 Pañcasikha. Ahaṃ tena samayena
-Mahā-Govindo brāhmaṇo ahosiṃ.7 Ahaṃ tesaṃ
-sāvakānaṃ Brahmaloka-sahavyatāya maggaṃ desesiṃ.8
+     ^61. ‘Sarati taṃ#4 Bhagavā ti?’
+     ‘Sarām'#5 ahaṃ#6 Pañcasikha. Ahaṃ tena samayena
+Mahā-Govindo brāhmaṇo ahosiṃ.#7 Ahaṃ tesaṃ
+sāvakānaṃ Brahmaloka-sahavyatāya maggaṃ desesiṃ.#8
 Taṃ kho pana Pañcasikha brahmacariyaṃ na nibbidāya
 na virāgāya na nirodhāya na upasamāya na abhiññāya na
 sambodhāya na {nibbānāya} saṃvattati, yāvad eva Brah-
 malokūpapattiyā. Idaṃ kho pana me Pañcasikha
 brahmacariyaṃ ekanta-nibbidāya virāgāya nirodhāya
-upasamāya abhiññāya sambodhāya nibbānāya saṃvattati,9
+upasamāya abhiññāya sambodhāya nibbānāya saṃvattati,#9
 ayaṃ eva ariyo aṭṭhaṅgiko Maggo, seyyathīdaṃ sammā-
 diṭṭhi sammā-saṃkappo sammā-vācā sammā-kammanto
 sammā-ājīvo sammā-vāyāmo sammā-sati sammā-samādhi.
 Idaṃ kho taṃ Pañcasikha brahmacariyaṃ ekanta-
 nibbidāya virāgāya nirodhāya upasamāya abhiññāya
 sambodhāya nibbānāya saṃvattati.
-     62. ‘Ye kho pana me Pañcasikha sāvakā sabbena
+     ^62. ‘Ye kho pana me Pañcasikha sāvakā sabbena
 sabbaṃ sāsanaṃ ājānanti, te {āsavānaṃ} khayā anāsavaṃ
 ceto-vimuttiṃ paññā-vimuttiṃ diṭṭhe va dhamme sayaṃ
 ~7.252
 abhiññā sacchikatvā upasampajja viharanti. Ye na sab-
-bena sabbaṃ sāsanaṃ1 ājānanti {app ekacce} pañcannaṃ
+bena sabbaṃ sāsanaṃ#1 ājānanti {app ekacce} pañcannaṃ
 orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā
 honti, tattha parinibbāyino anāvatti-dhammā tasmā lokā.
 Ye na sabbena sabbaṃ sāsanaṃ ājānanti app ekacce
 tiṇṇam saṃyojanānaṃ parikkhayā rāga-dosa-mohānaṃ
 tanuttā sakadāgāmino honti sakid eva imaṃ lokaṃ
-āgantvā dukkhass' antaṃ karonti.2 Ye na sabbena
+āgantvā dukkhass' antaṃ karonti.#2 Ye na sabbena
 sabbaṃ sāsanaṃ ājānanti app ekacce tiṇṇaṃ saṃyoja-
 nānaṃ parikkhayā sotāpannā honti avinipāta-dhammā
 niyatā sambodhi-parāyanā. Iti kho Pañcasikha sabbesaṃ
-yeva imesaṃ kula-puttānaṃ amoghā pabbajjā avañjhā3
-saphalā sa-uddisā’ ti.4
+yeva imesaṃ kula-puttānaṃ amoghā pabbajjā avañjhā#3
+saphalā sa-uddisā’ ti.#4
      Idam avoca Bhagavā. Attamano Pañcasikho Gandhab-
 baputto Bhagavato bhāsitaṃ abhinanditvā anumoditvā
 Bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatth' ev'
 antaradhāyīti.
-                 MAHĀ-GOVINDA-SUTTANTAṂ5
+                 MAHĀ-GOVINDA-SUTTANTAṂ#5
                       NIṬṬHITAṂ.6

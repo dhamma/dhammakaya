@@ -1,27 +1,27 @@
 ~6.211
                       [xi. Kevaddha Sutta.]
                        --------------------------
-     1. Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Nāḷan-
-dāyaṃ viharati Pāvārikambavane.1 Atha kho Kevaddho2
+     ^1. Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Nāḷan-
+dāyaṃ viharati Pāvārikambavane.#1 Atha kho Kevaddho#2
 gahapati-putto yena Bhagavā ten' upasaṃkami, upasaṃ-
 kamitvā Bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Eka-
 mantaṃ nisinno kho Kevaddho gahapati-putto Bhagavan-
 taṃ etad avoca:
-     ‘Ayaṃ bhante Nāḷandā iddhā c' eva phītā3 ca bahujanā
-ākiṇṇa4-manussā Bhagavati abhippasannā. Sādhu bhante
+     ‘Ayaṃ bhante Nāḷandā iddhā c' eva phītā#3 ca bahujanā
+ākiṇṇa#4-manussā Bhagavati abhippasannā. Sādhu bhante
 Bhagavā ekaṃ bhikkhuṃ samādisatu, yo uttari-manussa-
 dhammā iddhi-pāṭihāriyaṃ karissati. Evāyaṃ Nāḷandā
 {bhiyyoso mattāya} Bhagavati abhippasīdissatīti.’
      Evaṃ vutte Bhagavā Kevaddhaṃ gahapati-puttaṃ etad
 avoca: ‘Na kho ahaṃ Kevaddha bhikkhūnaṃ evaṃ dham-
 maṃ desemi: “Etha tumhe bhikkhave gihīnaṃ odāta-
-vasanānaṃ uttari5-manussa-dhammā iddhi-pāṭihāriyaṃ
+vasanānaṃ uttari#5-manussa-dhammā iddhi-pāṭihāriyaṃ
 karothāti.”’
-     2. Dutiyam pi kho Kevaddho gahapati-putto Bhagavan-
+     ^2. Dutiyam pi kho Kevaddho gahapati-putto Bhagavan-
 taṃ etad avoca:
-     ‘Nāhaṃ bhante Bhagavantaṃ {dhaṃsemi}.6 Api ca evaṃ
+     ‘Nāhaṃ bhante Bhagavantaṃ {dhaṃsemi}.#6 Api ca evaṃ
 vadāmi: “Ayaṃ bhante Nāḷandā iddhā {c' eva} phītā ca
-bahujanā ākiṇṇa-manussā7 Bhagavati abhippasannā. Sādhu
+bahujanā ākiṇṇa-manussā#7 Bhagavati abhippasannā. Sādhu
 bhante Bhagavā ekaṃ bhikkhuṃ samādisatu yo uttari-
 ~6.212
 manussa-dhammā iddhi-pāṭihāriyaṃ karissati. Evāyaṃ
@@ -31,7 +31,7 @@ etad avoca: ‘Na kho ahaṃ Kevaddha bhikkhūnaṃ evaṃ
 dhammaṃ desemi: “Etha tumhe bhikkhave gihīnaṃ
 odāta-vasanānaṃ uttari-manussa-dhammā iddhi-pāṭihāri-
 yaṃ karothāti.”’
-     3. Tatiyam pi kho Kevaddho gahapati-putto Bhagavan-
+     ^3. Tatiyam pi kho Kevaddho gahapati-putto Bhagavan-
 taṃ etad avoca:
      ‘Nāhaṃ bhante Bhagavantaṃ {dhaṃsemi}. Api ca evaṃ
 vadāmi: “Ayaṃ bhante Nāḷandā iddhā c' eva phītā ca
@@ -41,10 +41,10 @@ manussa-dhammā iddhi-pāṭihāriyaṃ karissati. Evāyaṃ
 Nāḷandā {bhiyyoso mattāya} Bhagavati abhippasīdissatīti.’
      ‘Tīṇi kho imāni Kevaddha pāṭihāriyāni mayā sayaṃ
 abhiññā sacchikatvā paveditāni. Katamāni {tīṇi}? Iddhi-
-pāṭihāriyaṃ ādesanā-pāṭihāriyaṃ anusāsani1-pāṭihāriyaṃ.
-     4. ‘Katamañ ca Kevaddha iddhi-{pāṭihāriyaṃ}? Idha Ke-
+pāṭihāriyaṃ ādesanā-pāṭihāriyaṃ anusāsani#1-pāṭihāriyaṃ.
+     ^4. ‘Katamañ ca Kevaddha iddhi-{pāṭihāriyaṃ}? Idha Ke-
 vaddha bhikkhu aneka-vihitaṃ iddhi-vidhaṃ paccanubhoti.
-Eko pi hutvā bahudhā hoti, bahudhā pi hutvā eko2 hoti.
+Eko pi hutvā bahudhā hoti, bahudhā pi hutvā eko#2 hoti.
 Āvi-bhāvaṃ tiro-bhāvaṃ tiro-kuḍḍaṃ tiro-pākāraṃ tiro-
 pabbataṃ asajjamāno gacchati seyyathā pi ākāse, paṭhaviyā
 pi ummujja-nimujjaṃ karoti seyyathā pi udake, udake
@@ -65,12 +65,12 @@ seyyathā pi pakkhī sakuṇo, ime pi candima-suriye evaṃ
 mahiddhike evaṃ mahānubhāve pāṇinā parimasantaṃ
 parimajjantaṃ, yāva Brahma-lokā pi kāyena va saṃvat-
 tentaṃ.
-     5. ‘Tam enaṃ so saddho pasanno aññatarassa {assaddhas-
-sa} appasannassa āroceti1: “Acchariyaṃ vata bho, abbhu-
+     ^5. ‘Tam enaṃ so saddho pasanno aññatarassa {assaddhas-
+sa} appasannassa āroceti#1: “Acchariyaṃ vata bho, abbhu-
 taṃ vata bho, samaṇassa mahiddhikatā mahānubhāvatā.
 Amāham bhikkhuṃ addasaṃ aneka-vihitaṃ iddhi-vidhaṃ
 paccanubhontaṃ, eko pi hutvā bahudhā bhontam . . . pe
- . . . yāva Brahma-lokā pi kāyena va saṃvattentan ti.”2
+ . . . yāva Brahma-lokā pi kāyena va saṃvattentan ti.”#2
 Tam enaṃ so assaddho appasaddho tam saddhaṃ pasan-
 naṃ evaṃ vadeyya: “Atthi kho bho Gandhārī nāma vijjā.
 Tāya so bhikkhu aneka-vihitaṃ iddhi-vidhaṃ paccanu-
@@ -80,9 +80,9 @@ maññasi Kevaddha? Api nu so assaddho appasanno
 taṃ saddhaṃ pasannaṃ evaṃ vadeyyāti?’
      ‘Vadeyya bhante ti.’
      ‘Imaṃ kho ahaṃ Kevaddha iddhi-pāṭihāriye ādīnavaṃ
-sampassamāno iddhi-pāṭihāriyena aṭṭiyāmi3 harāyāmi
+sampassamāno iddhi-pāṭihāriyena aṭṭiyāmi#3 harāyāmi
 jigucchāmi.
-     6. ‘Katamañ ca Kevaddha ādesanā-pāṭihāriyaṃ? Idha
+     ^6. ‘Katamañ ca Kevaddha ādesanā-pāṭihāriyaṃ? Idha
 Kevaddha bhikkhu parasattānaṃ parapuggalānaṃ cittam
 pi ādisati cetasikam pi ādisati vitakkitam pi ādisati vicāri-
 tam pi ādisati: “Evam pi te mano ittham pi te mano iti
@@ -91,7 +91,7 @@ passati taṃ bhikkhuṃ parasattānaṃ parapuggalānaṃ
 cittam pi ādisantaṃ cetasikam pi ādisantaṃ vitakkitam pi
 ādisantaṃ vicāritam pi ādisantaṃ: “Evam pi te mano
 ittham pi te mano iti pi te cittan ti.”
-     7. ‘Tam enaṃ so saddho pasanno aññatarassa assad-
+     ^7. ‘Tam enaṃ so saddho pasanno aññatarassa assad-
 dhassa appasannassa āroceti: ‘Acchariyaṃ vata bho,
 ~6.214
 abbhutaṃ vata bho, samaṇassa mahiddhikatā mahānu-
@@ -100,7 +100,7 @@ puggalānaṃ cittam pi ādisantaṃ cetasikam pi ādisantaṃ
 vitakkitam pi ādisantaṃ vicāritam pi ādisantaṃ: “Evam
 pi te mano ittham pi te mano iti pi te cittan ti.” Tam
 enaṃ so assaddho appasanno taṃ saddhaṃ pasannaṃ
-evaṃ vadeyya: “Atthi kho bho Maṇiko1 nāma vijjā. Tāya
+evaṃ vadeyya: “Atthi kho bho Maṇiko#1 nāma vijjā. Tāya
 so bhikkhu parasattānaṃ parapuggalānaṃ cittam pi ādi-
 sati cetasikam pi ādisati . . . pe . . . evam pi te mano
 ittham pi te mano iti pi te cittan ti.” Taṃ kim maññasi
@@ -110,16 +110,16 @@ pasannaṃ evaṃ vadeyyāti?’
      ‘Imaṃ kho ahaṃ Kevaddha ādesanā-pāṭihāriye ādīnavaṃ
 sampassamāno ādesanā-pāṭihāriyena aṭṭiyāmi harāyāmi
 jigucchāmi.
-     8. ‘Katamañ ca Kevaddha anusāsani-pāṭihāriyaṃ?
+     ^8. ‘Katamañ ca Kevaddha anusāsani-pāṭihāriyaṃ?
 Idha Kevaddha bhikkhu evam anusāsati: “Evaṃ vitak-
 ketha mā evam vitakkayittha, evam manasikarotha mā
 {evaṃ} manasākattha, idam pajahatha idaṃ upasampajja
 viharathāti.” Idam pi vuccati Kevaddha anusāsani-pāṭi-
 hāriyaṃ.
-     9. ‘Puna ca paraṃ Kevaddha idha Tathāgato loke up-
+     ^9. ‘Puna ca paraṃ Kevaddha idha Tathāgato loke up-
 pajjati arahaṃ sammāsambuddho . . . pe . . . yathā {Sā-
-mañña-phale}2 evaṃ vitthāretabbaṃ . . .
-     44.3 ‘Tass' ime pañca nīvaraṇe pahīne attani samanu-
+mañña-phale}#2 evaṃ vitthāretabbaṃ . . .
+     ^44.#3 ‘Tass' ime pañca nīvaraṇe pahīne attani samanu-
 passato pāmojjaṃ jāyati, pamuditassa pīti jāyati, pīti-
 manassa kāyo passambhati, {passaddha}-kāyo sukhaṃ vedeti,
 {sukhino} cittaṃ samādhiyati. So vivicc' eva kāmehi vivicca
@@ -129,7 +129,7 @@ eva kāyaṃ vivekajena pīti-sukhena abhisandeti parisandeti
 ~6.215
 paripūreti parippharati, nāssa kiñci sabbāvato kāyassa
 vivekajena pīti-sukhena {apphutaṃ} hoti.
-     45. ‘Seyyathā pi Kevaddha dakkho nahāpako vā nahā-
+     ^45. ‘Seyyathā pi Kevaddha dakkho nahāpako vā nahā-
 pakantevāsī vā {kaṃsa-thāle} nahāniya-cuṇṇāni ākiritvā
 udakena paripphosakaṃ paripphosakaṃ sanneyya, sā 'ssa
 nahāniya-piṇḍi snehānugatā sneha-paretā santara-bāhirā
@@ -138,15 +138,15 @@ bhikkhu imam eva kāyaṃ vivekajena pīti-sukhena abhisan-
 deti parisandeti paripūreti parippharati, nāssa kiñci sabbā-
 vato kāyassa vivekajena pīti-sukhena apphutaṃ hoti. Idam
 pi vuccati Kevaddha anusāsani-pāṭihāriyaṃ.
-     50.1 . . . ‘catutthajjhānaṃ upasampajja viharati . . . pe2
+     ^50.#1 . . . ‘catutthajjhānaṃ upasampajja viharati . . . pe#2
  . . . Idam pi vuccati Kevaddha anusāsani-pāṭihāriyaṃ.
-     52. ‘So evaṃ samāhite citte parisuddhe pariyodāte {anaṅ-
+     ^52. ‘So evaṃ samāhite citte parisuddhe pariyodāte {anaṅ-
 gaṇe} vigatūpakkilese mudu-bhūte kammaniye ṭhite ānej-
-jappatte ñāṇa-dassanāya cittaṃ abhinīharati . . . pe3 . . .
+jappatte ñāṇa-dassanāya cittaṃ abhinīharati . . . pe#3 . . .
 Idam pi vuccati Kevaddha anusāsanī-pāṭihāriyaṃ.
-     53.4 . . . nāparaṃ itthattāyāti pajānāti.5 Idaṃ vuccati
+     ^53.#4 . . . nāparaṃ itthattāyāti pajānāti.#5 Idaṃ vuccati
 Kevaddha anusāsani-pāṭihāriyaṃ.
-     67. ‘Imāni kho Kevaddha tīṇi pāṭihāriyāni mayā sayaṃ
+     ^67. ‘Imāni kho Kevaddha tīṇi pāṭihāriyāni mayā sayaṃ
 abhiññā sacchikatvā paveditāni. Bhūtapubbaṃ Kevaddha
 imasmiṃ yeva bhikkhu-saṃghe aññatarassa bhikkhuno
 evaṃ cetaso parivitakko udapādi: “Kattha nu kho ime
@@ -154,7 +154,7 @@ cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu āpo-dhātu tejo-dhātu vāyo-dhātūti?” Atha
 kho so Kevaddha bhikkhu tathā-rūpaṃ samādhiṃ samā-
 pajji yathā samāhite citte devayāniyo maggo pātur ahosi.
-     68. ‘Atha kho so Kevaddha bhikkhu yena Cātummahā-
+     ^68. ‘Atha kho so Kevaddha bhikkhu yena Cātummahā-
 rājikā devā ten' upasaṃkami, upasaṃkamitvā Cātummahā-
 rājike deve etad avoca: “Kattha nu kho āvuso ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
@@ -163,12 +163,12 @@ dhātu āpo-dhātu tejo-dhātu vāyo-dhātūti?”
 ~6.216
 khum etad avocuṃ: “Mayam pi kho bhikkhu na jānāma
 yatth' ime cattāro mahābhūtā aparisesā nirujjhanti, seyya-
-thīdaṃ paṭhavī-dhātu āpo-dhātu, tejo-dhātu, vāyo-dhātu.1
-Atthi kho bhikkhu cattāro Mahārājā2 amhehi abhikkan-
+thīdaṃ paṭhavī-dhātu āpo-dhātu, tejo-dhātu, vāyo-dhātu.#1
+Atthi kho bhikkhu cattāro Mahārājā#2 amhehi abhikkan-
 tatarā ca paṇītatarā ca. Te kho evaṃ jāneyyuṃ yatth'
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu āpo-dhātu tejo-dhātu vāyo-dhātūti.”’
-     69. ‘Atha kho so Kevaddha bhikkhu yena cattāro Mahā-
+     ^69. ‘Atha kho so Kevaddha bhikkhu yena cattāro Mahā-
 rājā ten' upasaṃkami, upasaṃkamitvā cattāro Mahārāje
 etad avoca: “Kattha nu kho āvuso ime cattāro mahā-
 bhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-dhātu
@@ -177,11 +177,11 @@ bhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-dhātu
 etad avocuṃ: “Mayam pi kho bhikkhu na jānāma yatth'
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-{dhātu} āpo-dhātu tejo-dhātu vāyo-dhātu. Atthi kho
-bhikkhu {Tāvatiṃsā}3 nāma devā amhehi abhikkantatarā ca
+bhikkhu {Tāvatiṃsā}#3 nāma devā amhehi abhikkantatarā ca
 paṇītatarā ca. Te kho evaṃ jāneyyuṃ yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     70. ‘Atha kho so Kevaddha bhikkhu yena Tāvatiṅsā
+     ^70. ‘Atha kho so Kevaddha bhikkhu yena Tāvatiṅsā
 devā ten' upasaṃkami, upasaṃkamitvā Tāvatiṅse deve etad
 avoca: “Kattha nu kho āvuso ime cattāro {mahābhūtā}
 aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-dhātu . . . pe
@@ -195,7 +195,7 @@ paṇītataro ca. So kho etaṃ jāneyya yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
 ~6.217
-     71. ‘Atha kho so Kevaddha bhikkhu yena Sakko devā-
+     ^71. ‘Atha kho so Kevaddha bhikkhu yena Sakko devā-
 nam indo ten upasaṃkami, upasaṃkamitvā Sakkaṃ devā-
 nam indaṃ etad avoca: “Kattha nu kho āvuso ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
@@ -204,11 +204,11 @@ dhātu . . . pe . . . vāyo-dhātūti?”
 bhikkhuṃ etad avoca: “Aham pi kho bhikkhu na jānāmi
 yatth' ime cattāro mahābhūtā aparisesā nirujjhanti, sey-
 {yathīdaṃ} paṭhavī-dhātu . . . pe . . . vāyo-dhātu. Atthi
-kho bhikkhu Yāmā nāma devā1 amhehi abhikkantatarā ca
+kho bhikkhu Yāmā nāma devā#1 amhehi abhikkantatarā ca
 paṇītatarā ca. Te kho etaṃ jāneyyuṃ yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     72. ‘Atha kho so Kevaddha bhikkhu yena Yāmā devā
+     ^72. ‘Atha kho so Kevaddha bhikkhu yena Yāmā devā
 ten' upasaṃkami, upasaṃkamitvā Yāme deve etad avoca:
 “Kattha nu kho āvuso ime cattāro mahābhūtā aparisesā
 nirujjhanti, seyyathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-
@@ -221,7 +221,7 @@ khu Suyāmo nāma deva-putto amhehi abhikkantataro ca
 paṇītataro ca. So kho etaṃ jāneyya yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ {paṭhavī}-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     73. ‘Atha kho so Kevaddha bhikkhu yena Suyāmo deva-
+     ^73. ‘Atha kho so Kevaddha bhikkhu yena Suyāmo deva-
 putto ten' upasaṃkami, upasaṃkamitvā Suyāmaṃ deva-
 puttaṃ etad avoca: “Kattha nu kho āvuso ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
@@ -231,11 +231,11 @@ khuṃ etad avoca: “Aham pi kho bhikkhu na jānāmi
 yatth' ime cattāro mahābhūtā aparisesā nirujjhanti, sey-
 ~6.218
 yathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-dhātu. Atthi
-kho bhikkhu Tusitā1 nāma devā amhehi abhikkantatarā ca
+kho bhikkhu Tusitā#1 nāma devā amhehi abhikkantatarā ca
 paṇītatarā ca. Te kho etaṃ jāneyyuṃ yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     74. ‘Atha kho so Kevaddha bhikkhu yena Tusitā devā
+     ^74. ‘Atha kho so Kevaddha bhikkhu yena Tusitā devā
 ten' upasaṃkami, upasaṃkamitvā Tusite deve etad avoca:
 “Kattha nu kho āvuso ime cattāro mahābhūtā aparisesā
 nirujjhanti, seyyathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-
@@ -244,11 +244,11 @@ dhātūti?”
 avocuṃ: “Mayam pi kho bhikkhu na jānāma yatth' ime
 cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātu. Atthi kho bhik-
-khu Santusito2 nāma deva-putto amhehi abhikkantataro
+khu Santusito#2 nāma deva-putto amhehi abhikkantataro
 ca paṇītataro ca. So kho etaṃ jāneyya yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     75. ‘Atha kho so Kevaddha bhikkhu yena Santusito
+     ^75. ‘Atha kho so Kevaddha bhikkhu yena Santusito
 deva-putto ten' upasaṃkami, upasaṃkamitvā Santusitaṃ
 deva-puttaṃ etad avoca: “Kattha nu kho āvuso ime
 cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
@@ -261,7 +261,7 @@ kho bhikkhu Nimmānaratī nāma devā amhehi abhikkanta-
 tarā ca paṇītatarā ca. Te kho etaṃ jāneyyuṃ yatth' ime
 cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātūti.”
-     76. ‘Atha3 kho so Kevaddha bhikkhu yena Nimmāna-
+     ^76. ‘Atha#3 kho so Kevaddha bhikkhu yena Nimmāna-
 ratī devā ten' upasaṃkami, upasaṃkamitvā Nimmānaratī
 deve etad avoca: “Kattha nu kho āvuso ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
@@ -275,7 +275,7 @@ nimmito nāma deva-putto amhehi abhikkantataro ca paṇī-
 tataro ca. So kho etaṃ jāneyya yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti.”
-     77. ‘Atha kho so Kevaddha bhikkhu yena Sunimmito
+     ^77. ‘Atha kho so Kevaddha bhikkhu yena Sunimmito
 deva-putto ten' upasaṃkami, upasaṃkamitvā Sunimittaṃ
 deva-puttaṃ etad avoca: “Kattha nu kho āvuso ime
 cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
@@ -288,7 +288,7 @@ kho bhikkhu Paranimmita-Vasavattī nāma devā amhehi
 abhikkantatarā ca paṇītatarā ca. Te kho etaṃ jāneyyuṃ
 yatth' ime cattāro mahābhūtā aparisesā nirujjhanti, sey-
 yathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-dhātūti.”
-     78. ‘Atha kho so Kevaddha bhikkhu yena Paranimmita-
+     ^78. ‘Atha kho so Kevaddha bhikkhu yena Paranimmita-
 Vasavattī devā ten' upasaṃkami, upasaṃkamitvā Paranim-
 mita-Vasavattī deve etad avoca: “Kattha nu kho āvuso
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
@@ -301,8 +301,8 @@ kho bhikkhu Vasavattī nāma deva-putto amhehi abhikkan-
 tataro ca paṇītataro ca. So kho etaṃ jāneyya yatth' ime
 cattāro mahābhūtā aparisesā nirujjhanti seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātūti.”
-     79. ‘Atha kho so Kevaddha bhikkhu yena Vasavattī
-deva-putto ten' upasaṃkami, upasaṃkamitvā Vasavattiṃ1
+     ^79. ‘Atha kho so Kevaddha bhikkhu yena Vasavattī
+deva-putto ten' upasaṃkami, upasaṃkamitvā Vasavattiṃ#1
 ~6.220
 deva-puttaṃ etad avoca: “Kattha nu kho āvuso ime
 cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
@@ -315,8 +315,8 @@ kho bhikkhu Brahma-kāyikā nāma devā amhehi abhikkan-
 tatarā ca paṇītatarā ca. Te kho etaṃ jāneyyuṃ yatth'
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātūti.”
-     80. ‘Atha kho so Kevaddha bhikkhu tathā-rūpaṃ samā-
-dhiṃ samāpajji1 yathā samāhite citte Brahma-yāniyo
+     ^80. ‘Atha kho so Kevaddha bhikkhu tathā-rūpaṃ samā-
+dhiṃ samāpajji#1 yathā samāhite citte Brahma-yāniyo
 maggo pātur ahosi. Atha kho so Kevaddha bhikkhu yena
 Brahma-kāyikā devā ten' upasaṃkami, upasaṃkamitvā
 Brahma-kāyike deve etad avoca: “Kattha nu kho āvuso
@@ -325,9 +325,9 @@ paṭhavī-dhātu . . . pe . . . vāyo-dhātūti?”
      ‘Evaṃ vutte Kevaddha Brahma-kāyikā devā taṃ bhik-
 khuṃ etad avocuṃ: “Mayam pi kho bhikkhu na jānāma
 yatth' ime cattāro mahābhūtā aparisesā nirujjhanti, sey-
-yathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-dhātu. 2Atthi
+yathīdaṃ paṭhavī-dhātu . . . pe . . . vāyo-dhātu. #2Atthi
 kho bhikkhu Brahmā Mahā-brahmā abhibhū anabhibhūto
-aññadatthu-daso {vasavattī} issaro kattā nimmātā3 seṭṭho
+aññadatthu-daso {vasavattī} issaro kattā nimmātā#3 seṭṭho
 sañjitā vasī pitā bhūtā-bhavyānaṃ amhehi abhikkantataro
 ca paṇītataro ca. So kho etaṃ jāneyya yatth' ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
@@ -339,32 +339,32 @@ nimittā dissanti āloko sañjāyati obhāso pātu bhavati
 Brahmā pātu {bhavissati}. {Brahmuno} etaṃ pubbe nimittaṃ
 pātubhāvāya yad idaṃ āloko sañjāyati obhāso pātu
 bhavatīti.”
-     81. ‘Atha kho so Kevaddha Mahā-brahmā na cirass' eva
+     ^81. ‘Atha kho so Kevaddha Mahā-brahmā na cirass' eva
 ~6.221
-pātur ahosi. Atha kho so Kevaddha bhikkhu yena so1
-Mahā-brahmā ten' upasaṃkami, upasaṃkamitvā2 Brah-
+pātur ahosi. Atha kho so Kevaddha bhikkhu yena so#1
+Mahā-brahmā ten' upasaṃkami, upasaṃkamitvā#2 Brah-
 {mānaṃ} etad avoca: “Kattha nu kho āvuso ime cattāro
 mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-
 dhātu . . . pe . . . vāyo-dhātūti?”
      ‘Evaṃ vutte Kevaddha so Mahā-brahmā taṃ bhikkhuṃ
 etad avoca:--
-     ‘“Aham asmi3 bhikkhu Brahmā Mahā-brahmā abhibhū
+     ‘“Aham asmi#3 bhikkhu Brahmā Mahā-brahmā abhibhū
 anabhibhūto aññadatthu-daso vasavattī issaro kattā nim-
 mātā seṭṭho sañjitā vasī pitā bhūta-bhavyānan ti.”
-     82. ‘Dutiyam pi kho Kevaddha so bhikkhu taṃ Brah-
-{mānaṃ} etad avoca: “Na kho ahan4 taṃ āvuso evaṃ
-pucchāmi: ‘Tvaṃ 'si5 Brahmā Mahā-brahmā abhibhū
+     ^82. ‘Dutiyam pi kho Kevaddha so bhikkhu taṃ Brah-
+{mānaṃ} etad avoca: “Na kho ahan#4 taṃ āvuso evaṃ
+pucchāmi: ‘Tvaṃ 'si#5 Brahmā Mahā-brahmā abhibhū
 anabhibhūto aññadatthu-daso vasavattī issaro kattā nim-
 mātā seṭṭho sañjitā vasī pitā bhūta-bhavyānan ti?’ Evañ
 ca kho ahan taṃ āvuso pucchāmi: “Kattha nu kho āvuso
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātūti?”
      ‘Dutiyam pi kho Kevaddha so Mahā-brahmā taṃ bhik-
-khuṃ etad avoca: “Aham asmi6 bhikkhu Brahmā Mahā-
+khuṃ etad avoca: “Aham asmi#6 bhikkhu Brahmā Mahā-
 brahmā abhibhū anabhibhūto aññadatthu-daso vasavattī
 issaro kattā nimmātā seṭṭho sañjitā vasī pitā bhūta-bhav-
 yānan ti.”
-     83. ‘Tatiyam pi kho Kevaddha so bhikkhu taṃ Mahā-
+     ^83. ‘Tatiyam pi kho Kevaddha so bhikkhu taṃ Mahā-
 brahmānaṃ etad avoca: “Na kho ahan taṃ āvuso evaṃ
 pucchāmi: ‘Tvaṃ 'si Brahmā Mahā-brahmā abhibhū
 anabhibhūto aññadatthu-daso vasavattī issaro kattā nim-
@@ -373,22 +373,22 @@ ca kho ahan taṃ āvuso pucchāmi: “Kattha nu kho āvuso
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu . . . pe . . . vāyo-dhātūti?”’
      ‘Atha kho so Kevaddha Mahā-brahmā taṃ bhikkhuṃ
-bāhāyaṃ gahetvā7 ekamantaṃ apanetvā taṃ bhikkhuṃ
+bāhāyaṃ gahetvā#7 ekamantaṃ apanetvā taṃ bhikkhuṃ
 ~6.222
-etad avoca: “Idha bhikkhu1 Brahma-kāyikā devā evaṃ
-jānanti: ‘2N' atthi kiñci Brahmuno {adiṭṭhaṃ}, n' atthi
+etad avoca: “Idha bhikkhu#1 Brahma-kāyikā devā evaṃ
+jānanti: ‘#2N' atthi kiñci Brahmuno {adiṭṭhaṃ}, n' atthi
 kiñci {Brahmuno} aviditam, n' atthi kiñci Brahmuno asacchi-
-katan ti.’ Tasmā ahaṃ3 tesaṃ sammukhā na vyākāsiṃ.
+katan ti.’ Tasmā ahaṃ#3 tesaṃ sammukhā na vyākāsiṃ.
 Aham pi kho bhikkhu na jānāmi yatth' ime cattāro mahā-
 bhūtā aparisesā nirujjhanti, seyyathīdaṃ paṭhavī-dhātu
  . . . pe . . . vāyo-dhātu. Tasmāt iha bhikkhu tumh' ev'
-etaṃ dukkataṃ,4 tumh' ev' etaṃ aparaddhaṃ, yaṃ tvaṃ
-taṃ Bhagavantaṃ atisitvā5 bahiddhā pariyeṭṭhiṃ6 āpajjasi
+etaṃ dukkataṃ,#4 tumh' ev' etaṃ aparaddhaṃ, yaṃ tvaṃ
+taṃ Bhagavantaṃ atisitvā#5 bahiddhā pariyeṭṭhiṃ#6 āpajjasi
 imassa pañhassa veyyākaraṇāya. Gaccha tvaṃ bhikkhu
 tam eva Bhagavantaṃ upasaṃkamitvā imaṃ pañhaṃ
 puccha, yathā ca te Bhagavā vyākaroti tathā naṃ dhārey-
 yāsīti.”
-     84. ‘Atha kho so Kevaddha bhikkhu seyyathā pi nāma
+     ^84. ‘Atha kho so Kevaddha bhikkhu seyyathā pi nāma
 balavā puriso sammiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ
 vā bāhaṃ sammiñjeyya, evam eva Brahma-loke antarahito
 mama purato pātur ahosi. Atha kho Kevaddha bhikkhu
@@ -397,7 +397,7 @@ kho Kevaddha so bhikkhu maṃ etad avoca: “Kattha nu
 kho bhante ime cattāro mahābhūtā aparisesā nirujjhanti,
 seyyathīdaṃ paṭhavī-dhātu āpo-dhātu tejo-dhātu vāyo-
 dhātūti?”
-     85. ‘Evaṃ vutte ahaṃ Kevaddha taṃ bhikkhuṃ etad
+     ^85. ‘Evaṃ vutte ahaṃ Kevaddha taṃ bhikkhuṃ etad
 avoca: “Bhūtapubbaṃ bhikkhu sāmuddikā vāṇijā tīra-
 dassiṃ sakuṇaṃ gahetvā nāvāya samuddaṃ ajjhogāhanti.
 Te atīra-dakkhiṇiyā nāvāya tīra-dassiṃ sakuṇaṃ muñcanti.
@@ -406,16 +406,16 @@ disaṃ, gacchati pacchimaṃ disaṃ, gacchati uttaraṃ
 disaṃ, gacchati uddhaṃ, gacchati anudisaṃ. Sace so
 samantā tīraṃ passati, tathā gatako va hoti. Sace pana
 so samantā tīraṃ na passati, tam eva nāvaṃ pacchā-
-gacchati. Evam eva kho tvaṃ bhikkhu yāva7 yato yāva
+gacchati. Evam eva kho tvaṃ bhikkhu yāva#7 yato yāva
 ~6.223
 Brahma-lokā pariyesamāno imassa pañhassa veyyākaraṇaṃ
-nājjhagā, atha maṃ1 yeva santike paccāgato. Na kho eso
+nājjhagā, atha maṃ#1 yeva santike paccāgato. Na kho eso
 bhikkhu pañho evaṃ pucchitabbo: ‘Kattha nu kho bhante
 ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathīdaṃ
 paṭhavī-dhātu āpo-dhātu tejo-dhātu vāyo-dhātūti?’ Evañ
 ca kho eso bhikkhu pañho pucchitabbo:
-            Kattha āpo ca paṭhavī2 tejo vāyo na gādhati?
-            Kattha dīghañ ca rassañ ca {aṇuṃ}3 thūlaṃ subhāsu-
+            Kattha āpo ca paṭhavī#2 tejo vāyo na gādhati?
+            Kattha dīghañ ca rassañ ca {aṇuṃ}#3 thūlaṃ subhāsu-
               bhaṃ?
             Kattha nāmañ ca rūpañ ca asesaṃ uparujjhatīti?
      Tatra veyyākaraṇaṃ bhavati:
@@ -426,5 +426,5 @@ ca kho eso bhikkhu pañho pucchitabbo:
             Ettha nāmañ ca rūpañ ca asesaṃ uparujjhati,
             Viññāṇassa nirodhena etth' etaṃ uparujjhatīti.”’
      Idam avoca Bhagavā. Attamano Kevaddho gahapati-
-putto4 bhāsitaṃ abhinandīti.
+putto#4 bhāsitaṃ abhinandīti.
                         KEVADDHA-SUTTANTAṂ.5
