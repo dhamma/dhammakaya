@@ -46,7 +46,11 @@ var parseParagraph=function(content) {
 	});
 	return content;
 }
-
+const replaceFootNote=function(content){
+	return content.replace(/\{(\d+)\}/g,function(m,m1){
+		return "#"+m1;
+	});
+};
 var convert=function(data,outputfolder) {
 	var prevbook="", bookn=1 , voln=1 ,lastprefix="";
 	writefile=function() {
@@ -62,7 +66,11 @@ var convert=function(data,outputfolder) {
 		}
 	
 		if (out.length && writeToDisk) {
-			fs.writeFileSync(outputfolder+filename,out.join('\n'),'utf8');	
+			var content=out.join('\n');
+			if (voln<7) {
+				content=replaceFootNote(content);
+			}
+			fs.writeFileSync(outputfolder+filename,content,'utf8');	
 			console.log(filename,out.length,'lines')
 		}
 		out=[];
