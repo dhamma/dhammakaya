@@ -1,9 +1,7 @@
-const fs=require('fs')
 const sourcefolder='genxml/'; //this is in htll format
 const targetfolder='genhtll/';
-let booklst=fs.readFileSync('./vin.lst','utf8').replace(/\r\n/g,'\n').split('\n');
-const ext=booklst[0].substr(booklst[0].length-4);
-booklst=booklst.map(b=>b.substr(0,b.length-4));
+const booklst=["vin1","vin2","vin3","vin4","vin5"];
+
 
 const articleends={
 	"vin1":{//10
@@ -70,30 +68,6 @@ const articleends={
 		"last":"PARIVĀRA XIX"
 	}
 }
-const breakbook=(book)=>{
-	const writefile=(article,till)=>{
-		till=till||lines.length
-		const targetfn=book+"-"+(++juan)+".txt";
-		const out=lines.slice(start,till);
-		console.log("writing",targetfn,"lines",out.length)
-		out.splice(1,0,"^"+article);
-		fs.writeFileSync(targetfolder+targetfn,out.join("\n"),"utf8")
-	}
 
-	const lines=fs.readFileSync(sourcefolder+book+ext,"utf8").split(/\r?\n/);
 
-	const articles=articleends[book];
-	let start=0,juan=0;
-	if (!articles)return;
-	for (let i=0;i<lines.length;i++) {
-		const line=lines[i];
-		if (line[0]!=="~") continue;
-		const article=articles[line];
-		if (article) {
-			writefile(article,i);
-			start=i;
-		}
-	}
-	writefile(articles.last);
-}
-booklst.forEach(breakbook);
+require("./breakbook")(sourcefolder,targetfolder,booklst,articleends);
